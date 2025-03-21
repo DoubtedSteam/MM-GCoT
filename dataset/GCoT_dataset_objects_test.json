@@ -1,0 +1,2963 @@
+[
+    {
+        "id": 8,
+        "img": "vg/VG_100K/2342776.jpg",
+        "question": "What is the large white object on the wooden butcher block dinner table near the yellow mug?",
+        "cot": "Step 1: The wooden butcher block dinner table is at [0.000, 0.350, 0.998, 0.648]\nStep 2: The yellow mug near the placemat is at [0.004, 0.654, 0.246, 0.324]\nStep 3: The large white object on the table is at [0.366, 0.448, 0.358, 0.190]",
+        "answer": "Bowl",
+        "coordinate": "[0.366, 0.448, 0.358, 0.190]",
+        "qualified": false
+    },
+    {
+        "id": 14,
+        "img": "vg/VG_100K/2349570.jpg",
+        "question": "What is the watercraft under the bridge over the large wide river?",
+        "cot": "Step 1: The large wide river is at [0.002, 0.573, 0.996, 0.424]\nStep 2: The bridge over the river is at [0.000, 0.000, 0.994, 0.491]\nStep 3: The watercraft under the bridge is at [0.218, 0.437, 0.344, 0.243]",
+        "answer": "Boat",
+        "coordinate": "[0.218, 0.437, 0.344, 0.243]",
+        "qualified": false
+    },
+    {
+        "id": 16,
+        "img": "vg/VG_100K/2356126.jpg",
+        "question": "What is behind the white plate that has scalloped potatoes?",
+        "cot": "Step 1: The white plate is at [0.002, 0.450, 0.996, 0.547]\nStep 2: The full glass of beer behind the plate is at [0.214, 0.027, 0.156, 0.273]",
+        "answer": "Bear",
+        "coordinate": "[0.214, 0.027, 0.156, 0.273]",
+        "qualified": false
+    },
+    {
+        "id": 28,
+        "img": "vg/VG_100K/2335407.jpg",
+        "question": "What is behind the man eating a slice of pizza who has a young man's girlie calendar displaying April?",
+        "cot": "Step 1: The man eating a slice of pizza is at [0.091, 0.055, 0.702, 0.942].\nStep 2: The young man's girlie calendar displaying April is at [0.019, 0.015, 0.160, 0.269].\nStep 3: The yellow poster behind the man is at [0.277, 0.000, 0.491, 0.188].",
+        "answer": "Poster",
+        "coordinate": "[0.277, 0.000, 0.491, 0.188]",
+        "qualified": false
+    },
+    {
+        "id": 51,
+        "img": "vg/VG_100K/150451.jpg",
+        "question": "What is next to the blue bus with a yellow license plate?",
+        "cot": "Step 1: The blue bus with a yellow license plate is at [0.165, 0.163, 0.692, 0.684].\nStep 2: The guy standing next to the blue bus is at [0.832, 0.384, 0.083, 0.449].",
+        "answer": "Man",
+        "coordinate": "[0.832, 0.384, 0.083, 0.449]",
+        "qualified": false
+    },
+    {
+        "id": 55,
+        "img": "vg/VG_100K/2320475.jpg",
+        "question": "What is behind the young man wearing a white shirt and red tie?",
+        "cot": "Step 1: The young man wearing a white shirt and red tie is at [0.000, 0.120, 0.862, 0.876].\nStep 2: The brick wall behind the young man is at [0.159, 0.002, 0.838, 0.754].",
+        "answer": "Wall",
+        "coordinate": "[0.159, 0.002, 0.838, 0.754]",
+        "qualified": false
+    },
+    {
+        "id": 69,
+        "img": "vg/VG_100K_2/2408991.jpg",
+        "question": "What is in front of the dugout where baseball players are waiting for their turn underneath the upper stands?",
+        "cot": "Step 1: The upper stands with a large crowd are at [0.012, 0.088, 0.981, 0.162].\nStep 2: The dugout with baseball players is at [0.017, 0.304, 0.966, 0.572].\nStep 3: The objects in front of the dugout are at [0.000, 0.588, 0.993, 0.410].",
+        "answer": "Bat",
+        "coordinate": "[0.000, 0.588, 0.993, 0.410]",
+        "qualified": false
+    },
+    {
+        "id": 89,
+        "img": "vg/VG_100K/2346086.jpg",
+        "question": "What is the black dog wearing on its head?",
+        "cot": "Step 1: The black dog is at [0.006, 0.176, 0.798, 0.821]\nStep 2: The crocheted hat on top of the dog's head is at [0.178, 0.101, 0.682, 0.469]",
+        "answer": "Hat",
+        "coordinate": "[0.178, 0.101, 0.682, 0.469]",
+        "qualified": false
+    },
+    {
+        "id": 111,
+        "img": "vg/VG_100K_2/2384528.jpg",
+        "question": "What is on the side of the yellow bus next to the white and red bus?",
+        "cot": "Step 1: The white and red bus is at [0.204, 0.153, 0.692, 0.715]\nStep 2: The yellow bus next to the white and red bus is at [0.000, 0.159, 0.250, 0.652]\nStep 3: The yellow doors on the side of the yellow bus are at [0.050, 0.255, 0.122, 0.535]",
+        "answer": "Door",
+        "coordinate": "[0.050, 0.255, 0.122, 0.535]",
+        "qualified": false
+    },
+    {
+        "id": 136,
+        "img": "vg/VG_100K/2320310.jpg",
+        "question": "What is the man across the net with a white border wearing?",
+        "cot": "Step 1: The net with a white border is at [0.050, 0.233, 0.904, 0.760]\nStep 2: The man playing tennis across the net is at [0.348, 0.023, 0.480, 0.973]\nStep 3: The pants worn by the man are at [0.464, 0.570, 0.252, 0.430]",
+        "answer": "Pants",
+        "coordinate": "[0.464, 0.570, 0.252, 0.430]",
+        "qualified": false
+    },
+    {
+        "id": 159,
+        "img": "vg/VG_100K_2/2411901.jpg",
+        "question": "What is the small black thing in front of the mama bear in the green grass?",
+        "cot": "Step 1: The green grass is at [0.004, 0.004, 0.994, 0.993]\nStep 2: The mama bear with a collar in the grass is at [0.066, 0.199, 0.504, 0.599]\nStep 3: The small black thing in front of the mama bear is at [0.704, 0.422, 0.250, 0.357]",
+        "answer": "Bear",
+        "coordinate": "[0.704, 0.422, 0.250, 0.357]",
+        "qualified": false
+    },
+    {
+        "id": 167,
+        "img": "vg/VG_100K_2/2391041.jpg",
+        "question": "What is next to the big bear with the head of a large black bear?",
+        "cot": "Step 1: The big bear with the head of a large black bear is at [0.396, 0.394, 0.168, 0.224].\nStep 2: The small tree with long branches next to the bear is at [0.000, 0.003, 0.248, 0.490].",
+        "answer": "Tree",
+        "coordinate": "[0.000, 0.003, 0.248, 0.490]",
+        "qualified": false
+    },
+    {
+        "id": 186,
+        "img": "vg/VG_100K/2368935.jpg",
+        "question": "What is the object behind the clock on the post standing on the brick sidewalk?",
+        "cot": "Step 1: The brick sidewalk is at [0.000, 0.708, 0.988, 0.288]\nStep 2: The clock on a post standing on the sidewalk is at [0.138, 0.240, 0.261, 0.698]\nStep 3: The object behind the clock is at [0.003, 0.000, 0.411, 0.642]",
+        "answer": "Tree",
+        "coordinate": "[0.003, 0.000, 0.411, 0.642]",
+        "qualified": false
+    },
+    {
+        "id": 196,
+        "img": "vg/VG_100K/2363205.jpg",
+        "question": "What is the man holding?",
+        "cot": "Step 1: The man is at [0.237, 0.050, 0.485, 0.948]  \nStep 2: The object being held by the man is at [0.280, 0.150, 0.155, 0.058]  ",
+        "answer": "Controller",
+        "coordinate": "[0.280, 0.150, 0.155, 0.058]",
+        "qualified": false
+    },
+    {
+        "id": 203,
+        "img": "vg/VG_100K_2/2417233.jpg",
+        "question": "What is the yellow thing on the train that is on the train tracks?",
+        "cot": "Step 1: The two sets of train tracks are at [0.006, 0.389, 0.990, 0.599]\nStep 2: The front of the yellow train on the train tracks is at [0.214, 0.226, 0.570, 0.587]\nStep 3: The yellow thing on the train is at [0.296, 0.280, 0.106, 0.398]",
+        "answer": "Door",
+        "coordinate": "[0.296, 0.280, 0.106, 0.398]",
+        "qualified": false
+    },
+    {
+        "id": 213,
+        "img": "vg/VG_100K_2/2405190.jpg",
+        "question": "What is next to the white toilet with circles and green colors on the top of the lid?",
+        "cot": "Step 1: The white toilet with circles and green colors on the top of the lid is at [0.374, 0.408, 0.272, 0.557]\nStep 2: The side of a bathtub next to the toilet is at [0.538, 0.541, 0.462, 0.459]",
+        "answer": "Bathtub",
+        "coordinate": "[0.538, 0.541, 0.462, 0.459]",
+        "qualified": false
+    },
+    {
+        "id": 231,
+        "img": "vg/VG_100K/2343123.jpg",
+        "question": "What is the orange and yellow thing labeling the beautiful and delicious sub on the meat and cheese sandwich?",
+        "cot": "Step 1: The meat and cheese sandwich is at [0.050, 0.352, 0.502, 0.347]\nStep 2: The beautiful and delicious sub on the sandwich is at [0.058, 0.363, 0.474, 0.307]\nStep 3: The orange and yellow thing labeling the sub is at [0.546, 0.325, 0.292, 0.269]",
+        "answer": "Card",
+        "coordinate": "[0.546, 0.325, 0.292, 0.269]",
+        "qualified": false
+    },
+    {
+        "id": 239,
+        "img": "vg/VG_100K_2/2414042.jpg",
+        "question": "What is on the plate with black trim?",
+        "cot": "Step 1: The plate with black trim is at [0.002, 0.051, 0.990, 0.936]\nStep 2: The piece of cake on the plate is at [0.232, 0.101, 0.436, 0.427]",
+        "answer": "Dessert",
+        "coordinate": "[0.232, 0.101, 0.436, 0.427]",
+        "qualified": false
+    },
+    {
+        "id": 245,
+        "img": "vg/VG_100K_2/2380519.jpg",
+        "question": "What is attached to the bed that has several mattresses stacked in the corner?",
+        "cot": "Step 1: The bed with several mattresses stacked in the corner is at [0.268, 0.506, 0.730, 0.491].\nStep 2: The wannabe headboard made out of wood is attached to the bed at [0.784, 0.503, 0.214, 0.135].",
+        "answer": "Headboard",
+        "coordinate": "[0.784, 0.503, 0.214, 0.135]",
+        "qualified": false
+    },
+    {
+        "id": 251,
+        "img": "vg/VG_100K_2/2409553.jpg",
+        "question": "What is on the dresser next to the wooden work desk?",
+        "cot": "Step 1: The wooden work desk is at [0.124, 0.278, 0.658, 0.719]\nStep 2: The dresser next to the desk is at [0.726, 0.260, 0.270, 0.737]\nStep 3: The metal stand of a lamp on the dresser is at [0.874, 0.000, 0.114, 0.332]",
+        "answer": "Lamp",
+        "coordinate": "[0.874, 0.000, 0.114, 0.332]",
+        "qualified": false
+    },
+    {
+        "id": 262,
+        "img": "vg/VG_100K/2348687.jpg",
+        "question": "What is the white device on the mouse pad with some leaves on it?",
+        "cot": "Step 1: The mouse pad with some leaves on it is at [0.052, 0.414, 0.946, 0.584]\nStep 2: The white device on top of the mouse pad is at [0.111, 0.362, 0.515, 0.452]",
+        "answer": "IPod",
+        "coordinate": "[0.111, 0.362, 0.515, 0.452]",
+        "qualified": false
+    },
+    {
+        "id": 269,
+        "img": "vg/VG_100K_2/2391789.jpg",
+        "question": "What is behind the Amtrak passenger train that has a blue and white front car?",
+        "cot": "Step 1: The Amtrak passenger train on tracks is at [0.000, 0.234, 0.866, 0.432].\nStep 2: The blue and white front car is part of the train at [0.230, 0.234, 0.638, 0.419].\nStep 3: The object behind the train is at [0.826, 0.295, 0.168, 0.282].",
+        "answer": "Tree",
+        "coordinate": "[0.826, 0.295, 0.168, 0.282]",
+        "qualified": false
+    },
+    {
+        "id": 275,
+        "img": "vg/VG_100K/2371707.jpg",
+        "question": "What is the orange thing on the head of the girl playing tennis who is wearing a white tennis skirt?",
+        "cot": "Step 1: The girl playing tennis is wearing a white tennis skirt.\nStep 2: The orange thing on her head is at [0.210, 0.081, 0.166, 0.180].",
+        "answer": "Hat",
+        "coordinate": "[0.210, 0.081, 0.166, 0.180]",
+        "qualified": false
+    },
+    {
+        "id": 279,
+        "img": "vg/VG_100K_2/2410412.jpg",
+        "question": "What is inside the white mug that has a cup handle?",
+        "cot": "Step 1: The white mug is at [0.098, 0.187, 0.336, 0.512]\nStep 2: The cup handle is at [0.202, 0.320, 0.106, 0.336]\nStep 3: The brown and tan liquid inside the mug is at [0.110, 0.190, 0.316, 0.060]",
+        "answer": "Coffee",
+        "coordinate": "[0.110, 0.190, 0.316, 0.060]",
+        "qualified": false
+    },
+    {
+        "id": 293,
+        "img": "vg/VG_100K/2345353.jpg",
+        "question": "What is draping over the middle grey and brown elephant that has an elephant's ear?",
+        "cot": "Step 1: The middle grey and brown elephant is at [0.234, 0.195, 0.490, 0.512]\nStep 2: The elephant's ear is at [0.478, 0.237, 0.100, 0.203]\nStep 3: The chains draping over the elephant are at [0.552, 0.435, 0.062, 0.216]",
+        "answer": "Chain",
+        "coordinate": "[0.552, 0.435, 0.062, 0.216]",
+        "qualified": false
+    },
+    {
+        "id": 296,
+        "img": "vg/VG_100K/2367916.jpg",
+        "question": "What is on the tall orange Fanta banner that is on the snow ramp?",
+        "cot": "Step 1: The snow ramp is at [0.002, 0.857, 0.998, 0.140]\nStep 2: The tall orange Fanta banner on the snow ramp is at [0.298, 0.301, 0.166, 0.597]\nStep 3: The Fanta logo on the banner is at [0.314, 0.719, 0.110, 0.173]",
+        "answer": "Logo",
+        "coordinate": "[0.314, 0.719, 0.110, 0.173]",
+        "qualified": false
+    },
+    {
+        "id": 311,
+        "img": "vg/VG_100K/2350132.jpg",
+        "question": "What is the man making a juice drink wearing on his head?",
+        "cot": "Step 1: The man making a juice drink is at [0.135, 0.178, 0.553, 0.814]\nStep 2: The plaid hat on the man's head is at [0.498, 0.174, 0.195, 0.156]",
+        "answer": "Hat",
+        "coordinate": "[0.498, 0.174, 0.195, 0.156]",
+        "qualified": false
+    },
+    {
+        "id": 335,
+        "img": "vg/VG_100K_2/2417023.jpg",
+        "question": "What is inside the white ceramic bowl on the black granite counter?",
+        "cot": "Step 1: The black granite counter is at [0.002, 0.005, 0.996, 0.992]\nStep 2: The white ceramic bowl on the counter is at [0.106, 0.280, 0.750, 0.680]\nStep 3: The granola inside the bowl is at [0.292, 0.368, 0.472, 0.405]",
+        "answer": "Cereal",
+        "coordinate": "[0.292, 0.368, 0.472, 0.405]",
+        "qualified": false
+    },
+    {
+        "id": 341,
+        "img": "vg/VG_100K_2/2403197.jpg",
+        "question": "What is the slightly open thing above the white refrigerator behind the young man?",
+        "cot": "Step 1: The white refrigerator behind the young man is at [0.003, 0.346, 0.331, 0.652].\nStep 2: The slightly open thing above the refrigerator is at [0.000, 0.000, 0.213, 0.314].",
+        "answer": "Cabinet",
+        "coordinate": "[0.000, 0.000, 0.213, 0.314]",
+        "qualified": false
+    },
+    {
+        "id": 368,
+        "img": "vg/VG_100K_2/2386624.jpg",
+        "question": "What is the object by the black cat sitting by the upstairs window?",
+        "cot": "Step 1: The upstairs window is at [0.048, 0.000, 0.827, 0.516]\nStep 2: The black cat by the window is at [0.341, 0.080, 0.608, 0.692]\nStep 3: The object by the black cat is at [0.051, 0.470, 0.373, 0.436]",
+        "answer": "Elephant",
+        "coordinate": "[0.051, 0.470, 0.373, 0.436]",
+        "qualified": false
+    },
+    {
+        "id": 381,
+        "img": "vg/VG_100K/2373718.jpg",
+        "question": "What is the boy holding a baseball bat and wearing white pants also wearing on his head?",
+        "cot": "Step 1: The boy holding a baseball bat is at [0.376, 0.248, 0.578, 0.750].\nStep 2: The boy is wearing white pants at [0.606, 0.810, 0.298, 0.186].\nStep 3: The object on the boy's head is at [0.550, 0.244, 0.218, 0.212].",
+        "answer": "Helmet",
+        "coordinate": "[0.550, 0.244, 0.218, 0.212]",
+        "qualified": false
+    },
+    {
+        "id": 402,
+        "img": "vg/VG_100K_2/2404645.jpg",
+        "question": "What is on the wall behind the girl eating a hot dog?",
+        "cot": "Step 1: The girl eating a hot dog is at [0.128, 0.081, 0.834, 0.910].\nStep 2: The wall behind the girl is at [0.000, 0.021, 0.988, 0.973].\nStep 3: The framed poster on the wall is at [0.506, 0.006, 0.488, 0.318].",
+        "answer": "Poster",
+        "coordinate": "[0.506, 0.006, 0.488, 0.318]",
+        "qualified": false
+    },
+    {
+        "id": 429,
+        "img": "vg/VG_100K/2316596.jpg",
+        "question": "What is the frosted thing in the bathroom with white walls?",
+        "cot": "Step 1: The bathroom with white walls is at [0.006, 0.002, 0.991, 0.992].\nStep 2: The frosted thing in the bathroom is at [0.000, 0.002, 0.532, 0.390].",
+        "answer": "Window",
+        "coordinate": "[0.000, 0.002, 0.532, 0.390]",
+        "qualified": false
+    },
+    {
+        "id": 439,
+        "img": "vg/VG_100K_2/2384885.jpg",
+        "question": "What is on the windshield of the white car?",
+        "cot": "Step 1: The white car is at [0.002, 0.320, 0.992, 0.675]\nStep 2: The windshield of the white car is at [0.050, 0.347, 0.936, 0.403]\nStep 3: The permit stickers are stuck on the windshield at [0.848, 0.595, 0.080, 0.117]",
+        "answer": "Stickers",
+        "coordinate": "[0.848, 0.595, 0.080, 0.117]",
+        "qualified": false
+    },
+    {
+        "id": 447,
+        "img": "vg/VG_100K/2357610.jpg",
+        "question": "What is the man wearing a short-sleeved blue shirt holding in front of him?",
+        "cot": "Step 1: The man wearing a short-sleeved blue shirt is at [0.372, 0.029, 0.502, 0.579].\nStep 2: The tall beer can in front of the man is at [0.534, 0.453, 0.066, 0.240].",
+        "answer": "Beer",
+        "coordinate": "[0.534, 0.453, 0.066, 0.240]",
+        "qualified": false
+    },
+    {
+        "id": 453,
+        "img": "vg/VG_100K_2/2384105.jpg",
+        "question": "What is next to the large brown dog at home?",
+        "cot": "Step 1: The home is at [0.006, 0.008, 0.992, 0.973]\nStep 2: The large brown dog at home is at [0.052, 0.261, 0.592, 0.653]\nStep 3: The thing next to the large brown dog is at [0.476, 0.405, 0.270, 0.320]",
+        "answer": "Teddy bear",
+        "coordinate": "[0.476, 0.405, 0.270, 0.320]",
+        "qualified": false
+    },
+    {
+        "id": 477,
+        "img": "vg/VG_100K/1159977.jpg",
+        "question": "What is the ornate gold object near the window in the bedroom next to the ornate gold bed frame?",
+        "cot": "Step 1: The window in the bedroom is at [0.319, 0.129, 0.138, 0.277]\nStep 2: The ornate gold bed frame near the window is at [0.000, 0.449, 0.996, 0.550]\nStep 3: The ornate gold object next to the bed is at [0.711, 0.379, 0.281, 0.284]",
+        "answer": "Chair",
+        "coordinate": "[0.711, 0.379, 0.281, 0.284]",
+        "qualified": false
+    },
+    {
+        "id": 482,
+        "img": "vg/VG_100K/2355392.jpg",
+        "question": "What is the area by the man in the red and white baseball uniform on the baseball field?",
+        "cot": "Step 1: The baseball field covered in manicured green grass is at [0.010, 0.006, 0.978, 0.660].\nStep 2: The man in the red and white baseball uniform on the field is at [0.120, 0.152, 0.564, 0.718].\nStep 3: The area by the man is at [0.012, 0.574, 0.972, 0.424].",
+        "answer": "Mound",
+        "coordinate": "[0.012, 0.574, 0.972, 0.424]",
+        "qualified": false
+    },
+    {
+        "id": 512,
+        "img": "vg/VG_100K_2/2416262.jpg",
+        "question": "What is the kite shaped like in the clear sky above the kites?",
+        "cot": "Step 1: The clear sky above the kites is at [0.000, 0.008, 0.740, 0.768]\nStep 2: The paper plane hanging on the clear sky is at [0.170, 0.077, 0.636, 0.755]\nStep 3: The kite shaped like the paper plane is at [0.132, 0.061, 0.684, 0.763]",
+        "answer": "Airplane",
+        "coordinate": "[0.132, 0.061, 0.684, 0.763]",
+        "qualified": false
+    },
+    {
+        "id": 592,
+        "img": "vg/VG_100K/2360440.jpg",
+        "question": "What is the black thing on the brown bear in the green rippling water?",
+        "cot": "Step 1: The green rippling water is at [0.012, 0.232, 0.984, 0.748]\nStep 2: The brown bear in the water is at [0.506, 0.272, 0.294, 0.353]\nStep 3: The black thing on the brown bear is at [0.292, 0.490, 0.030, 0.048]",
+        "answer": "Nose",
+        "coordinate": "[0.292, 0.490, 0.030, 0.048]",
+        "qualified": false
+    },
+    {
+        "id": 596,
+        "img": "vg/VG_100K/2370933.jpg",
+        "question": "What is the girl doing near the big brown teddy bear sitting in the black chair?",
+        "cot": "Step 1: The black chair is at [0.014, 0.159, 0.418, 0.759]\nStep 2: The big brown teddy bear sitting in the chair is at [0.114, 0.039, 0.408, 0.782]\nStep 3: The girl running by the teddy bear is at [0.460, 0.310, 0.316, 0.628]",
+        "answer": "Running",
+        "coordinate": "[0.460, 0.310, 0.316, 0.628]",
+        "qualified": false
+    },
+    {
+        "id": 600,
+        "img": "vg/VG_100K_2/2397413.jpg",
+        "question": "What is the object behind the man in the black, white, and green photo who has a green tie?",
+        "cot": "Step 1: The man in the black, white, and green photo is at [0.052, 0.007, 0.944, 0.986].\nStep 2: The green tie the man has is at [0.748, 0.766, 0.198, 0.231].\nStep 3: The object behind the man is at [0.126, 0.007, 0.390, 0.651].",
+        "answer": "Lamp",
+        "coordinate": "[0.126, 0.007, 0.390, 0.651]",
+        "qualified": false
+    },
+    {
+        "id": 609,
+        "img": "vg/VG_100K_2/2384563.jpg",
+        "question": "What is the pink thing on the brown pit bull sitting on a couch?",
+        "cot": "Step 1: The brown pit bull sitting on a couch is at [0.020, 0.101, 0.924, 0.840]\nStep 2: The pink thing on the brown pit bull is at [0.188, 0.507, 0.092, 0.109]",
+        "answer": "Nose",
+        "coordinate": "[0.188, 0.507, 0.092, 0.109]",
+        "qualified": false
+    },
+    {
+        "id": 611,
+        "img": "vg/VG_100K/2355225.jpg",
+        "question": "What is the brown thing leaning against the blue painted wall behind the stuffed toys?",
+        "cot": "Step 1: The stuffed toys on the tan carpet are at [0.044, 0.047, 0.848, 0.916]\nStep 2: The blue painted wall behind the stuffed toys is at [0.206, 0.008, 0.672, 0.550]\nStep 3: The brown thing leaning against the blue painted wall is at [0.386, 0.042, 0.508, 0.911]",
+        "answer": "Teddy bear",
+        "coordinate": "[0.386, 0.042, 0.508, 0.911]",
+        "qualified": false
+    },
+    {
+        "id": 620,
+        "img": "vg/VG_100K/2357569.jpg",
+        "question": "What is next to the teddy bear wearing a blue outfit on the beige basket?",
+        "cot": "Step 1: The beige basket is at [0.048, 0.636, 0.867, 0.340].\nStep 2: The teddy bear wearing a blue outfit on the beige basket is at [0.453, 0.372, 0.306, 0.352].\nStep 3: The object next to the teddy bear is at [0.669, 0.422, 0.292, 0.328].",
+        "answer": "Frame",
+        "coordinate": "[0.669, 0.422, 0.292, 0.328]",
+        "qualified": false
+    },
+    {
+        "id": 629,
+        "img": "vg/VG_100K/2361260.jpg",
+        "question": "What is underneath the brown and tan suitcase on the bed?",
+        "cot": "Step 1: The bed is at [0.006, 0.866, 0.991, 0.128]\nStep 2: The brown and tan suitcase on the bed is at [0.060, 0.192, 0.937, 0.760]\nStep 3: The wrinkled bed sheets underneath the suitcase are at [0.000, 0.860, 0.997, 0.138]",
+        "answer": "Sheet",
+        "coordinate": "[0.000, 0.860, 0.997, 0.138]",
+        "qualified": false
+    },
+    {
+        "id": 668,
+        "img": "vg/VG_100K_2/2405452.jpg",
+        "question": "What is the red and black thing on the man laying on the yellow pillowcase?",
+        "cot": "Step 1: The yellow pillowcase is at [0.444, 0.168, 0.554, 0.573]\nStep 2: The man laying on the yellow pillowcase is at [0.000, 0.315, 0.866, 0.683]\nStep 3: The red and black thing on the man is at [0.366, 0.480, 0.454, 0.517]",
+        "answer": "Shirt",
+        "coordinate": "[0.366, 0.480, 0.454, 0.517]",
+        "qualified": false
+    },
+    {
+        "id": 688,
+        "img": "vg/VG_100K/2370933.jpg",
+        "question": "What is next to the black lamppost to the right of the girl running by the teddy bear?",
+        "cot": "Step 1: The girl running by the teddy bear is at [0.460, 0.310, 0.316, 0.628].\nStep 2: The black lamppost to the right of the girl is at [0.818, 0.005, 0.150, 0.561].\nStep 3: The object next to the black lamppost is at [0.456, 0.271, 0.248, 0.347].",
+        "answer": "Garbage can",
+        "coordinate": "[0.456, 0.271, 0.248, 0.347]",
+        "qualified": false
+    },
+    {
+        "id": 699,
+        "img": "vg/VG_100K_2/2401000.jpg",
+        "question": "What is above the row of trees in the background?",
+        "cot": "Step 1: The row of trees in the background is at [0.000, 0.126, 1.000, 0.316].\nStep 2: The cloudless blue sky above the trees is at [0.000, 0.004, 0.997, 0.412].",
+        "answer": "Sky",
+        "coordinate": "[0.000, 0.004, 0.997, 0.412]",
+        "qualified": false
+    },
+    {
+        "id": 700,
+        "img": "vg/VG_100K_2/185.jpg",
+        "question": "What is on the concert grand piano that is on the gray concert stage?",
+        "cot": "Step 1: The gray concert stage is at [0.004, 0.509, 0.994, 0.476]\nStep 2: The concert grand piano on the stage is at [0.000, 0.142, 0.762, 0.854]\nStep 3: The thing on the concert grand piano is at [0.000, 0.150, 0.603, 0.581]",
+        "answer": "Lid",
+        "coordinate": "[0.000, 0.150, 0.603, 0.581]",
+        "qualified": false
+    },
+    {
+        "id": 708,
+        "img": "vg/VG_100K_2/2386290.jpg",
+        "question": "What is behind the gray elephants standing on the grass?",
+        "cot": "Step 1: The grass the elephants are standing on is at [0.002, 0.703, 0.996, 0.294]\nStep 2: The gray elephants on the grass are at [0.070, 0.495, 0.874, 0.417]\nStep 3: The green trees behind the elephants are at [0.000, 0.000, 0.998, 0.739]",
+        "answer": "Tree",
+        "coordinate": "[0.000, 0.000, 0.998, 0.739]",
+        "qualified": false
+    },
+    {
+        "id": 713,
+        "img": "vg/VG_100K/2373286.jpg",
+        "question": "What is the silver, metal structure behind the two bears?",
+        "cot": "Step 1: The first bear is at [0.004, 0.291, 0.700, 0.703]\nStep 2: The second bear is at [0.428, 0.099, 0.564, 0.895]\nStep 3: The silver, metal structure behind the bears is at [0.000, 0.003, 0.998, 0.790]",
+        "answer": "Fence",
+        "coordinate": "[0.000, 0.003, 0.998, 0.790]",
+        "qualified": false
+    },
+    {
+        "id": 719,
+        "img": "vg/VG_100K/2324526.jpg",
+        "question": "What is attached to the stuffed bear on the white blanket on the bed?",
+        "cot": "Step 1: The white blanket on the bed is at [0.002, 0.445, 0.996, 0.552].\nStep 2: The stuffed bear on top of the white blanket is at [0.002, 0.155, 0.450, 0.808].\nStep 3: The heart attached to the stuffed bear is at [0.150, 0.533, 0.284, 0.328].",
+        "answer": "Heart",
+        "coordinate": "[0.150, 0.533, 0.284, 0.328]",
+        "qualified": false
+    },
+    {
+        "id": 733,
+        "img": "vg/VG_100K/2318519.jpg",
+        "question": "What is the man wearing on his body who has hair on his head?",
+        "cot": "Step 1: The man with hair on his head is at [0.046, 0.092, 0.817, 0.906]\nStep 2: The shirt on the man is at [0.039, 0.416, 0.828, 0.584]",
+        "answer": "Shirt",
+        "coordinate": "[0.039, 0.416, 0.828, 0.584]",
+        "qualified": false
+    },
+    {
+        "id": 755,
+        "img": "vg/VG_100K/2363808.jpg",
+        "question": "What is on the hexagonal stone tiled sidewalk on top of the suitcase?",
+        "cot": "Step 1: The hexagonal stone tiled sidewalk is at [0.003, 0.846, 0.643, 0.152]\nStep 2: The suitcase on the sidewalk is at [0.595, 0.426, 0.402, 0.568]\nStep 3: The thing on top of the suitcase is at [0.628, 0.474, 0.288, 0.250]",
+        "answer": "Shopping bag",
+        "coordinate": "[0.628, 0.474, 0.288, 0.250]",
+        "qualified": false
+    },
+    {
+        "id": 777,
+        "img": "vg/VG_100K/2317926.jpg",
+        "question": "What is covering the zebra laying down in the dark dirt and mud?",
+        "cot": "Step 1: The area of dark dirt and mud is at [0.000, 0.002, 1.000, 0.992]\nStep 2: The zebra laying down in the dirt is at [0.141, 0.142, 0.555, 0.386]\nStep 3: The stripes covering the zebra are at [0.112, 0.142, 0.632, 0.402]",
+        "answer": "Stripes",
+        "coordinate": "[0.112, 0.142, 0.632, 0.402]",
+        "qualified": false
+    },
+    {
+        "id": 168,
+        "img": "vg/VG_100K/2363316.jpg",
+        "question": "What is accompanying the thin pizza held in the round white pan near the glass soda bottle?",
+        "cot": "Step 1: The glass soda bottle with dark brown liquid is at [0.000, 0.002, 0.174, 0.268]\nStep 2: The round white pan holding the thin pizza is at [0.056, 0.102, 0.892, 0.872]\nStep 3: The bright silver metal fork accompanying the thin pizza is at [0.000, 0.322, 0.458, 0.168]",
+        "answer": "Fork",
+        "coordinate": "[0.000, 0.322, 0.458, 0.168]",
+        "qualified": false
+    },
+    {
+        "id": 216,
+        "img": "vg/VG_100K/2367782.jpg",
+        "question": "What is next to the white cup with handle that has a chocolate topping?",
+        "cot": "Step 1: The white cup with handle is at [0.622, 0.192, 0.375, 0.416]\nStep 2: The square white paper napkin next to the white cup is at [0.003, 0.232, 0.769, 0.318]\nStep 3: The chocolate frosting on donut next to the napkin is at [0.117, 0.500, 0.580, 0.292]",
+        "answer": "Donut",
+        "coordinate": "[0.117, 0.500, 0.580, 0.292]",
+        "qualified": false
+    },
+    {
+        "id": 348,
+        "img": "vg/VG_100K/2361029.jpg",
+        "question": "What is the object being used by the toddler that is related to communication?",
+        "cot": "Step 1: The toddler is at [0.172, 0.082, 0.634, 0.916].  \nStep 2: The blue toy cell phone is at [0.146, 0.220, 0.282, 0.292].  \nStep 3: The object being used by the toddler for communication is the blue toy cell phone.  ",
+        "answer": "Phone",
+        "coordinate": "[0.146, 0.220, 0.282, 0.292]",
+        "qualified": false
+    },
+    {
+        "id": 376,
+        "img": "vg/VG_100K/2336510.jpg",
+        "question": "What is the body part of the bird surrounded by blue water?",
+        "cot": "Step 1: The bird covered with feathers is at [0.400, 0.189, 0.300, 0.707]  \nStep 2: The leg belongs to the bird and is at [0.504, 0.592, 0.086, 0.299]  ",
+        "answer": "Foot",
+        "coordinate": "[0.504, 0.592, 0.086, 0.299]",
+        "qualified": false
+    },
+    {
+        "id": 384,
+        "img": "vg/VG_100K/2357702.jpg",
+        "question": "What is inside the box near the smashed hamburger?",
+        "cot": "Step 1: The smashed hamburger is at [0.642, 0.267, 0.356, 0.712]  \nStep 2: The hot dog near the smashed hamburger is at [0.028, 0.120, 0.650, 0.816]  \nStep 3: The thing inside the box with the hot dog is at [0.032, 0.123, 0.646, 0.813]  ",
+        "answer": "Bun",
+        "coordinate": "[0.032, 0.123, 0.646, 0.813]",
+        "qualified": false
+    },
+    {
+        "id": 440,
+        "img": "vg/VG_100K/2333164.jpg",
+        "question": "What is the person wearing the white t-shirt with a rainbow stripe holding?",
+        "cot": "Step 1: The person is at [0.117, 0.074, 0.607, 0.924]  \nStep 2: The person is wearing a white t-shirt at [0.123, 0.240, 0.592, 0.460] with a rainbow stripe at [0.559, 0.400, 0.054, 0.292]  \nStep 3: The person is holding a tennis racket at [0.171, 0.728, 0.189, 0.268]  ",
+        "answer": "Tennis racket",
+        "coordinate": "[0.171, 0.728, 0.189, 0.268]",
+        "qualified": false
+    },
+    {
+        "id": 463,
+        "img": "vg/VG_100K_2/2383865.jpg",
+        "question": "What is written on the red sign with a white border in front of the dark trees?",
+        "cot": "Step 1: The dark trees and shadows are at [0.018, 0.014, 0.964, 0.710]  \nStep 2: The red sign with a white border in front of the trees is at [0.182, 0.276, 0.527, 0.422]  \nStep 3: The writing on the red sign says \"hammer time\" and is located at [0.361, 0.568, 0.200, 0.074]  ",
+        "answer": "Hammer time",
+        "coordinate": "[0.361, 0.568, 0.200, 0.074]",
+        "qualified": false
+    },
+    {
+        "id": 495,
+        "img": "vg/VG_100K/498144.jpg",
+        "question": "What is the object that the woman has?",
+        "cot": "Step 1: The woman wearing a jacket and smiling is at [0.000, 0.141, 0.433, 0.859]  \nStep 2: The dark blue jacket of the woman is at [0.013, 0.236, 0.351, 0.759]  ",
+        "answer": "Jacket",
+        "coordinate": "[0.013, 0.236, 0.351, 0.759]",
+        "qualified": false
+    },
+    {
+        "id": 623,
+        "img": "vg/VG_100K/2357467.jpg",
+        "question": "What is the girl wearing while sitting on the bed?",
+        "cot": "Step 1: The girl is at [0.448, 0.371, 0.374, 0.629]  \nStep 2: She is wearing an object at [0.470, 0.587, 0.214, 0.347].  ",
+        "answer": "shirt",
+        "coordinate": "[0.470, 0.587, 0.214, 0.347]",
+        "qualified": false
+    },
+    {
+        "id": 659,
+        "img": "vg/VG_100K_2/2410333.jpg",
+        "question": "What does the glazed donut on the bottom right have?",
+        "cot": "Step 1: The glazed donut on the bottom right is at [0.632, 0.173, 0.326, 0.440].\nStep 2: The hole of the glazed donut on the right is at [0.742, 0.317, 0.102, 0.144].",
+        "answer": "Hole",
+        "coordinate": "[0.742, 0.317, 0.102, 0.144]",
+        "qualified": false
+    },
+    {
+        "id": 674,
+        "img": "vg/VG_100K/2331806.jpg",
+        "question": "What part does the cat have?",
+        "cot": "Step 1: The cat sitting in the chair is at [0.082, 0.126, 0.852, 0.814]\nStep 2: The head of the cat is at [0.080, 0.126, 0.232, 0.324]",
+        "answer": "Head",
+        "coordinate": "[0.080, 0.126, 0.232, 0.324]",
+        "qualified": false
+    },
+    {
+        "id": 675,
+        "img": "vg/VG_100K/2321834.jpg",
+        "question": "What does the woman sitting in a beach chair have?",
+        "cot": "Step 1: The woman sitting in a beach chair is at [0.054, 0.598, 0.312, 0.210]  \nStep 2: The brunette hair of the woman is at [0.063, 0.600, 0.150, 0.148]  ",
+        "answer": "Brown hair",
+        "coordinate": "[0.063, 0.600, 0.150, 0.148]",
+        "qualified": false
+    },
+    {
+        "id": 706,
+        "img": "vg/VG_100K/2361712.jpg",
+        "question": "What does the giraffe have while bending down?",
+        "cot": "Step 1: The giraffe is at [0.276, 0.054, 0.620, 0.931]  \nStep 2: The giraffe's two front legs are at [0.434, 0.477, 0.268, 0.517]  ",
+        "answer": "Legs",
+        "coordinate": "[0.434, 0.477, 0.268, 0.517]",
+        "qualified": false
+    },
+    {
+        "id": 0,
+        "img": "vg/VG_100K/2368351.jpg",
+        "question": "What is the yellow thing outside of the banana with a top hat?",
+        "cot": "Step 1: The banana with a top hat is at [0.017, 0.050, 0.840, 0.944]\nStep 2: The yellow thing outside of the banana is at [0.002, 0.485, 0.808, 0.515]",
+        "answer": "Banana peel",
+        "coordinate": "[0.002, 0.485, 0.808, 0.515]",
+        "qualified": true
+    },
+    {
+        "id": 3,
+        "img": "vg/VG_100K_2/2399998.jpg",
+        "question": "What is above the brown horse on the sandy beach?",
+        "cot": "Step 1: The sandy beach is at [0.006, 0.272, 0.988, 0.723]  \nStep 2: The brown horse on the sandy beach is at [0.336, 0.269, 0.540, 0.725]  \nStep 3: The clear and blue sky above the horse is at [0.002, 0.011, 0.996, 0.389]  ",
+        "answer": "Sky",
+        "coordinate": "[0.002, 0.011, 0.996, 0.389]",
+        "qualified": true
+    },
+    {
+        "id": 5,
+        "img": "vg/VG_100K/2327696.jpg",
+        "question": "What is on the white dish that is on the small plate sitting on the wooden table?",
+        "cot": "Step 1: The small plate sitting on the wooden table is at [0.098, 0.184, 0.838, 0.816]\nStep 2: The white dish on the small plate is at [0.104, 0.301, 0.748, 0.349]\nStep 3: The large banana sliced in half on the white dish is at [0.182, 0.133, 0.670, 0.451]",
+        "answer": "Banana",
+        "coordinate": "[0.182, 0.133, 0.670, 0.451]",
+        "qualified": true
+    },
+    {
+        "id": 20,
+        "img": "vg/VG_100K/2318871.jpg",
+        "question": "What is on the window that is part of the outside scene?",
+        "cot": "Step 1: The outside scene is at [0.003, 0.000, 0.991, 0.828]\nStep 2: The window is at [0.003, 0.002, 0.994, 0.820]\nStep 3: The white curtains on the window are at [0.003, 0.000, 0.991, 0.820]",
+        "answer": "Curtains",
+        "coordinate": "[0.003, 0.000, 0.991, 0.820]",
+        "qualified": true
+    },
+    {
+        "id": 21,
+        "img": "vg/VG_100K_2/2408073.jpg",
+        "question": "What is the clear plastic object in the white bowl full of fruit on the white saucer?",
+        "cot": "Step 1: The white saucer is at [0.012, 0.616, 0.948, 0.384]\nStep 2: The white bowl full of fruit on the saucer is at [0.028, 0.152, 0.722, 0.707]\nStep 3: The clear plastic object in the white bowl is at [0.444, 0.000, 0.420, 0.536]",
+        "answer": "Spoon",
+        "coordinate": "[0.444, 0.000, 0.420, 0.536]",
+        "qualified": true
+    },
+    {
+        "id": 25,
+        "img": "vg/VG_100K_2/2407871.jpg",
+        "question": "What is the green thing growing around the old red flatbed truck with a red and yellow door?",
+        "cot": "Step 1: The old red flatbed truck is at [0.004, 0.009, 0.944, 0.837].\nStep 2: The red and yellow truck door is part of the truck at [0.290, 0.146, 0.168, 0.403].\nStep 3: The green thing growing around the truck is at [0.002, 0.497, 0.994, 0.503].",
+        "answer": "Grass",
+        "coordinate": "[0.002, 0.497, 0.994, 0.503]",
+        "qualified": true
+    },
+    {
+        "id": 26,
+        "img": "vg/VG_100K/2369375.jpg",
+        "question": "What is on the table under the white and striped cloth?",
+        "cot": "Step 1: The white and striped cloth is at [0.008, 0.003, 0.982, 0.979]\nStep 2: The table under the cloth is at [0.002, 0.000, 0.992, 0.997]\nStep 3: The bowl on the table is at [0.224, 0.225, 0.602, 0.580]",
+        "answer": "Bowl",
+        "coordinate": "[0.224, 0.225, 0.602, 0.580]",
+        "qualified": true
+    },
+    {
+        "id": 35,
+        "img": "vg/VG_100K_2/2404907.jpg",
+        "question": "What is the long pointy thing on the right side of the plane flying in the clear white sky?",
+        "cot": "Step 1: The plane flying in the clear white sky has wings extending from its body.\nStep 2: The long pointy thing on the right side of the plane is at [0.384, 0.350, 0.514, 0.230].",
+        "answer": "Wing",
+        "coordinate": "[0.384, 0.350, 0.514, 0.230]",
+        "qualified": true
+    },
+    {
+        "id": 39,
+        "img": "vg/VG_100K_2/2386749.jpg",
+        "question": "What is the orange thing next to the white sign on the cauliflower?",
+        "cot": "Step 1: The cauliflower is at [0.020, 0.198, 0.156, 0.251]\nStep 2: The white sign on the cauliflower is at [0.072, 0.405, 0.300, 0.364]\nStep 3: The orange thing next to the white sign is at [0.862, 0.530, 0.136, 0.163]",
+        "answer": "Carrot",
+        "coordinate": "[0.862, 0.530, 0.136, 0.163]",
+        "qualified": true
+    },
+    {
+        "id": 40,
+        "img": "vg/VG_100K_2/2387334.jpg",
+        "question": "What is the small toy beside the brown stuffed bear wearing a sports uniform?",
+        "cot": "Step 1: The brown stuffed bear wearing a sports uniform is at [0.118, 0.427, 0.374, 0.469].\nStep 2: The small toy beside the bear is at [0.000, 0.832, 0.074, 0.125].",
+        "answer": "Basketball",
+        "coordinate": "[0.000, 0.832, 0.074, 0.125]",
+        "qualified": true
+    },
+    {
+        "id": 46,
+        "img": "vg/VG_100K/2343608.jpg",
+        "question": "What is the tilted part of the black and white zebra with two ears?",
+        "cot": "Step 1: The black and white zebra is at [0.004, 0.003, 0.890, 0.994]\nStep 2: The two ears of the zebra are at [0.524, 0.003, 0.240, 0.426]\nStep 3: The tilted part of the zebra is at [0.524, 0.003, 0.376, 0.547]",
+        "answer": "Head",
+        "coordinate": "[0.524, 0.003, 0.376, 0.547]",
+        "qualified": true
+    },
+    {
+        "id": 47,
+        "img": "vg/VG_100K/713101.jpg",
+        "question": "What is on the car parked beside the sidewalk along the street?",
+        "cot": "Step 1: The sidewalk along the street is at [0.004, 0.763, 0.994, 0.234]\nStep 2: The car parked beside the sidewalk is at [0.013, 0.331, 0.983, 0.460]\nStep 3: The thing on the car is at [0.472, 0.374, 0.213, 0.143]",
+        "answer": "Window",
+        "coordinate": "[0.472, 0.374, 0.213, 0.143]",
+        "qualified": true
+    },
+    {
+        "id": 50,
+        "img": "vg/VG_100K_2/2386750.jpg",
+        "question": "What is in the cardboard box on the cloth?",
+        "cot": "Step 1: The cloth is at [0.002, 0.003, 0.998, 0.992]\nStep 2: The cardboard box on the cloth is at [0.000, 0.011, 0.996, 0.987]\nStep 3: The thing in the cardboard box is at [0.090, 0.056, 0.890, 0.824]",
+        "answer": "Pizza",
+        "coordinate": "[0.090, 0.056, 0.890, 0.824]",
+        "qualified": true
+    },
+    {
+        "id": 58,
+        "img": "vg/VG_100K_2/2380147.jpg",
+        "question": "What is on the plate that is on the wooden surface?",
+        "cot": "Step 1: The wooden surface is at [0.006, 0.002, 0.992, 0.994]\nStep 2: The plate on the wooden surface is at [0.018, 0.064, 0.948, 0.936]\nStep 3: The individual-sized pizza on the plate is at [0.140, 0.164, 0.636, 0.646]",
+        "answer": "Pizza",
+        "coordinate": "[0.140, 0.164, 0.636, 0.646]",
+        "qualified": true
+    },
+    {
+        "id": 60,
+        "img": "vg/VG_100K/2342152.jpg",
+        "question": "What is the animal next to the woman leaning on the wood fence?",
+        "cot": "Step 1: The wood fence is in the forefront.\nStep 2: The woman leaning on the fence is at [0.444, 0.362, 0.553, 0.636].\nStep 3: The animal next to the woman is at [0.009, 0.138, 0.435, 0.412].",
+        "answer": "Giraffe",
+        "coordinate": "[0.009, 0.138, 0.435, 0.412]",
+        "qualified": true
+    },
+    {
+        "id": 63,
+        "img": "vg/VG_100K_2/2412267.jpg",
+        "question": "What is in the high grass and shrubs that help camouflage it on the ground?",
+        "cot": "Step 1: The ground is at [0.000, 0.365, 0.998, 0.632]\nStep 2: The high grass and shrubs on the ground are at [0.000, 0.317, 0.996, 0.680]\nStep 3: The zebra in the high grass and shrubs is at [0.564, 0.317, 0.434, 0.562]",
+        "answer": "Zebra",
+        "coordinate": "[0.564, 0.317, 0.434, 0.562]",
+        "qualified": true
+    },
+    {
+        "id": 70,
+        "img": "vg/VG_100K/2318208.jpg",
+        "question": "What is on the black remote for the large, black television?",
+        "cot": "Step 1: The large, black television is at [0.074, 0.005, 0.872, 0.857]\nStep 2: The black remote for the television is at [0.452, 0.504, 0.342, 0.494]\nStep 3: The red thing on the black remote is at [0.502, 0.660, 0.066, 0.062]",
+        "answer": "Button",
+        "coordinate": "[0.502, 0.660, 0.066, 0.062]",
+        "qualified": true
+    },
+    {
+        "id": 71,
+        "img": "vg/VG_100K_2/2394020.jpg",
+        "question": "What is the medium brown and white thing closest to the water with light ripples?",
+        "cot": "Step 1: The water with light ripples is at [0.002, 0.288, 0.998, 0.609]\nStep 2: The medium brown and white thing closest to the water is at [0.280, 0.492, 0.344, 0.468]",
+        "answer": "Horse",
+        "coordinate": "[0.280, 0.492, 0.344, 0.468]",
+        "qualified": true
+    },
+    {
+        "id": 72,
+        "img": "vg/VG_100K/2324200.jpg",
+        "question": "What is above the field with tall dried grass where the zebra is located?",
+        "cot": "Step 1: The field with tall dried grass is at [0.002, 0.462, 0.992, 0.529]\nStep 2: The zebra in the grass is at [0.268, 0.426, 0.290, 0.252]\nStep 3: The clear blue cloudless sky above the field is at [0.002, 0.012, 0.996, 0.447]",
+        "answer": "Sky",
+        "coordinate": "[0.002, 0.012, 0.996, 0.447]",
+        "qualified": true
+    },
+    {
+        "id": 73,
+        "img": "vg/VG_100K/2335407.jpg",
+        "question": "What is the yellow thing behind the man holding the pizza box?",
+        "cot": "Step 1: The man holding the pizza box is at [0.091, 0.055, 0.702, 0.942].\nStep 2: The yellow thing behind the man's head is at [0.277, 0.000, 0.491, 0.188].",
+        "answer": "Poster",
+        "coordinate": "[0.277, 0.000, 0.491, 0.188]",
+        "qualified": true
+    },
+    {
+        "id": 75,
+        "img": "vg/VG_100K/2346373.jpg",
+        "question": "What is the red and white thing in the large pile of dirty snow on the ground?",
+        "cot": "Step 1: The ground has a large pile of dirty snow at [0.005, 0.000, 0.987, 0.998].\nStep 2: The large pile of dirty snow contains a fallen red and white bike at [0.392, 0.112, 0.605, 0.884].",
+        "answer": "Bike",
+        "coordinate": "[0.392, 0.112, 0.605, 0.884]",
+        "qualified": true
+    },
+    {
+        "id": 80,
+        "img": "vg/VG_100K_2/2412728.jpg",
+        "question": "What is the red thing that decorates the wooden train on the dirt in a sandy area?",
+        "cot": "Step 1: The dirt in the sandy area is at [0.006, 0.345, 0.994, 0.652].\nStep 2: The wooden train on the dirt is at [0.206, 0.003, 0.554, 0.877].\nStep 3: The red thing that decorates the wooden train is at [0.264, 0.432, 0.208, 0.306].",
+        "answer": "Circle",
+        "coordinate": "[0.264, 0.432, 0.208, 0.306]",
+        "qualified": true
+    },
+    {
+        "id": 82,
+        "img": "vg/VG_100K/2370243.jpg",
+        "question": "What is on the blue and yellow color blanket that has sunflowers?",
+        "cot": "Step 1: The blue and yellow color blanket is at [0.322, 0.451, 0.578, 0.467]\nStep 2: The black and white tuxedo cat on the blanket is at [0.386, 0.256, 0.246, 0.272]",
+        "answer": "Cat",
+        "coordinate": "[0.386, 0.256, 0.246, 0.272]",
+        "qualified": true
+    },
+    {
+        "id": 93,
+        "img": "vg/VG_100K/2372665.jpg",
+        "question": "What is the light blue thing on the woman skiing on snow?",
+        "cot": "Step 1: The two blue and red skis are at [0.387, 0.658, 0.579, 0.340]\nStep 2: The woman skiing on snow is on the skis at [0.368, 0.130, 0.581, 0.656]\nStep 3: The light blue thing on the woman is at [0.384, 0.250, 0.523, 0.260]",
+        "answer": "Coat",
+        "coordinate": "[0.384, 0.250, 0.523, 0.260]",
+        "qualified": true
+    },
+    {
+        "id": 97,
+        "img": "vg/VG_100K_2/2398992.jpg",
+        "question": "What is the yellow thing on the colorful umbrella sitting on the snowy ground?",
+        "cot": "Step 1: The ground covered in snow is at [0.000, 0.000, 0.998, 0.992].\nStep 2: The colorful umbrella on the ground is at [0.202, 0.117, 0.634, 0.829].\nStep 3: The yellow thing on the umbrella is at [0.198, 0.291, 0.340, 0.317].",
+        "answer": "Triangle",
+        "coordinate": "[0.198, 0.291, 0.340, 0.317]",
+        "qualified": true
+    },
+    {
+        "id": 98,
+        "img": "vg/VG_100K/2326982.jpg",
+        "question": "What is on the donut with sprinkles?",
+        "cot": "Step 1: The donut with sprinkles is at [0.166, 0.212, 0.532, 0.518]\nStep 2: The frosting on the donut is at [0.160, 0.224, 0.538, 0.500]",
+        "answer": "Frosting",
+        "coordinate": "[0.160, 0.224, 0.538, 0.500]",
+        "qualified": true
+    },
+    {
+        "id": 100,
+        "img": "vg/VG_100K_2/2399364.jpg",
+        "question": "What is in the background behind the hotdog with ketchup?",
+        "cot": "Step 1: The hotdog with ketchup is at [0.084, 0.131, 0.862, 0.768]\nStep 2: The water in the background is at [0.000, 0.000, 0.996, 0.987]",
+        "answer": "Water",
+        "coordinate": "[0.000, 0.000, 0.996, 0.987]",
+        "qualified": true
+    },
+    {
+        "id": 112,
+        "img": "vg/VG_100K_2/2392632.jpg",
+        "question": "What is towering over the stone wall behind the skateboarder?",
+        "cot": "Step 1: The skateboarder is posed for a shot at [0.219, 0.162, 0.778, 0.772]\nStep 2: The stone wall behind the skateboarder is at [0.003, 0.288, 0.997, 0.598]\nStep 3: The large trees towering over the stone wall are at [0.003, 0.000, 0.997, 0.400]",
+        "answer": "Trees",
+        "coordinate": "[0.003, 0.000, 0.997, 0.400]",
+        "qualified": true
+    },
+    {
+        "id": 119,
+        "img": "vg/VG_100K/2367617.jpg",
+        "question": "What is the stainless steel utensil next to the china plate and laying on the knife?",
+        "cot": "Step 1: The plate that appears to be china is at [0.002, 0.236, 0.994, 0.562]\nStep 2: The stainless steel knife next to the plate is at [0.002, 0.788, 0.527, 0.210]\nStep 3: The stainless steel utensil laying on the knife is at [0.002, 0.782, 0.990, 0.216]",
+        "answer": "Fork",
+        "coordinate": "[0.002, 0.782, 0.990, 0.216]",
+        "qualified": true
+    },
+    {
+        "id": 121,
+        "img": "vg/VG_100K/2364677.jpg",
+        "question": "What is the bird in the grassy field that grows on the ground?",
+        "cot": "Step 1: The ground is at [0.002, 0.000, 0.994, 1.000]\nStep 2: The grassy field that grows on the ground is at [0.000, 0.000, 1.000, 0.994]\nStep 3: The bird in the grassy field is at [0.602, 0.340, 0.376, 0.578]",
+        "answer": "Vulture",
+        "coordinate": "[0.602, 0.340, 0.376, 0.578]",
+        "qualified": true
+    },
+    {
+        "id": 132,
+        "img": "vg/VG_100K_2/2393848.jpg",
+        "question": "What is the vegetable pizza with multiple toppings on?",
+        "cot": "Step 1: The vegetable pizza with multiple toppings is at [0.002, 0.000, 0.998, 0.997]\nStep 2: The plate under the pizza is at [0.002, 0.003, 0.996, 0.995]",
+        "answer": "Plate",
+        "coordinate": "[0.002, 0.003, 0.996, 0.995]",
+        "qualified": true
+    },
+    {
+        "id": 135,
+        "img": "vg/VG_100K_2/2414640.jpg",
+        "question": "What is inside the suitcase on the bed with a white comforter?",
+        "cot": "Step 1: The bed with a white comforter is at [0.000, 0.064, 0.998, 0.933].\nStep 2: The suitcase on the bed is at [0.086, 0.107, 0.726, 0.861].\nStep 3: The thing inside the suitcase is at [0.214, 0.397, 0.528, 0.389].",
+        "answer": "Cat",
+        "coordinate": "[0.214, 0.397, 0.528, 0.389]",
+        "qualified": true
+    },
+    {
+        "id": 143,
+        "img": "vg/VG_100K_2/2411721.jpg",
+        "question": "What is on top of the silver tray with the food?",
+        "cot": "Step 1: The silver tray with food is at [0.002, 0.093, 0.992, 0.907]\nStep 2: The pizza on top of the silver tray is at [0.018, 0.101, 0.976, 0.779]",
+        "answer": "Pizza",
+        "coordinate": "[0.018, 0.101, 0.976, 0.779]",
+        "qualified": true
+    },
+    {
+        "id": 149,
+        "img": "vg/VG_100K_2/2384534.jpg",
+        "question": "What is the yellow thing in front of the blue and white double-decker bus?",
+        "cot": "Step 1: The blue and white double-decker bus is at [0.152, 0.144, 0.696, 0.741]\nStep 2: The yellow thing in front of the bus is at [0.324, 0.739, 0.038, 0.056]",
+        "answer": "Sign",
+        "coordinate": "[0.324, 0.739, 0.038, 0.056]",
+        "qualified": true
+    },
+    {
+        "id": 150,
+        "img": "vg/VG_100K/2353617.jpg",
+        "question": "What is the color of the wall behind the shirtless man in the photo taken during the day?",
+        "cot": "Step 1: The photo taken during the day is at [0.003, 0.000, 0.992, 0.998]\nStep 2: The shirtless man wearing black shorts is at [0.200, 0.122, 0.619, 0.878]\nStep 3: The wall behind the man is at [0.005, 0.004, 0.992, 0.644]",
+        "answer": "Red",
+        "coordinate": "[0.005, 0.004, 0.992, 0.644]",
+        "qualified": true
+    },
+    {
+        "id": 151,
+        "img": "vg/VG_100K_2/2409256.jpg",
+        "question": "What is the tall thing over the giraffe in the field of green grass?",
+        "cot": "Step 1: The field of green grass is at [0.008, 0.731, 0.992, 0.264]\nStep 2: The tall giraffe with brown spots in the field is at [0.316, 0.237, 0.166, 0.616]\nStep 3: The tall thing over the giraffe is at [0.002, 0.003, 0.804, 0.773]",
+        "answer": "Tree",
+        "coordinate": "[0.002, 0.003, 0.804, 0.773]",
+        "qualified": true
+    },
+    {
+        "id": 152,
+        "img": "vg/VG_100K/2350469.jpg",
+        "question": "What is on the cover of the purple book next to the green book?",
+        "cot": "Step 1: The green book is at [0.414, 0.259, 0.474, 0.540]\nStep 2: The purple book next to the green book is at [0.228, 0.000, 0.420, 0.399]\nStep 3: The grey rhino on the cover of the purple book is at [0.390, 0.040, 0.220, 0.283]",
+        "answer": "Rhino",
+        "coordinate": "[0.390, 0.040, 0.220, 0.283]",
+        "qualified": true
+    },
+    {
+        "id": 166,
+        "img": "vg/VG_100K/2317313.jpg",
+        "question": "What is over the blue and white chair on the beach?",
+        "cot": "Step 1: The brown, trampled sand of the beach is at [0.004, 0.643, 0.996, 0.354]\nStep 2: The blue and white chair on the beach is at [0.174, 0.526, 0.298, 0.375]\nStep 3: The umbrella over the chair is at [0.144, 0.138, 0.714, 0.306]",
+        "answer": "Umbrella",
+        "coordinate": "[0.144, 0.138, 0.714, 0.306]",
+        "qualified": true
+    },
+    {
+        "id": 169,
+        "img": "vg/VG_100K/2335599.jpg",
+        "question": "What is in front of the airplane on the paved surface of the runway?",
+        "cot": "Step 1: The paved surface of the runway is at [0.032, 0.602, 0.924, 0.172].\nStep 2: The airplane on the runway is at [0.060, 0.250, 0.880, 0.446].\nStep 3: The grass in front of the airplane is at [0.000, 0.693, 0.994, 0.301].",
+        "answer": "Grass",
+        "coordinate": "[0.000, 0.693, 0.994, 0.301]",
+        "qualified": true
+    },
+    {
+        "id": 171,
+        "img": "vg/VG_100K/2367754.jpg",
+        "question": "What is the green thing within the circle of many big rocks that has a red fire hydrant?",
+        "cot": "Step 1: The red fire hydrant is on the ground.\nStep 2: The circle of many big rocks has the red fire hydrant.\nStep 3: The green thing within the circle of many big rocks is at [0.203, 0.064, 0.467, 0.794].",
+        "answer": "Tree",
+        "coordinate": "[0.203, 0.064, 0.467, 0.794]",
+        "qualified": true
+    },
+    {
+        "id": 175,
+        "img": "vg/VG_100K/2344613.jpg",
+        "question": "What is the green and brown thing under the white and blue truck with a round headlight?",
+        "cot": "Step 1: The white and blue truck with a round headlight is at [0.067, 0.058, 0.902, 0.716].\nStep 2: The green and brown thing under the truck is at [0.002, 0.466, 0.995, 0.532].",
+        "answer": "Grass",
+        "coordinate": "[0.002, 0.466, 0.995, 0.532]",
+        "qualified": true
+    },
+    {
+        "id": 194,
+        "img": "vg/VG_100K/2318485.jpg",
+        "question": "What is the green-colored object on top of the beds inside the hotel bedroom?",
+        "cot": "Step 1: The interior of the hotel bedroom is at [0.002, 0.003, 0.998, 0.994].\nStep 2: The two beds placed side by side inside the bedroom are at [0.046, 0.435, 0.774, 0.562].\nStep 3: The green-colored object on top of one of the beds is at [0.470, 0.580, 0.122, 0.141].",
+        "answer": "Pillow",
+        "coordinate": "[0.470, 0.580, 0.122, 0.141]",
+        "qualified": true
+    },
+    {
+        "id": 197,
+        "img": "vg/VG_100K/2325690.jpg",
+        "question": "What is on the white plate of food that has a side of golden, shoestring fries?",
+        "cot": "Step 1: The white plate of food is at [0.012, 0.057, 0.986, 0.943]\nStep 2: The side of golden, shoestring fries is on the plate at [0.046, 0.219, 0.810, 0.700]\nStep 3: The hot dog in a bun is on the plate at [0.284, 0.099, 0.534, 0.273]",
+        "answer": "Hotdog",
+        "coordinate": "[0.284, 0.099, 0.534, 0.273]",
+        "qualified": true
+    },
+    {
+        "id": 205,
+        "img": "vg/VG_100K_2/2392600.jpg",
+        "question": "What is the blue thing behind the man sitting at the table with a blue plastic tablecloth?",
+        "cot": "Step 1: The table with a blue plastic tablecloth is at [0.026, 0.682, 0.902, 0.300]\nStep 2: The man sitting at the table is at [0.048, 0.218, 0.538, 0.462]\nStep 3: The blue thing behind the man is at [0.698, 0.054, 0.208, 0.430]",
+        "answer": "Umbrella",
+        "coordinate": "[0.698, 0.054, 0.208, 0.430]",
+        "qualified": true
+    },
+    {
+        "id": 208,
+        "img": "vg/VG_100K_2/2380998.jpg",
+        "question": "What is in front of the tan-colored sign that says \"Bliss Yoga Centre\"?",
+        "cot": "Step 1: The tan-colored sign is at [0.312, 0.117, 0.290, 0.404].  \nStep 2: The small cow is in front of the sign at [0.448, 0.630, 0.294, 0.304].  ",
+        "answer": "Cow",
+        "coordinate": "[0.448, 0.630, 0.294, 0.304]",
+        "qualified": true
+    },
+    {
+        "id": 223,
+        "img": "vg/VG_100K_2/2407130.jpg",
+        "question": "What is the yellow object hanging from the ceiling that has wooden slats?",
+        "cot": "Step 1: The ceiling with wooden slats is at [0.002, 0.006, 0.996, 0.898]\nStep 2: The yellow object hanging from the ceiling is at [0.258, 0.308, 0.278, 0.323]",
+        "answer": "Umbrella",
+        "coordinate": "[0.258, 0.308, 0.278, 0.323]",
+        "qualified": true
+    },
+    {
+        "id": 225,
+        "img": "vg/VG_100K/2349523.jpg",
+        "question": "What is the animal behind the brown and black fence that the man in the brown uniform is standing between?",
+        "cot": "Step 1: The man in the brown uniform is at [0.744, 0.267, 0.214, 0.468]\nStep 2: The brown and black fence is at [0.000, 0.381, 0.654, 0.369]\nStep 3: The animal behind the fence is at [0.160, 0.084, 0.472, 0.538]",
+        "answer": "Elephant",
+        "coordinate": "[0.160, 0.084, 0.472, 0.538]",
+        "qualified": true
+    },
+    {
+        "id": 227,
+        "img": "vg/VG_100K_2/2415110.jpg",
+        "question": "What is the black animal near the white horse tied to the brown brick building?",
+        "cot": "Step 1: The brown brick building is at [0.614, 0.000, 0.386, 0.976]\nStep 2: The white horse tied to the building is at [0.166, 0.293, 0.432, 0.523]\nStep 3: The black animal near the horse is at [0.244, 0.667, 0.282, 0.331]",
+        "answer": "Dog",
+        "coordinate": "[0.244, 0.667, 0.282, 0.331]",
+        "qualified": true
+    },
+    {
+        "id": 230,
+        "img": "vg/VG_100K_2/2395971.jpg",
+        "question": "What is the white structure behind the ox walking on the road?",
+        "cot": "Step 1: The ox walking on the road is at [0.380, 0.128, 0.206, 0.837]\nStep 2: The white structure behind the ox is at [0.320, 0.029, 0.120, 0.188]",
+        "answer": "Building",
+        "coordinate": "[0.320, 0.029, 0.120, 0.188]",
+        "qualified": true
+    },
+    {
+        "id": 233,
+        "img": "vg/VG_100K_2/2407455.jpg",
+        "question": "What is on the zebra in the foreground next to the zebra in the background?",
+        "cot": "Step 1: The zebra in the background is at [0.080, 0.152, 0.752, 0.848]\nStep 2: The zebra in the foreground next to the zebra in the background is at [0.258, 0.000, 0.740, 0.995]\nStep 3: The mane on the zebra in the foreground is at [0.446, 0.000, 0.552, 0.484]",
+        "answer": "Mane",
+        "coordinate": "[0.446, 0.000, 0.552, 0.484]",
+        "qualified": true
+    },
+    {
+        "id": 240,
+        "img": "vg/VG_100K/2335892.jpg",
+        "question": "What is the white thing behind the black dog with curly hair on the black and yellow leash?",
+        "cot": "Step 1: The black and yellow leash is at [0.519, 0.656, 0.478, 0.340]\nStep 2: The black dog with curly hair on the leash is at [0.380, 0.108, 0.614, 0.888]\nStep 3: The white thing behind the dog is at [0.006, 0.000, 0.988, 0.558]",
+        "answer": "Wall",
+        "coordinate": "[0.006, 0.000, 0.988, 0.558]",
+        "qualified": true
+    },
+    {
+        "id": 248,
+        "img": "vg/VG_100K_2/2389453.jpg",
+        "question": "What are the green things along the edge of the grassy field?",
+        "cot": "Step 1: The grassy field is covered with grass.  \nStep 2: The green things along the edge of the field are at [0.000, 0.228, 0.998, 0.242].  ",
+        "answer": "Trees",
+        "coordinate": "[0.000, 0.228, 0.998, 0.242]",
+        "qualified": true
+    },
+    {
+        "id": 252,
+        "img": "vg/VG_100K_2/2397491.jpg",
+        "question": "What is behind the young woman wearing a white scarf and holding an umbrella?",
+        "cot": "Step 1: The young woman is at [0.186, 0.296, 0.447, 0.676]\nStep 2: The wall behind her is at [0.006, 0.000, 0.991, 0.840]",
+        "answer": "Wall",
+        "coordinate": "[0.006, 0.000, 0.991, 0.840]",
+        "qualified": true
+    },
+    {
+        "id": 254,
+        "img": "vg/VG_100K_2/2393493.jpg",
+        "question": "What is the tall object in the photo with a black background?",
+        "cot": "Step 1: The photo with a black background is at [0.049, 0.022, 0.911, 0.962]\nStep 2: The tall object within the photo is at [0.360, 0.436, 0.300, 0.546]",
+        "answer": "Vase",
+        "coordinate": "[0.360, 0.436, 0.300, 0.546]",
+        "qualified": true
+    },
+    {
+        "id": 256,
+        "img": "vg/VG_100K/2352328.jpg",
+        "question": "What is in front of the military plane parked on the green grassy display field?",
+        "cot": "Step 1: The green grassy display field is at [0.000, 0.613, 0.996, 0.384]\nStep 2: The military plane on the field is at [0.062, 0.240, 0.796, 0.529]\nStep 3: The object in front of the military plane is at [0.696, 0.240, 0.162, 0.366]",
+        "answer": "Propeller",
+        "coordinate": "[0.696, 0.240, 0.162, 0.366]",
+        "qualified": true
+    },
+    {
+        "id": 278,
+        "img": "vg/VG_100K/2363562.jpg",
+        "question": "What is the object on the table with large white dots on purple material below the wine bottle?",
+        "cot": "Step 1: The table with large white dots on purple material is at [0.003, 0.000, 0.994, 0.996].\nStep 2: The wine bottle on the table is at [0.677, 0.060, 0.320, 0.300].\nStep 3: The object below the wine bottle is at [0.605, 0.240, 0.278, 0.190].",
+        "answer": "Coaster",
+        "coordinate": "[0.605, 0.240, 0.278, 0.190]",
+        "qualified": true
+    },
+    {
+        "id": 294,
+        "img": "vg/VG_100K_2/2385673.jpg",
+        "question": "What is inside the pot sitting on the stove?",
+        "cot": "Step 1: The stove is at [0.004, 0.000, 0.996, 0.989]\nStep 2: The pot sitting on the stove is at [0.124, 0.195, 0.746, 0.803]\nStep 3: The veggies inside the pot are at [0.094, 0.053, 0.790, 0.787]",
+        "answer": "Veggies",
+        "coordinate": "[0.094, 0.053, 0.790, 0.787]",
+        "qualified": true
+    },
+    {
+        "id": 300,
+        "img": "vg/VG_100K_2/2397800.jpg",
+        "question": "What is behind the man standing on the snow-covered ground?",
+        "cot": "Step 1: The snow-covered ground is at [0.000, 0.744, 0.998, 0.251]\nStep 2: The man standing on the snow is at [0.454, 0.064, 0.298, 0.749]\nStep 3: The thing behind the man is at [0.000, 0.549, 0.576, 0.213]",
+        "answer": "Mountain",
+        "coordinate": "[0.000, 0.549, 0.576, 0.213]",
+        "qualified": true
+    },
+    {
+        "id": 305,
+        "img": "vg/VG_100K/2332150.jpg",
+        "question": "What is the yellow thing on the man wearing black-rimmed eyeglasses?",
+        "cot": "Step 1: The man in a gray sweater is wearing black-rimmed eyeglasses.\nStep 2: The yellow thing on the man's neck is at [0.267, 0.586, 0.352, 0.136].",
+        "answer": "Bow tie",
+        "coordinate": "[0.267, 0.586, 0.352, 0.136]",
+        "qualified": true
+    },
+    {
+        "id": 306,
+        "img": "vg/VG_100K_2/2407536.jpg",
+        "question": "What is the large structure behind the woman wearing dark pants who is swinging at a ball?",
+        "cot": "Step 1: The woman wearing dark pants is at [0.414, 0.427, 0.290, 0.552]\nStep 2: The large structure behind the woman is at [0.636, 0.117, 0.362, 0.688]",
+        "answer": "Building",
+        "coordinate": "[0.636, 0.117, 0.362, 0.688]",
+        "qualified": true
+    },
+    {
+        "id": 315,
+        "img": "vg/VG_100K/2350728.jpg",
+        "question": "What is on top of the hotdog with the wiener in the bun?",
+        "cot": "Step 1: The hotdog with the wiener in the bun is at [0.005, 0.532, 0.992, 0.198].\nStep 2: The melted cheese on top of the hotdog is at [0.003, 0.784, 0.776, 0.142].",
+        "answer": "Cheese",
+        "coordinate": "[0.003, 0.784, 0.776, 0.142]",
+        "qualified": true
+    },
+    {
+        "id": 317,
+        "img": "vg/VG_100K_2/2406548.jpg",
+        "question": "What is the white right door part of that is over the white porcelain toilet?",
+        "cot": "Step 1: The white porcelain toilet is at [0.309, 0.540, 0.368, 0.460]\nStep 2: The closet over the toilet is at [0.155, 0.020, 0.613, 0.358]\nStep 3: The white right door is part of the closet at [0.464, 0.018, 0.304, 0.356]",
+        "answer": "Closet",
+        "coordinate": "[0.464, 0.018, 0.304, 0.356]",
+        "qualified": true
+    },
+    {
+        "id": 318,
+        "img": "vg/VG_100K_2/2409974.jpg",
+        "question": "What is on the steel pole under the overpass with pipes and girders?",
+        "cot": "Step 1: The overpass with pipes and girders is at [0.002, 0.000, 0.996, 0.888].\nStep 2: The steel pole under the overpass is at [0.442, 0.000, 0.278, 0.995].\nStep 3: The object on the steel pole is at [0.410, 0.286, 0.290, 0.580].",
+        "answer": "Stop sign",
+        "coordinate": "[0.410, 0.286, 0.290, 0.580]",
+        "qualified": true
+    },
+    {
+        "id": 319,
+        "img": "vg/VG_100K/2352256.jpg",
+        "question": "What is the silver thing on the white plate with the dessert?",
+        "cot": "Step 1: The dessert on a white plate is at [0.000, 0.572, 0.899, 0.414]\nStep 2: The silver thing on the plate is at [0.040, 0.744, 0.192, 0.252]",
+        "answer": "Spoon",
+        "coordinate": "[0.040, 0.744, 0.192, 0.252]",
+        "qualified": true
+    },
+    {
+        "id": 327,
+        "img": "vg/VG_100K_2/2397104.jpg",
+        "question": "What is the black thing in front of the green accent wall behind the white coffee table?",
+        "cot": "Step 1: The white coffee table is at [0.530, 0.616, 0.336, 0.303]\nStep 2: The green accent wall behind the white coffee table is at [0.256, 0.045, 0.666, 0.619]\nStep 3: The black thing in front of the green accent wall is at [0.256, 0.318, 0.180, 0.159]",
+        "answer": "Television",
+        "coordinate": "[0.256, 0.318, 0.180, 0.159]",
+        "qualified": true
+    },
+    {
+        "id": 339,
+        "img": "vg/VG_100K/498327.jpg",
+        "question": "What is the white and brown thing growing on the horse that has a tail?",
+        "cot": "Step 1: The white and brown horse is at [0.149, 0.328, 0.399, 0.583]\nStep 2: The tail of the horse is at [0.144, 0.471, 0.106, 0.315]\nStep 3: The white and brown thing growing on the horse is at [0.327, 0.340, 0.142, 0.124]",
+        "answer": "Mane",
+        "coordinate": "[0.327, 0.340, 0.142, 0.124]",
+        "qualified": true
+    },
+    {
+        "id": 345,
+        "img": "vg/VG_100K_2/2402718.jpg",
+        "question": "What is next to the white plate filled with food?",
+        "cot": "Step 1: The white plate filled with food is at [0.062, 0.054, 0.936, 0.937].\nStep 2: The metal fork next to the plate is at [0.004, 0.009, 0.186, 0.215].",
+        "answer": "Fork",
+        "coordinate": "[0.004, 0.009, 0.186, 0.215]",
+        "qualified": true
+    },
+    {
+        "id": 346,
+        "img": "vg/VG_100K/2323006.jpg",
+        "question": "What is on the red and white sign that hangs on the pole?",
+        "cot": "Step 1: The pole with a sign is at [0.000, 0.264, 1.000, 0.261]\nStep 2: The red and white sign hanging on the pole is at [0.116, 0.318, 0.772, 0.393]\nStep 3: The word on the red and white sign is at [0.152, 0.360, 0.702, 0.297]",
+        "answer": "Letters",
+        "coordinate": "[0.152, 0.360, 0.702, 0.297]",
+        "qualified": true
+    },
+    {
+        "id": 347,
+        "img": "vg/VG_100K_2/2403327.jpg",
+        "question": "What is the white thing behind the black and white French bulldog with a wrinkly snout?",
+        "cot": "Step 1: The black and white French bulldog is at [0.372, 0.024, 0.402, 0.826]\nStep 2: The wrinkly snout of the dog is at [0.446, 0.244, 0.206, 0.206]\nStep 3: The white thing behind the dog is at [0.192, 0.162, 0.808, 0.228]",
+        "answer": "House",
+        "coordinate": "[0.192, 0.162, 0.808, 0.228]",
+        "qualified": true
+    },
+    {
+        "id": 363,
+        "img": "vg/VG_100K/2363282.jpg",
+        "question": "What is on the tray that is sitting on the plastic table?",
+        "cot": "Step 1: The plastic table is at [0.004, 0.013, 0.984, 0.981]\nStep 2: The tray on the table is at [0.006, 0.098, 0.992, 0.889]\nStep 3: The thing on the tray is at [0.476, 0.034, 0.520, 0.958]",
+        "answer": "Pizza",
+        "coordinate": "[0.476, 0.034, 0.520, 0.958]",
+        "qualified": true
+    },
+    {
+        "id": 367,
+        "img": "vg/VG_100K_2/2412279.jpg",
+        "question": "What is behind the white cat with black and brown stripes on the black bedspread?",
+        "cot": "Step 1: The black bedspread is at [0.003, 0.476, 0.995, 0.524]\nStep 2: The white cat with black and brown stripes on the bedspread is at [0.214, 0.322, 0.404, 0.480]\nStep 3: The tan-colored metal cabinet behind the cat is at [0.214, 0.128, 0.259, 0.358]",
+        "answer": "Cabinet",
+        "coordinate": "[0.214, 0.128, 0.259, 0.358]",
+        "qualified": true
+    },
+    {
+        "id": 369,
+        "img": "vg/VG_100K/2341403.jpg",
+        "question": "What is tied around the boat that is in the body of water?",
+        "cot": "Step 1: The body of water is at [0.000, 0.412, 0.997, 0.490]\nStep 2: The boat on the land in the body of water is at [0.038, 0.170, 0.953, 0.824]\nStep 3: The rope tied around the boat is at [0.660, 0.380, 0.334, 0.618]",
+        "answer": "Rope",
+        "coordinate": "[0.660, 0.380, 0.334, 0.618]",
+        "qualified": true
+    },
+    {
+        "id": 375,
+        "img": "vg/VG_100K/2322129.jpg",
+        "question": "What is in front of the boy wearing a sweater who is holding a stuffed bear?",
+        "cot": "Step 1: The boy wearing a sweater is at [0.145, 0.088, 0.531, 0.808]\nStep 2: The tricycle in front of the boy is at [0.469, 0.558, 0.527, 0.440]",
+        "answer": "Tricycle",
+        "coordinate": "[0.469, 0.558, 0.527, 0.440]",
+        "qualified": true
+    },
+    {
+        "id": 376,
+        "img": "vg/VG_100K/2321277.jpg",
+        "question": "What is behind the cat on the brown suede tote bag?",
+        "cot": "Step 1: The brown suede tote bag is at [0.347, 0.354, 0.584, 0.432].\nStep 2: The cat on top of the bag is at [0.056, 0.024, 0.893, 0.964].\nStep 3: The orange curtain behind the cat is at [0.227, 0.000, 0.736, 0.486].",
+        "answer": "Curtain",
+        "coordinate": "[0.227, 0.000, 0.736, 0.486]",
+        "qualified": true
+    },
+    {
+        "id": 377,
+        "img": "vg/VG_100K_2/2377908.jpg",
+        "question": "What is the white thing on the wall of bricks behind the plaque with a black border?",
+        "cot": "Step 1: The plaque with a black border is at [0.038, 0.171, 0.910, 0.619]\nStep 2: The wall of bricks behind the plaque is at [0.000, 0.003, 0.994, 0.985]\nStep 3: The white thing on the wall of bricks is at [0.040, 0.186, 0.944, 0.565]",
+        "answer": "Sign",
+        "coordinate": "[0.040, 0.186, 0.944, 0.565]",
+        "qualified": true
+    },
+    {
+        "id": 380,
+        "img": "vg/VG_100K_2/2406766.jpg",
+        "question": "What is the animal watching the black flat screen TV on the entertainment center?",
+        "cot": "Step 1: The entertainment center is at [0.176, 0.562, 0.394, 0.435]\nStep 2: The black flat screen TV on the entertainment center is at [0.076, 0.000, 0.442, 0.727]\nStep 3: The animal watching the TV is at [0.630, 0.568, 0.240, 0.318]",
+        "answer": "Cat",
+        "coordinate": "[0.630, 0.568, 0.240, 0.318]",
+        "qualified": true
+    },
+    {
+        "id": 382,
+        "img": "vg/VG_100K/2341622.jpg",
+        "question": "What is the green thing below the black bird in the sky?",
+        "cot": "Step 1: The sky is at [0.002, 0.003, 0.996, 0.985]\nStep 2: The black bird in the sky is at [0.358, 0.105, 0.310, 0.835]\nStep 3: The green thing below the black bird is at [0.462, 0.532, 0.132, 0.420]",
+        "answer": "Leaf",
+        "coordinate": "[0.462, 0.532, 0.132, 0.420]",
+        "qualified": true
+    },
+    {
+        "id": 384,
+        "img": "vg/VG_100K/2367031.jpg",
+        "question": "What is behind the boy on the sofa?",
+        "cot": "Step 1: The boy is sitting on the sofa at [0.314, 0.084, 0.452, 0.571].\nStep 2: Behind the boy is a red and blue towel at [0.070, 0.021, 0.426, 0.721].",
+        "answer": "Towel",
+        "coordinate": "[0.070, 0.021, 0.426, 0.721]",
+        "qualified": true
+    },
+    {
+        "id": 386,
+        "img": "vg/VG_100K/2373081.jpg",
+        "question": "What is under the umbrella on the sands of the beach?",
+        "cot": "Step 1: The sands of the beach are at [0.009, 0.078, 0.985, 0.442]\nStep 2: The umbrella on the sands is at [0.320, 0.022, 0.675, 0.392]\nStep 3: The black and white dog under the umbrella is at [0.257, 0.334, 0.464, 0.174]",
+        "answer": "Dog",
+        "coordinate": "[0.257, 0.334, 0.464, 0.174]",
+        "qualified": true
+    },
+    {
+        "id": 390,
+        "img": "vg/VG_100K/2366716.jpg",
+        "question": "What is the black and orange object on the blue blanket lying on the ground?",
+        "cot": "Step 1: The ground is at [0.008, 0.524, 0.987, 0.474]\nStep 2: The blue blanket lying on the ground is at [0.016, 0.670, 0.981, 0.326]\nStep 3: The black and orange object on the blue blanket is at [0.237, 0.748, 0.552, 0.080]",
+        "answer": "Snowboard",
+        "coordinate": "[0.237, 0.748, 0.552, 0.080]",
+        "qualified": true
+    },
+    {
+        "id": 391,
+        "img": "vg/VG_100K/2367352.jpg",
+        "question": "What is on the back of the brown and white giraffe with a long neck?",
+        "cot": "Step 1: The brown and white giraffe is at [0.318, 0.108, 0.452, 0.892].\nStep 2: The long neck of the giraffe is at [0.458, 0.318, 0.260, 0.679].\nStep 3: The short brown mane on the back of the giraffe is at [0.510, 0.300, 0.246, 0.697].",
+        "answer": "Mane",
+        "coordinate": "[0.510, 0.300, 0.246, 0.697]",
+        "qualified": true
+    },
+    {
+        "id": 397,
+        "img": "vg/VG_100K_2/2398396.jpg",
+        "question": "What is leaning on the boat in the calm blue waters?",
+        "cot": "Step 1: The calm blue waters are at [0.004, 0.006, 0.996, 0.994]\nStep 2: The boat with a metal bottom and wood sides is at [0.054, 0.196, 0.798, 0.445]\nStep 3: The large wooden stick leaning on the boat is at [0.446, 0.040, 0.518, 0.898]",
+        "answer": "Pole",
+        "coordinate": "[0.446, 0.040, 0.518, 0.898]",
+        "qualified": true
+    },
+    {
+        "id": 398,
+        "img": "vg/VG_100K/2336744.jpg",
+        "question": "What is on the trees behind the boy holding the tennis racquet?",
+        "cot": "Step 1: The boy holding the tennis racquet is at [0.093, 0.078, 0.826, 0.920]\nStep 2: The trees behind the boy are at [0.003, 0.002, 0.994, 0.996]\nStep 3: The leaves on the trees are at [0.000, 0.000, 0.997, 0.992]",
+        "answer": "Leaves",
+        "coordinate": "[0.000, 0.000, 0.997, 0.992]",
+        "qualified": true
+    },
+    {
+        "id": 408,
+        "img": "vg/VG_100K/2363058.jpg",
+        "question": "What is the object laced to the tennis racket that has a handle?",
+        "cot": "Step 1: The tennis racket has a handle at [0.858, 0.138, 0.138, 0.222].\nStep 2: The left foot canvas shoe is laced to the tennis racket at [0.474, 0.414, 0.284, 0.354].",
+        "answer": "Shoe",
+        "coordinate": "[0.474, 0.414, 0.284, 0.354]",
+        "qualified": true
+    },
+    {
+        "id": 411,
+        "img": "vg/VG_100K_2/2380258.jpg",
+        "question": "What is the green thing beside the chicken sandwich in the white styrofoam box?",
+        "cot": "Step 1: The white styrofoam box is at [0.066, 0.013, 0.930, 0.984]\nStep 2: The chicken sandwich in the box is at [0.228, 0.085, 0.508, 0.485]\nStep 3: The green thing beside the sandwich is at [0.234, 0.445, 0.294, 0.488]",
+        "answer": "Pickle",
+        "coordinate": "[0.234, 0.445, 0.294, 0.488]",
+        "qualified": true
+    },
+    {
+        "id": 414,
+        "img": "vg/VG_100K_2/2396589.jpg",
+        "question": "What is on the side of the double-decker passenger bus that has a back tire?",
+        "cot": "Step 1: The double-decker passenger bus is at [0.010, 0.128, 0.970, 0.747].\nStep 2: The back tire of the bus is at [0.604, 0.709, 0.128, 0.160].\nStep 3: The leaf on the side of the bus is at [0.734, 0.512, 0.168, 0.269].",
+        "answer": "Leaf",
+        "coordinate": "[0.734, 0.512, 0.168, 0.269]",
+        "qualified": true
+    },
+    {
+        "id": 417,
+        "img": "vg/VG_100K_2/2406048.jpg",
+        "question": "What is next to the hotdog on the wax paper wrapper?",
+        "cot": "Step 1: The wax paper wrapper is at [0.000, 0.516, 0.995, 0.482]\nStep 2: The hotdog on the wax paper wrapper is at [0.008, 0.678, 0.787, 0.302]\nStep 3: The small bottle next to the hotdog is at [0.349, 0.000, 0.643, 0.532]",
+        "answer": "Drink",
+        "coordinate": "[0.349, 0.000, 0.643, 0.532]",
+        "qualified": true
+    },
+    {
+        "id": 420,
+        "img": "vg/VG_100K_2/2406696.jpg",
+        "question": "What is near the bench with a man sitting on the wooden floor next to water?",
+        "cot": "Step 1: The wooden floor next to water is at [0.000, 0.804, 0.998, 0.187]\nStep 2: The bench with a man sitting on the wooden floor is at [0.048, 0.453, 0.902, 0.502]\nStep 3: The object near the bench is at [0.174, 0.393, 0.512, 0.511]",
+        "answer": "Bicycle",
+        "coordinate": "[0.174, 0.393, 0.512, 0.511]",
+        "qualified": true
+    },
+    {
+        "id": 424,
+        "img": "vg/VG_100K/2353617.jpg",
+        "question": "What is the man wearing black shorts doing in front of the red wall?",
+        "cot": "Step 1: The man wearing black shorts is at [0.200, 0.122, 0.619, 0.878]\nStep 2: The red wall behind the man is at [0.005, 0.004, 0.992, 0.644]\nStep 3: The man is playing tennis in front of the red wall",
+        "answer": "Playing tennis",
+        "coordinate": "[0.005, 0.004, 0.992, 0.644]",
+        "qualified": true
+    },
+    {
+        "id": 427,
+        "img": "vg/VG_100K_2/2400412.jpg",
+        "question": "What is the clear and blue thing over the body of water described as the ocean?",
+        "cot": "Step 1: The body of water described as the ocean is at [0.000, 0.420, 0.998, 0.198]\nStep 2: The clear and blue thing over the body of water is at [0.006, 0.003, 0.994, 0.420]",
+        "answer": "Sky",
+        "coordinate": "[0.006, 0.003, 0.994, 0.420]",
+        "qualified": true
+    },
+    {
+        "id": 432,
+        "img": "vg/VG_100K/2351577.jpg",
+        "question": "What is behind the young man playing on the blue tennis court?",
+        "cot": "Step 1: The young man holding a tennis racket is at [0.360, 0.382, 0.435, 0.412].\nStep 2: The metal fence behind the young man is at [0.006, 0.128, 0.988, 0.578].",
+        "answer": "Fence",
+        "coordinate": "[0.006, 0.128, 0.988, 0.578]",
+        "qualified": true
+    },
+    {
+        "id": 436,
+        "img": "vg/VG_100K_2/2403197.jpg",
+        "question": "What is above the white refrigerator behind the man laughing with his mouth open?",
+        "cot": "Step 1: The man laughing with his mouth open is at [0.237, 0.104, 0.664, 0.894].\nStep 2: The white refrigerator behind the man is at [0.003, 0.346, 0.331, 0.652].\nStep 3: The thing above the white refrigerator is at [0.000, 0.000, 0.213, 0.314].",
+        "answer": "Cupboard",
+        "coordinate": "[0.000, 0.000, 0.213, 0.314]",
+        "qualified": true
+    },
+    {
+        "id": 438,
+        "img": "vg/VG_100K_2/2409847.jpg",
+        "question": "What is the fruit with small brown spots near the dark blue bowl containing cereal?",
+        "cot": "Step 1: The dark blue bowl containing cereal is at [0.205, 0.438, 0.672, 0.474].\nStep 2: The banana with small brown spots is at [0.280, 0.196, 0.427, 0.190].",
+        "answer": "Banana",
+        "coordinate": "[0.280, 0.196, 0.427, 0.190]",
+        "qualified": true
+    },
+    {
+        "id": 440,
+        "img": "vg/VG_100K/2350376.jpg",
+        "question": "What is above the neatly made bed that has a patterned bed quilt?",
+        "cot": "Step 1: The neatly made bed is at [0.136, 0.521, 0.656, 0.476]\nStep 2: The patterned bed quilt on the bed is at [0.138, 0.647, 0.650, 0.350]\nStep 3: The large framed painting above the bed is at [0.522, 0.251, 0.200, 0.275]",
+        "answer": "Portrait",
+        "coordinate": "[0.522, 0.251, 0.200, 0.275]",
+        "qualified": true
+    },
+    {
+        "id": 441,
+        "img": "vg/VG_100K/2374676.jpg",
+        "question": "What is behind the two women at the bus stop?",
+        "cot": "Step 1: The bus stop is at [0.006, 0.084, 0.988, 0.916]\nStep 2: The two women at the bus stop are at [0.000, 0.090, 0.988, 0.904]\nStep 3: The red wall behind the two women is at [0.177, 0.008, 0.820, 0.932]",
+        "answer": "Wall",
+        "coordinate": "[0.177, 0.008, 0.820, 0.932]",
+        "qualified": true
+    },
+    {
+        "id": 445,
+        "img": "vg/VG_100K/2317414.jpg",
+        "question": "What is leaned against the inside of the white porcelain mug on the white table?",
+        "cot": "Step 1: The white table is at [0.000, 0.000, 1.000, 0.997]\nStep 2: The white porcelain mug on the table is at [0.112, 0.149, 0.380, 0.656]\nStep 3: The object leaned against the inside of the mug is at [0.008, 0.147, 0.418, 0.571]",
+        "answer": "Spoon",
+        "coordinate": "[0.008, 0.147, 0.418, 0.571]",
+        "qualified": true
+    },
+    {
+        "id": 452,
+        "img": "vg/VG_100K/2316261.jpg",
+        "question": "What is under the bed spread the cat is sleeping on?",
+        "cot": "Step 1: The black cat's head is part of the cat at [0.011, 0.152, 0.986, 0.846]\nStep 2: The bed spread the cat is sleeping on is at [0.011, 0.152, 0.986, 0.846]\nStep 3: The grey print blanket under the bed spread is at [0.004, 0.000, 0.993, 0.896]",
+        "answer": "Blanket",
+        "coordinate": "[0.004, 0.000, 0.993, 0.896]",
+        "qualified": true
+    },
+    {
+        "id": 456,
+        "img": "vg/VG_100K_2/2379125.jpg",
+        "question": "What is the reddish brown thing behind the stainless steel toilet with a black seat and lid?",
+        "cot": "Step 1: The stainless steel toilet with a black seat and lid is at [0.355, 0.412, 0.325, 0.534]\nStep 2: The reddish brown thing behind the stainless steel toilet is at [0.000, 0.002, 0.997, 0.678]",
+        "answer": "Wall",
+        "coordinate": "[0.000, 0.002, 0.997, 0.678]",
+        "qualified": true
+    },
+    {
+        "id": 463,
+        "img": "vg/VG_100K/2345346.jpg",
+        "question": "What is the large object in the background behind the brown bear standing on the brown stone wall?",
+        "cot": "Step 1: The brown stone wall is at [0.004, 0.827, 0.994, 0.163]\nStep 2: The brown bear standing on the wall is at [0.172, 0.261, 0.678, 0.597]\nStep 3: The large object behind the brown bear is at [0.010, 0.008, 0.980, 0.827]",
+        "answer": "Tree",
+        "coordinate": "[0.010, 0.008, 0.980, 0.827]",
+        "qualified": true
+    },
+    {
+        "id": 465,
+        "img": "vg/VG_100K_2/2380282.jpg",
+        "question": "What is the object behind the light brown horse standing in the green field?",
+        "cot": "Step 1: The green field covered in grass is at [0.002, 0.547, 0.994, 0.453].\nStep 2: The light brown horse standing in the green field is at [0.252, 0.408, 0.388, 0.405].\nStep 3: The object behind the light brown horse is at [0.000, 0.387, 0.996, 0.203].",
+        "answer": "Fence",
+        "coordinate": "[0.000, 0.387, 0.996, 0.203]",
+        "qualified": true
+    },
+    {
+        "id": 466,
+        "img": "vg/VG_100K/2361163.jpg",
+        "question": "What is the large structure behind the small metal fence on the grey metal pole?",
+        "cot": "Step 1: The grey metal pole is at [0.598, 0.147, 0.112, 0.851]\nStep 2: The small metal fence on the pole is at [0.000, 0.792, 0.998, 0.205]\nStep 3: The large structure behind the fence is at [0.154, 0.008, 0.844, 0.976]",
+        "answer": "Building",
+        "coordinate": "[0.154, 0.008, 0.844, 0.976]",
+        "qualified": true
+    },
+    {
+        "id": 472,
+        "img": "vg/VG_100K/2338129.jpg",
+        "question": "What is the animal walking past the blue and white train with a train window?",
+        "cot": "Step 1: The blue and white train is at [0.002, 0.000, 0.998, 0.868]\nStep 2: The train window is part of the train at [0.672, 0.228, 0.240, 0.216]\nStep 3: The animal walking past the train is at [0.306, 0.482, 0.640, 0.414]",
+        "answer": "Cow",
+        "coordinate": "[0.306, 0.482, 0.640, 0.414]",
+        "qualified": true
+    },
+    {
+        "id": 473,
+        "img": "vg/VG_100K_2/2380998.jpg",
+        "question": "What is behind the tan-colored sign that says \"Bliss Yoga Centre\"?",
+        "cot": "Step 1: The tan-colored sign is at [0.312, 0.117, 0.290, 0.404]\nStep 2: The sign says \"Bliss Yoga Centre\" with black and red fonts\nStep 3: The trees behind the sign are at [0.014, 0.027, 0.968, 0.654]",
+        "answer": "Trees",
+        "coordinate": "[0.014, 0.027, 0.968, 0.654]",
+        "qualified": true
+    },
+    {
+        "id": 483,
+        "img": "vg/VG_100K_2/2382670.jpg",
+        "question": "What is inside the cardboard box that contains the food?",
+        "cot": "Step 1: The cardboard box contains food at [0.054, 0.101, 0.936, 0.787].\nStep 2: Inside the cardboard box, there is another box full of vegetables at [0.080, 0.091, 0.898, 0.752].",
+        "answer": "Vegetables",
+        "coordinate": "[0.080, 0.091, 0.898, 0.752]",
+        "qualified": true
+    },
+    {
+        "id": 488,
+        "img": "vg/VG_100K/2353398.jpg",
+        "question": "What is covering the dog on the boat on the water?",
+        "cot": "Step 1: The boat on the water is at [0.308, 0.272, 0.660, 0.724]\nStep 2: The dog on the boat is at [0.206, 0.290, 0.790, 0.626]\nStep 3: The fur covering the dog is at [0.200, 0.290, 0.770, 0.624]",
+        "answer": "Fur",
+        "coordinate": "[0.200, 0.290, 0.770, 0.624]",
+        "qualified": true
+    },
+    {
+        "id": 490,
+        "img": "vg/VG_100K_2/2385416.jpg",
+        "question": "What is next to the pumpkin on the placemat on top of the table?",
+        "cot": "Step 1: The placemat on top of the table is at [0.004, 0.332, 0.942, 0.662].\nStep 2: The pumpkin on the placemat is at [0.616, 0.734, 0.240, 0.230].\nStep 3: The object next to the pumpkin is at [0.036, 0.460, 0.610, 0.538].",
+        "answer": "Pizza",
+        "coordinate": "[0.036, 0.460, 0.610, 0.538]",
+        "qualified": true
+    },
+    {
+        "id": 496,
+        "img": "vg/VG_100K_2/2400357.jpg",
+        "question": "What is the white object on the table that holds the piece of chocolate cake?",
+        "cot": "Step 1: The table is at [0.002, 0.032, 0.996, 0.968]\nStep 2: The piece of chocolate cake on the table is at [0.276, 0.203, 0.498, 0.643]\nStep 3: The white object holding the piece of chocolate cake is at [0.032, 0.232, 0.938, 0.763]",
+        "answer": "Plate",
+        "coordinate": "[0.032, 0.232, 0.938, 0.763]",
+        "qualified": true
+    },
+    {
+        "id": 498,
+        "img": "vg/VG_100K/2358748.jpg",
+        "question": "What is protecting the giraffe by the wires over metal poles?",
+        "cot": "Step 1: The wires over metal poles are at [0.002, 0.550, 0.994, 0.441]\nStep 2: The giraffe by the wires over metal poles is at [0.180, 0.057, 0.496, 0.928]\nStep 3: The slanted bar over higher fencing protecting the giraffe is at [0.662, 0.000, 0.334, 0.997]",
+        "answer": "Fence",
+        "coordinate": "[0.662, 0.000, 0.334, 0.997]",
+        "qualified": true
+    },
+    {
+        "id": 499,
+        "img": "vg/VG_100K/2361467.jpg",
+        "question": "What is under the pizza with pepperoni topping on the stove?",
+        "cot": "Step 1: The stove is at [0.004, 0.000, 0.996, 0.997]\nStep 2: The pizza with pepperoni topping on a pizza tray is on the stove at [0.062, 0.275, 0.418, 0.261]\nStep 3: The pan under the pizza is at [0.004, 0.264, 0.502, 0.291]",
+        "answer": "Pan",
+        "coordinate": "[0.004, 0.264, 0.502, 0.291]",
+        "qualified": true
+    },
+    {
+        "id": 501,
+        "img": "vg/VG_100K/2324563.jpg",
+        "question": "What is the yellow thing behind the man wearing a black and red checkered headband with his feet on a skateboard?",
+        "cot": "Step 1: The man wearing a black and red checkered headband is at [0.348, 0.382, 0.450, 0.576]\nStep 2: The yellow thing behind the man is at [0.216, 0.402, 0.207, 0.164]",
+        "answer": "Truck",
+        "coordinate": "[0.216, 0.402, 0.207, 0.164]",
+        "qualified": true
+    },
+    {
+        "id": 504,
+        "img": "vg/VG_100K_2/3875.jpg",
+        "question": "What is on the brown wooden table that is full of food?",
+        "cot": "Step 1: The brown wooden table is at [0.006, 0.004, 0.984, 0.992]\nStep 2: The plate full of food on the table is at [0.105, 0.113, 0.558, 0.744]\nStep 3: The plate full of food is at [0.109, 0.113, 0.556, 0.738]",
+        "answer": "Plate",
+        "coordinate": "[0.109, 0.113, 0.556, 0.738]",
+        "qualified": true
+    },
+    {
+        "id": 510,
+        "img": "vg/VG_100K_2/2385894.jpg",
+        "question": "What is under the giraffe that is in front of another giraffe?",
+        "cot": "Step 1: The giraffe in front is at [0.344, 0.169, 0.444, 0.740]\nStep 2: The dirt under the front giraffe is at [0.000, 0.825, 1.000, 0.172]",
+        "answer": "Dirt",
+        "coordinate": "[0.000, 0.825, 1.000, 0.172]",
+        "qualified": true
+    },
+    {
+        "id": 516,
+        "img": "vg/VG_100K_2/2404694.jpg",
+        "question": "What is the plant behind the large brunette woman wearing a black shirt?",
+        "cot": "Step 1: The large brunette woman wearing a black shirt is at [0.140, 0.184, 0.742, 0.813].\nStep 2: The plant behind the woman is at [0.752, 0.283, 0.248, 0.560].",
+        "answer": "Cactus",
+        "coordinate": "[0.752, 0.283, 0.248, 0.560]",
+        "qualified": true
+    },
+    {
+        "id": 518,
+        "img": "vg/VG_100K_2/2390214.jpg",
+        "question": "What is the brown and white thing on the wooden chair with a blue cushion?",
+        "cot": "Step 1: The wooden chair with a blue cushion is at [0.312, 0.272, 0.520, 0.562]\nStep 2: The brown and white thing lying down on the wooden chair is at [0.485, 0.408, 0.168, 0.238]",
+        "answer": "Dog",
+        "coordinate": "[0.485, 0.408, 0.168, 0.238]",
+        "qualified": true
+    },
+    {
+        "id": 521,
+        "img": "vg/VG_100K_2/2401022.jpg",
+        "question": "What is the object on the black and white motorcycle that has a glass windshield?",
+        "cot": "Step 1: The black and white motorcycle is at [0.000, 0.201, 0.974, 0.796].\nStep 2: The glass windshield is part of the motorcycle at [0.554, 0.177, 0.214, 0.495].\nStep 3: The object on the motorcycle is at [0.216, 0.000, 0.386, 0.997].",
+        "answer": "Man",
+        "coordinate": "[0.216, 0.000, 0.386, 0.997]",
+        "qualified": true
+    },
+    {
+        "id": 529,
+        "img": "vg/VG_100K/2323494.jpg",
+        "question": "What is on the grill that has a handle?",
+        "cot": "Step 1: The grill has a handle at [0.406, 0.821, 0.284, 0.133].\nStep 2: The banana on the grill is at [0.596, 0.189, 0.156, 0.227].",
+        "answer": "Banana",
+        "coordinate": "[0.596, 0.189, 0.156, 0.227]",
+        "qualified": true
+    },
+    {
+        "id": 535,
+        "img": "vg/VG_100K_2/2387137.jpg",
+        "question": "What is the white animal sitting on the boat floating on the lake?",
+        "cot": "Step 1: The lake with clean water is at [0.002, 0.248, 0.996, 0.611]\nStep 2: The boat floating on the lake is at [0.000, 0.299, 0.998, 0.699]\nStep 3: The white animal sitting on the boat is at [0.456, 0.728, 0.242, 0.269]",
+        "answer": "Dog",
+        "coordinate": "[0.456, 0.728, 0.242, 0.269]",
+        "qualified": true
+    },
+    {
+        "id": 536,
+        "img": "vg/VG_100K/2348368.jpg",
+        "question": "What is behind the furry brown bear standing on the downed log with knots?",
+        "cot": "Step 1: The downed log with knots is at [0.002, 0.721, 0.992, 0.270]\nStep 2: The furry brown bear standing on the log is at [0.154, 0.177, 0.516, 0.616]\nStep 3: The wall of green leaves behind the bear is at [0.002, 0.003, 0.994, 0.646]",
+        "answer": "Leaves",
+        "coordinate": "[0.002, 0.003, 0.994, 0.646]",
+        "qualified": true
+    },
+    {
+        "id": 538,
+        "img": "vg/VG_100K_2/2388537.jpg",
+        "question": "What is under the black cow that has fur?",
+        "cot": "Step 1: The black cow is at [0.000, 0.568, 0.430, 0.428]\nStep 2: The fur is at [0.006, 0.592, 0.406, 0.402]\nStep 3: The hay under the black cow is at [0.000, 0.416, 0.991, 0.574]",
+        "answer": "Straw",
+        "coordinate": "[0.000, 0.416, 0.991, 0.574]",
+        "qualified": true
+    },
+    {
+        "id": 540,
+        "img": "vg/VG_100K_2/2382404.jpg",
+        "question": "What is the chrome thing on the front of the bright red motor scooter that has a black leather seat?",
+        "cot": "Step 1: The bright red motor scooter has a black leather scooter seat.\nStep 2: The chrome thing on the front of the scooter is at [0.287, 0.336, 0.131, 0.086].",
+        "answer": "Headlight",
+        "coordinate": "[0.287, 0.336, 0.131, 0.086]",
+        "qualified": true
+    },
+    {
+        "id": 550,
+        "img": "vg/VG_100K/2343350.jpg",
+        "question": "What is the object by the giraffe that is by the fake plastic palm tree?",
+        "cot": "Step 1: The fake plastic palm tree is at [0.002, 0.147, 0.346, 0.853]\nStep 2: The giraffe by the fake plastic palm tree is at [0.174, 0.259, 0.382, 0.741]\nStep 3: The object by the giraffe is at [0.076, 0.000, 0.878, 0.995]",
+        "answer": "Window",
+        "coordinate": "[0.076, 0.000, 0.878, 0.995]",
+        "qualified": true
+    },
+    {
+        "id": 551,
+        "img": "vg/VG_100K_2/2404473.jpg",
+        "question": "What is behind the man with red hair?",
+        "cot": "Step 1: The man with red hair is at [0.003, 0.120, 0.995, 0.876]\nStep 2: The white window shade is at [0.000, 0.000, 0.984, 0.476]\nStep 3: The white window shade is behind the man",
+        "answer": "Blinds",
+        "coordinate": "[0.000, 0.000, 0.984, 0.476]",
+        "qualified": true
+    },
+    {
+        "id": 552,
+        "img": "vg/VG_100K/2336147.jpg",
+        "question": "What is the pink thing on the black and white dog standing on the sandy ground?",
+        "cot": "Step 1: The black and white dog is standing on the sandy ground.\nStep 2: The pink thing on the dog is at [0.576, 0.691, 0.122, 0.240].",
+        "answer": "Tongue",
+        "coordinate": "[0.576, 0.691, 0.122, 0.240]",
+        "qualified": true
+    },
+    {
+        "id": 560,
+        "img": "vg/VG_100K/2355439.jpg",
+        "question": "What is contained within the two plates that are part of the breakfasts?",
+        "cot": "Step 1: The two plates of food are at [0.002, 0.080, 0.994, 0.912]\nStep 2: The two plates of food are contained within the two plates\nStep 3: The two plates are part of the breakfasts at [0.004, 0.008, 0.990, 0.987]",
+        "answer": "Food",
+        "coordinate": "[0.004, 0.008, 0.990, 0.987]",
+        "qualified": true
+    },
+    {
+        "id": 561,
+        "img": "vg/VG_100K/2347568.jpg",
+        "question": "What is the small orange light next to the computer laptop in the foreground?",
+        "cot": "Step 1: The computer laptop in the foreground is at [0.003, 0.210, 0.538, 0.786].\nStep 2: The small orange light next to the laptop is at [0.511, 0.162, 0.361, 0.594].",
+        "answer": "Lamp",
+        "coordinate": "[0.511, 0.162, 0.361, 0.594]",
+        "qualified": true
+    },
+    {
+        "id": 564,
+        "img": "vg/VG_100K/2344586.jpg",
+        "question": "What is the yellow object on the meal with a variety of food?",
+        "cot": "Step 1: The meal with a variety of food is at [0.202, 0.156, 0.768, 0.787]\nStep 2: The yellow object on the meal is at [0.554, 0.380, 0.210, 0.317]",
+        "answer": "Lemon",
+        "coordinate": "[0.554, 0.380, 0.210, 0.317]",
+        "qualified": true
+    },
+    {
+        "id": 568,
+        "img": "vg/VG_100K/2374430.jpg",
+        "question": "What is next to the bowl of soup on the large white oval plate?",
+        "cot": "Step 1: The large white oval plate is at [0.003, 0.646, 0.987, 0.350]\nStep 2: The bowl of soup on the plate is at [0.019, 0.672, 0.464, 0.272]\nStep 3: The object next to the bowl of soup is at [0.483, 0.686, 0.205, 0.132]",
+        "answer": "Bread",
+        "coordinate": "[0.483, 0.686, 0.205, 0.132]",
+        "qualified": true
+    },
+    {
+        "id": 570,
+        "img": "vg/VG_100K/2369504.jpg",
+        "question": "What is the orange thing on the white collared shirt that has a white collar?",
+        "cot": "Step 1: The white collared shirt has a white collar.\nStep 2: The orange thing on top of the white collared shirt is at [0.372, 0.636, 0.261, 0.364].",
+        "answer": "Tie",
+        "coordinate": "[0.372, 0.636, 0.261, 0.364]",
+        "qualified": true
+    },
+    {
+        "id": 578,
+        "img": "vg/VG_100K/2341925.jpg",
+        "question": "What is the blurred animal behind the open black suitcase on the bed covered by a blue blanket?",
+        "cot": "Step 1: The bed covered by a blue blanket is at [0.002, 0.003, 0.992, 0.994]\nStep 2: The open black suitcase on the bed is at [0.002, 0.218, 0.844, 0.776]\nStep 3: The blurred animal behind the open black suitcase is at [0.008, 0.003, 0.712, 0.331]",
+        "answer": "Cat",
+        "coordinate": "[0.008, 0.003, 0.712, 0.331]",
+        "qualified": true
+    },
+    {
+        "id": 581,
+        "img": "vg/VG_100K_2/2402692.jpg",
+        "question": "What is the part of the bread next to the cooked broccoli?",
+        "cot": "Step 1: The cooked broccoli is at [0.008, 0.015, 0.570, 0.919]\nStep 2: The slice of bread next to the broccoli is at [0.424, 0.004, 0.574, 0.904]\nStep 3: The part of the bread is at [0.550, 0.557, 0.450, 0.332]",
+        "answer": "Crust",
+        "coordinate": "[0.550, 0.557, 0.450, 0.332]",
+        "qualified": true
+    },
+    {
+        "id": 582,
+        "img": "vg/VG_100K/2337802.jpg",
+        "question": "What is the multi-layer chocolate cake with coconut shavings on top placed on?",
+        "cot": "Step 1: The multi-layer chocolate cake with coconut shavings is at [0.210, 0.000, 0.552, 0.679]\nStep 2: The round white plate is at [0.008, 0.132, 0.990, 0.856]\nStep 3: The cake is placed on the plate.",
+        "answer": "Plate",
+        "coordinate": "[0.008, 0.132, 0.990, 0.856]",
+        "qualified": true
+    },
+    {
+        "id": 583,
+        "img": "vg/VG_100K_2/2409959.jpg",
+        "question": "What is the wooden object within the parched field of grass?",
+        "cot": "Step 1: The parched field of grass is at [0.000, 0.604, 0.998, 0.390]\nStep 2: The wooden object within the parched field of grass is at [0.722, 0.541, 0.212, 0.141]",
+        "answer": "Bench",
+        "coordinate": "[0.722, 0.541, 0.212, 0.141]",
+        "qualified": true
+    },
+    {
+        "id": 584,
+        "img": "vg/VG_100K/2363504.jpg",
+        "question": "What is the white kitchen appliance that has a shadow on the red brick wall?",
+        "cot": "Step 1: The red brick wall is at [0.004, 0.008, 0.986, 0.925].\nStep 2: The shadow on the red brick wall is at [0.466, 0.325, 0.530, 0.603].\nStep 3: The white kitchen appliance that has the shadow is at [0.186, 0.115, 0.306, 0.875].",
+        "answer": "Oven",
+        "coordinate": "[0.186, 0.115, 0.306, 0.875]",
+        "qualified": true
+    },
+    {
+        "id": 588,
+        "img": "vg/VG_100K/2364935.jpg",
+        "question": "What is the environment that contains trees and is full of trees with leaves?",
+        "cot": "Step 1: The forested environment is at [0.002, 0.006, 0.996, 0.931]\nStep 2: The trees in the forested environment are at [0.000, 0.000, 0.996, 0.940]\nStep 3: The forest full of trees with leaves is at [0.000, 0.000, 0.998, 0.997]",
+        "answer": "Forest",
+        "coordinate": "[0.000, 0.000, 0.998, 0.997]",
+        "qualified": true
+    },
+    {
+        "id": 612,
+        "img": "vg/VG_100K/2343350.jpg",
+        "question": "What is the white structure visible from the window in front of the giraffe?",
+        "cot": "Step 1: The giraffe is at [0.174, 0.259, 0.382, 0.741].\nStep 2: The window in front of the giraffe is at [0.076, 0.000, 0.878, 0.995].\nStep 3: The white structure visible from the window is at [0.560, 0.280, 0.332, 0.717].",
+        "answer": "Building",
+        "coordinate": "[0.560, 0.280, 0.332, 0.717]",
+        "qualified": true
+    },
+    {
+        "id": 616,
+        "img": "vg/VG_100K/2351011.jpg",
+        "question": "What is on the face of the man wearing a tan flowered shirt?",
+        "cot": "Step 1: The man wearing a tan flowered shirt is at [0.064, 0.070, 0.805, 0.926]\nStep 2: The beard on the man's face is at [0.368, 0.086, 0.243, 0.292]",
+        "answer": "Beard",
+        "coordinate": "[0.368, 0.086, 0.243, 0.292]",
+        "qualified": true
+    },
+    {
+        "id": 618,
+        "img": "vg/VG_100K/2318649.jpg",
+        "question": "What is the wooden object under the pepperoni pizza on the pan?",
+        "cot": "Step 1: The pan is at [0.166, 0.053, 0.670, 0.943]\nStep 2: The pepperoni pizza on the pan is at [0.196, 0.064, 0.616, 0.932]\nStep 3: The wooden object under the pizza is at [0.000, 0.004, 0.998, 0.993]",
+        "answer": "Table",
+        "coordinate": "[0.000, 0.004, 0.998, 0.993]",
+        "qualified": true
+    },
+    {
+        "id": 619,
+        "img": "vg/VG_100K_2/2386230.jpg",
+        "question": "What is the white thing on the rice in the pile?",
+        "cot": "Step 1: The pile contains a bunch of rice in a plate.\nStep 2: The white thing on the rice is at [0.346, 0.006, 0.560, 0.498].",
+        "answer": "Chicken",
+        "coordinate": "[0.346, 0.006, 0.560, 0.498]",
+        "qualified": true
+    },
+    {
+        "id": 624,
+        "img": "vg/VG_100K_2/2400522.jpg",
+        "question": "What is next to the large stack of apples in front of the man in the brown coat?",
+        "cot": "Step 1: The man in the brown coat is at [0.618, 0.157, 0.194, 0.377].\nStep 2: The large stack of apples in front of the man is at [0.564, 0.485, 0.436, 0.509].\nStep 3: The large stack of oranges next to the apples is at [0.000, 0.509, 0.626, 0.488].",
+        "answer": "Oranges",
+        "coordinate": "[0.000, 0.509, 0.626, 0.488]",
+        "qualified": true
+    },
+    {
+        "id": 627,
+        "img": "vg/VG_100K/2366603.jpg",
+        "question": "What is behind the red and white stop sign on the dark metal post?",
+        "cot": "Step 1: The dark metal post is at [0.386, 0.894, 0.066, 0.103]\nStep 2: The red and white stop sign on the dark metal post is at [0.158, 0.036, 0.498, 0.858]\nStep 3: The stretch of flowering plants behind the red and white stop sign is at [0.002, 0.502, 0.996, 0.492]",
+        "answer": "Bushes",
+        "coordinate": "[0.002, 0.502, 0.996, 0.492]",
+        "qualified": true
+    },
+    {
+        "id": 628,
+        "img": "vg/VG_100K_2/2409009.jpg",
+        "question": "What is on the plaid table cloth cover that has a round green plate?",
+        "cot": "Step 1: The plaid table cloth cover is at [0.008, 0.005, 0.990, 0.982]\nStep 2: The round green plate on the plaid table cloth cover is at [0.002, 0.165, 0.898, 0.776]\nStep 3: The round cake on the green plate is at [0.036, 0.165, 0.770, 0.683]",
+        "answer": "Cake",
+        "coordinate": "[0.036, 0.165, 0.770, 0.683]",
+        "qualified": true
+    },
+    {
+        "id": 634,
+        "img": "vg/VG_100K_2/2390362.jpg",
+        "question": "What is the brown thing under the young woman relaxing on the large bed?",
+        "cot": "Step 1: The large bed is at [0.002, 0.321, 0.996, 0.676]\nStep 2: The young woman relaxing on the bed is at [0.164, 0.081, 0.764, 0.649]\nStep 3: The brown thing under the young woman is at [0.002, 0.571, 0.752, 0.426]",
+        "answer": "Blanket",
+        "coordinate": "[0.002, 0.571, 0.752, 0.426]",
+        "qualified": true
+    },
+    {
+        "id": 640,
+        "img": "vg/VG_100K/2331714.jpg",
+        "question": "What is the orange thing in the green bowl on the red plastic dish?",
+        "cot": "Step 1: The red plastic dish is at [0.040, 0.616, 0.936, 0.364]\nStep 2: The green bowl on the red plastic dish is at [0.099, 0.382, 0.827, 0.440]\nStep 3: The orange thing in the green bowl is at [0.144, 0.370, 0.733, 0.246]",
+        "answer": "Food",
+        "coordinate": "[0.144, 0.370, 0.733, 0.246]",
+        "qualified": true
+    },
+    {
+        "id": 642,
+        "img": "vg/VG_100K/2343866.jpg",
+        "question": "What is beneath the bed with a black cat on top?",
+        "cot": "Step 1: The bed with a black cat on top is at [0.159, 0.164, 0.838, 0.772].\nStep 2: The three brown wooden drawers beneath the bed are at [0.716, 0.600, 0.281, 0.332].",
+        "answer": "Drawers",
+        "coordinate": "[0.716, 0.600, 0.281, 0.332]",
+        "qualified": true
+    },
+    {
+        "id": 643,
+        "img": "vg/VG_100K/2343107.jpg",
+        "question": "What is the pizza on the bluish gray formica table placed on?",
+        "cot": "Step 1: The bluish gray formica table is at [0.000, 0.030, 0.998, 0.970].\nStep 2: The pizza on the table is at [0.000, 0.291, 1.000, 0.670].\nStep 3: The steel tray for the pizza is at [0.002, 0.270, 0.858, 0.712].",
+        "answer": "Tray",
+        "coordinate": "[0.002, 0.270, 0.858, 0.712]",
+        "qualified": true
+    },
+    {
+        "id": 644,
+        "img": "vg/VG_100K/712951.jpg",
+        "question": "What is the black thing on the skateboarder young boy who is on the skateboard in the air?",
+        "cot": "Step 1: The skateboard in the air is at [0.210, 0.709, 0.465, 0.183]\nStep 2: The skateboarder young boy on the skateboard is at [0.191, 0.231, 0.587, 0.489]\nStep 3: The black thing on the boy is at [0.314, 0.525, 0.106, 0.092]",
+        "answer": "Kneepad",
+        "coordinate": "[0.314, 0.525, 0.106, 0.092]",
+        "qualified": true
+    },
+    {
+        "id": 647,
+        "img": "vg/VG_100K_2/2414327.jpg",
+        "question": "What is the blue object on the green bench with forest green slats?",
+        "cot": "Step 1: The green bench with forest green slats is at [0.200, 0.417, 0.644, 0.405].\nStep 2: The blue object on the bench is at [0.264, 0.441, 0.140, 0.222].",
+        "answer": "Backpack",
+        "coordinate": "[0.264, 0.441, 0.140, 0.222]",
+        "qualified": true
+    },
+    {
+        "id": 650,
+        "img": "vg/VG_100K_2/2391744.jpg",
+        "question": "What is the green thing near the giraffe with black fluffy hair on its tail?",
+        "cot": "Step 1: The giraffe with black fluffy hair on its tail is at [0.128, 0.099, 0.370, 0.800]\nStep 2: The green thing near the giraffe is at [0.386, 0.504, 0.612, 0.483]",
+        "answer": "Foliage",
+        "coordinate": "[0.386, 0.504, 0.612, 0.483]",
+        "qualified": true
+    },
+    {
+        "id": 655,
+        "img": "vg/VG_100K_2/2385894.jpg",
+        "question": "What is behind the giraffe that is in front of another giraffe?",
+        "cot": "Step 1: The giraffe in front of another giraffe is at [0.344, 0.169, 0.444, 0.740].\nStep 2: The large brown tree trunk behind the front giraffe is at [0.346, 0.000, 0.530, 0.864].",
+        "answer": "Tree",
+        "coordinate": "[0.346, 0.000, 0.530, 0.864]",
+        "qualified": true
+    },
+    {
+        "id": 656,
+        "img": "vg/VG_100K_2/2391726.jpg",
+        "question": "What is the health warning label behind the man standing in the paneled room?",
+        "cot": "Step 1: The man standing in the paneled room is at [0.000, 0.000, 0.888, 0.996]\nStep 2: The health warning label behind the man is at [0.698, 0.148, 0.299, 0.174]",
+        "answer": "Sign",
+        "coordinate": "[0.698, 0.148, 0.299, 0.174]",
+        "qualified": true
+    },
+    {
+        "id": 661,
+        "img": "vg/VG_100K/2322180.jpg",
+        "question": "What is on the front of the bear next to the baby chewing on a jacket?",
+        "cot": "Step 1: The baby chewing on a jacket is at [0.528, 0.144, 0.472, 0.853].\nStep 2: The bear next to the baby is at [0.000, 0.213, 0.582, 0.784].\nStep 3: The white tag on the front of the bear is at [0.244, 0.740, 0.128, 0.257].",
+        "answer": "Tag",
+        "coordinate": "[0.244, 0.740, 0.128, 0.257]",
+        "qualified": true
+    },
+    {
+        "id": 662,
+        "img": "vg/VG_100K_2/2384239.jpg",
+        "question": "What is the white thing in the sky floating by the metal wing of the plane?",
+        "cot": "Step 1: The air is at [0.000, 0.000, 0.998, 0.997]\nStep 2: The metal wing of the plane in the air is at [0.002, 0.003, 0.618, 0.995]\nStep 3: The white thing floating by the metal wing is at [0.720, 0.000, 0.278, 0.189]",
+        "answer": "Cloud",
+        "coordinate": "[0.720, 0.000, 0.278, 0.189]",
+        "qualified": true
+    },
+    {
+        "id": 665,
+        "img": "vg/VG_100K_2/2385700.jpg",
+        "question": "What is under the delicious looking pizza on the plate?",
+        "cot": "Step 1: The plate is at [0.082, 0.060, 0.832, 0.880]\nStep 2: The delicious looking pizza on the plate is at [0.140, 0.054, 0.754, 0.883]\nStep 3: The grey brushed pattern table top under the pizza is at [0.002, 0.006, 0.990, 0.973]",
+        "answer": "Table",
+        "coordinate": "[0.002, 0.006, 0.990, 0.973]",
+        "qualified": true
+    },
+    {
+        "id": 667,
+        "img": "vg/VG_100K/2374676.jpg",
+        "question": "What is the red thing behind the two women at the bus stop wearing a leopard print blouse?",
+        "cot": "Step 1: The two women at the bus stop are at [0.000, 0.090, 0.988, 0.904]\nStep 2: The red thing behind the women is at [0.177, 0.008, 0.820, 0.932]",
+        "answer": "Wall",
+        "coordinate": "[0.177, 0.008, 0.820, 0.932]",
+        "qualified": true
+    },
+    {
+        "id": 671,
+        "img": "vg/VG_100K_2/2383539.jpg",
+        "question": "What is connected to the bed next to the wall?",
+        "cot": "Step 1: The wall is at [0.162, 0.003, 0.658, 0.472]\nStep 2: The bed next to the wall is at [0.000, 0.040, 0.892, 0.957]\nStep 3: The wood headboard connected to the bed is at [0.172, 0.040, 0.630, 0.373]",
+        "answer": "Headboard",
+        "coordinate": "[0.172, 0.040, 0.630, 0.373]",
+        "qualified": true
+    },
+    {
+        "id": 674,
+        "img": "vg/VG_100K/2349570.jpg",
+        "question": "What is the structure over the large wide river?",
+        "cot": "Step 1: The large wide river is at [0.000, 0.568, 0.998, 0.429].\nStep 2: The bridge over the river is at [0.000, 0.000, 0.994, 0.491].",
+        "answer": "Bridge",
+        "coordinate": "[0.000, 0.000, 0.994, 0.491]",
+        "qualified": true
+    },
+    {
+        "id": 677,
+        "img": "vg/VG_100K_2/2385493.jpg",
+        "question": "What is behind the large and unshorn sheep in the green grass field?",
+        "cot": "Step 1: The green grass field is at [0.008, 0.320, 0.992, 0.677]\nStep 2: The large and unshorn sheep in the field is at [0.132, 0.592, 0.168, 0.160]\nStep 3: The thing behind the sheep is at [0.006, 0.179, 0.994, 0.213]",
+        "answer": "Fence",
+        "coordinate": "[0.006, 0.179, 0.994, 0.213]",
+        "qualified": true
+    },
+    {
+        "id": 680,
+        "img": "vg/VG_100K_2/2407402.jpg",
+        "question": "What is in front of the trophies on the long metal table with a black stripe?",
+        "cot": "Step 1: The long metal table with a black stripe is at [0.002, 0.096, 0.998, 0.419]\nStep 2: The table top filled with several trophies is at [0.000, 0.000, 0.998, 0.133]\nStep 3: The green and red motorcycle in front of the trophies is at [0.010, 0.067, 0.970, 0.747]",
+        "answer": "Motorcycle",
+        "coordinate": "[0.010, 0.067, 0.970, 0.747]",
+        "qualified": true
+    },
+    {
+        "id": 682,
+        "img": "vg/VG_100K/2365952.jpg",
+        "question": "What is on each side of the stone building that resembles a castle under the grey blue tinted sky?",
+        "cot": "Step 1: The grey blue tinted sky is at [0.002, 0.002, 0.994, 0.151]\nStep 2: The stone building that resembles a castle is at [0.138, 0.149, 0.674, 0.847]\nStep 3: The black and white clocks are at [0.288, 0.293, 0.144, 0.174]",
+        "answer": "Clocks",
+        "coordinate": "[0.288, 0.293, 0.144, 0.174]",
+        "qualified": true
+    },
+    {
+        "id": 683,
+        "img": "vg/VG_100K/2319245.jpg",
+        "question": "What is the man wearing tan shorts and a gold shirt next to?",
+        "cot": "Step 1: The man wearing tan shorts and a gold shirt is at [0.007, 0.270, 0.465, 0.604].\nStep 2: The fence behind the tennis court is at [0.000, 0.228, 0.997, 0.522].\nStep 3: The man is next to the fence.",
+        "answer": "Fence",
+        "coordinate": "[0.000, 0.228, 0.997, 0.522]",
+        "qualified": true
+    },
+    {
+        "id": 685,
+        "img": "vg/VG_100K/2351043.jpg",
+        "question": "What is beneath the giraffe near the fence?",
+        "cot": "Step 1: The giraffe near the fence is at [0.120, 0.120, 0.749, 0.786]\nStep 2: The dirt beneath the giraffe is at [0.021, 0.746, 0.973, 0.248]",
+        "answer": "Dirt",
+        "coordinate": "[0.021, 0.746, 0.973, 0.248]",
+        "qualified": true
+    },
+    {
+        "id": 690,
+        "img": "vg/VG_100K/2373660.jpg",
+        "question": "What is the brown thing on the double bed with dark green sheets?",
+        "cot": "Step 1: The double bed with dark green sheets is at [0.090, 0.480, 0.768, 0.517]\nStep 2: The brown thing on the bed is at [0.510, 0.485, 0.344, 0.347]",
+        "answer": "Headboard",
+        "coordinate": "[0.510, 0.485, 0.344, 0.347]",
+        "qualified": true
+    },
+    {
+        "id": 693,
+        "img": "vg/VG_100K_2/2407811.jpg",
+        "question": "What is the man holding that cuts the white delicious cake on the table with a blue table cloth?",
+        "cot": "Step 1: The table with a blue table cloth is at [0.000, 0.477, 0.998, 0.515]\nStep 2: The white delicious cake on the table is at [0.326, 0.510, 0.668, 0.487]\nStep 3: The man holding the black knife that cuts the cake is at [0.232, 0.378, 0.344, 0.298]",
+        "answer": "Knife",
+        "coordinate": "[0.232, 0.378, 0.344, 0.298]",
+        "qualified": true
+    },
+    {
+        "id": 694,
+        "img": "vg/VG_100K/2341639.jpg",
+        "question": "What is the container that holds the five large navel oranges?",
+        "cot": "Step 1: The metal rim of the bowl is at [0.020, 0.005, 0.974, 0.768].\nStep 2: The five large navel oranges within the bowl are at [0.034, 0.115, 0.912, 0.701].\nStep 3: The container holding the oranges is at [0.000, 0.005, 0.996, 0.992].",
+        "answer": "Bowl",
+        "coordinate": "[0.000, 0.005, 0.996, 0.992]",
+        "qualified": true
+    },
+    {
+        "id": 696,
+        "img": "vg/VG_100K_2/2414858.jpg",
+        "question": "What is the woman with a radio on her back doing to the young gray elephant behind the green fence?",
+        "cot": "Step 1: The green fence is at [0.000, 0.054, 0.998, 0.290].\nStep 2: The young gray elephant behind the fence is at [0.004, 0.168, 0.602, 0.820].\nStep 3: The woman with a radio on her back is at [0.344, 0.069, 0.654, 0.919].",
+        "answer": "Petting",
+        "coordinate": "[0.344, 0.069, 0.654, 0.919]",
+        "qualified": true
+    },
+    {
+        "id": 702,
+        "img": "vg/VG_100K/2360644.jpg",
+        "question": "What is the wooden thing in front of the wooden bench on the wooden board walk?",
+        "cot": "Step 1: The wooden board walk is at [0.000, 0.661, 1.000, 0.336]\nStep 2: The wooden bench on top of the wooden board walk is at [0.156, 0.467, 0.542, 0.355]\nStep 3: The wooden thing in front of the wooden bench is at [0.640, 0.400, 0.190, 0.181]",
+        "answer": "Sign",
+        "coordinate": "[0.640, 0.400, 0.190, 0.181]",
+        "qualified": true
+    },
+    {
+        "id": 703,
+        "img": "vg/VG_100K_2/2409691.jpg",
+        "question": "What is behind the Four Black Brant geese that are flying?",
+        "cot": "Step 1: The Four Black Brant geese are at [0.010, 0.024, 0.772, 0.807].\nStep 2: The open sky behind the geese is at [0.020, 0.009, 0.966, 0.918].",
+        "answer": "Sky",
+        "coordinate": "[0.020, 0.009, 0.966, 0.918]",
+        "qualified": true
+    },
+    {
+        "id": 705,
+        "img": "vg/VG_100K/2355939.jpg",
+        "question": "What is the yellow thing above the woman feeding elephants behind a metal fence?",
+        "cot": "Step 1: The woman feeding elephants is at [0.250, 0.277, 0.218, 0.715]\nStep 2: The yellow thing above the woman is at [0.004, 0.008, 0.744, 0.328]",
+        "answer": "Canopy",
+        "coordinate": "[0.004, 0.008, 0.744, 0.328]",
+        "qualified": true
+    },
+    {
+        "id": 706,
+        "img": "vg/VG_100K/2347871.jpg",
+        "question": "What is the animal standing by the water trickling down the stone wall?",
+        "cot": "Step 1: The stone wall with water trickling down it is at [0.004, 0.005, 0.442, 0.995]\nStep 2: The water trickling down the stone wall is at [0.002, 0.000, 0.270, 0.997]\nStep 3: The animal standing by the water is at [0.420, 0.400, 0.512, 0.582]",
+        "answer": "Elephant",
+        "coordinate": "[0.420, 0.400, 0.512, 0.582]",
+        "qualified": true
+    },
+    {
+        "id": 709,
+        "img": "vg/VG_100K/2359774.jpg",
+        "question": "What is inside the bowl on the table?",
+        "cot": "Step 1: The table is at [0.038, 0.028, 0.930, 0.929]\nStep 2: The bowl on the table is at [0.018, 0.031, 0.950, 0.959]\nStep 3: The thing inside the bowl is at [0.002, 0.005, 0.968, 0.990]",
+        "answer": "Food",
+        "coordinate": "[0.002, 0.005, 0.968, 0.990]",
+        "qualified": true
+    },
+    {
+        "id": 712,
+        "img": "vg/VG_100K_2/2410385.jpg",
+        "question": "What is the cover on the back of the toilet in the bathroom?",
+        "cot": "Step 1: The toilet in the bathroom is at [0.398, 0.002, 0.599, 0.980].\nStep 2: The cover on the back of the toilet is at [0.396, 0.000, 0.583, 0.492].",
+        "answer": "Lid",
+        "coordinate": "[0.396, 0.000, 0.583, 0.492]",
+        "qualified": true
+    },
+    {
+        "id": 716,
+        "img": "vg/VG_100K_2/2417522.jpg",
+        "question": "What is on the silver tray that includes the crust?",
+        "cot": "Step 1: The silver tray is at [0.164, 0.277, 0.834, 0.667]\nStep 2: The whole pizza on the silver tray is at [0.176, 0.229, 0.822, 0.696]\nStep 3: The crust is part of the whole pizza at [0.176, 0.237, 0.820, 0.691]",
+        "answer": "Pizza",
+        "coordinate": "[0.176, 0.237, 0.820, 0.691]",
+        "qualified": true
+    },
+    {
+        "id": 717,
+        "img": "vg/VG_100K/2366680.jpg",
+        "question": "What is on top of the two slices of sausage pizza on the black dish with a chipped edge?",
+        "cot": "Step 1: The black dish with a chipped edge is at [0.330, 0.184, 0.638, 0.672]\nStep 2: The two slices of sausage pizza on the dish are at [0.310, 0.290, 0.688, 0.470]\nStep 3: The cheese on top of the pizza is at [0.310, 0.290, 0.688, 0.470]",
+        "answer": "Cheese",
+        "coordinate": "[0.310, 0.290, 0.688, 0.470]",
+        "qualified": true
+    },
+    {
+        "id": 720,
+        "img": "vg/VG_100K/2315604.jpg",
+        "question": "What is on the white sheep in the background?",
+        "cot": "Step 1: The background is at [0.002, 0.003, 0.994, 0.994]\nStep 2: The white sheep in the background are at [0.324, 0.287, 0.620, 0.671]\nStep 3: The wool on the white sheep is at [0.316, 0.290, 0.626, 0.674]",
+        "answer": "Wool",
+        "coordinate": "[0.316, 0.290, 0.626, 0.674]",
+        "qualified": true
+    },
+    {
+        "id": 721,
+        "img": "vg/VG_100K/2363561.jpg",
+        "question": "What is under the man sitting on the floor with black shoes?",
+        "cot": "Step 1: The man sitting on the floor is at [0.078, 0.028, 0.840, 0.881]\nStep 2: The black shoes on his feet are at [0.080, 0.543, 0.240, 0.374]\nStep 3: The carpet under the man is at [0.004, 0.194, 0.996, 0.803]",
+        "answer": "Carpet",
+        "coordinate": "[0.004, 0.194, 0.996, 0.803]",
+        "qualified": true
+    },
+    {
+        "id": 725,
+        "img": "vg/VG_100K_2/2400621.jpg",
+        "question": "What is the person doing on the hill covered with snow?",
+        "cot": "Step 1: The hill covered with snow is at [0.000, 0.238, 0.998, 0.759]\nStep 2: The skier riding down the hill is at [0.120, 0.163, 0.184, 0.370]",
+        "answer": "Skiing",
+        "coordinate": "[0.120, 0.163, 0.184, 0.370]",
+        "qualified": true
+    },
+    {
+        "id": 727,
+        "img": "vg/VG_100K_2/2382560.jpg",
+        "question": "What is the red thing on the white building behind the cat on the bench?",
+        "cot": "Step 1: The cat on the bench is at [0.072, 0.180, 0.802, 0.686]\nStep 2: The white building behind the cat is at [0.024, 0.026, 0.954, 0.382]\nStep 3: The red thing on the white building is at [0.020, 0.022, 0.950, 0.186]",
+        "answer": "Roof",
+        "coordinate": "[0.020, 0.022, 0.950, 0.186]",
+        "qualified": true
+    },
+    {
+        "id": 738,
+        "img": "vg/VG_100K_2/2410412.jpg",
+        "question": "What is on the tear drop shaped plate on the brown table?",
+        "cot": "Step 1: The brown table is at [0.002, 0.374, 0.998, 0.623]\nStep 2: The tear drop shaped plate on the table is at [0.392, 0.379, 0.540, 0.417]\nStep 3: The doughnut with sugar on top is on the plate at [0.502, 0.474, 0.310, 0.236]",
+        "answer": "Doughnut",
+        "coordinate": "[0.502, 0.474, 0.310, 0.236]",
+        "qualified": true
+    },
+    {
+        "id": 739,
+        "img": "vg/VG_100K_2/2383319.jpg",
+        "question": "What is the small brown thing next to the sleeping baby in white clothing with black hair?",
+        "cot": "Step 1: The sleeping baby in white clothing with black hair is at [0.480, 0.102, 0.412, 0.802]\nStep 2: The small brown thing next to the baby is at [0.128, 0.261, 0.318, 0.520]",
+        "answer": "Teddy bear",
+        "coordinate": "[0.128, 0.261, 0.318, 0.520]",
+        "qualified": true
+    },
+    {
+        "id": 751,
+        "img": "vg/VG_100K_2/2379183.jpg",
+        "question": "What is the white thing over the stove in the kitchen?",
+        "cot": "Step 1: The kitchen is at [0.002, 0.000, 0.996, 0.997]\nStep 2: The white stove in the kitchen is at [0.138, 0.464, 0.564, 0.536]\nStep 3: The white thing over the stove is at [0.118, 0.045, 0.512, 0.387]",
+        "answer": "Microwave",
+        "coordinate": "[0.118, 0.045, 0.512, 0.387]",
+        "qualified": true
+    },
+    {
+        "id": 752,
+        "img": "vg/VG_100K/2358406.jpg",
+        "question": "What is the metallic object on the table covered with a table cloth holding a plate full of a meal?",
+        "cot": "Step 1: The table is covered with a table cloth holding a plate full of a meal.\nStep 2: The metallic object on the table is at [0.002, 0.003, 0.098, 0.430].",
+        "answer": "Fork",
+        "coordinate": "[0.002, 0.003, 0.098, 0.430]",
+        "qualified": true
+    },
+    {
+        "id": 761,
+        "img": "vg/VG_100K/2366157.jpg",
+        "question": "What is walking on the wet surface that has a reflection in the water?",
+        "cot": "Step 1: The reflection in the water is at [0.375, 0.836, 0.435, 0.162].\nStep 2: The wet surface beneath the horse is at [0.009, 0.672, 0.970, 0.324].\nStep 3: The horse walking on the wet surface is at [0.150, 0.348, 0.673, 0.496].",
+        "answer": "Horse",
+        "coordinate": "[0.150, 0.348, 0.673, 0.496]",
+        "qualified": true
+    },
+    {
+        "id": 764,
+        "img": "vg/VG_100K/2319038.jpg",
+        "question": "What is the white thing with the fluffy dog that has hair?",
+        "cot": "Step 1: The fluffy dog is at [0.200, 0.178, 0.571, 0.680]\nStep 2: The white thing with the fluffy dog is at [0.051, 0.260, 0.720, 0.736]",
+        "answer": "Toilet",
+        "coordinate": "[0.051, 0.260, 0.720, 0.736]",
+        "qualified": true
+    },
+    {
+        "id": 771,
+        "img": "vg/VG_100K_2/2387536.jpg",
+        "question": "What is on the portion of the large passenger train with green markings?",
+        "cot": "Step 1: The large passenger train is at [0.000, 0.120, 0.982, 0.762]\nStep 2: The portion of the train with green markings is at [0.002, 0.127, 0.724, 0.765]\nStep 3: The black tinted windows on the portion of the train are at [0.278, 0.232, 0.430, 0.307]",
+        "answer": "Windows",
+        "coordinate": "[0.278, 0.232, 0.430, 0.307]",
+        "qualified": true
+    },
+    {
+        "id": 772,
+        "img": "vg/VG_100K_2/2411474.jpg",
+        "question": "What is sitting in front of the black LG TV on the table with a large white doily?",
+        "cot": "Step 1: The table with a large white doily is at [0.126, 0.709, 0.872, 0.288].\nStep 2: The black LG TV on top of the table is at [0.202, 0.149, 0.724, 0.640].\nStep 3: The thing in front of the black LG TV is at [0.288, 0.275, 0.340, 0.723].",
+        "answer": "Cat",
+        "coordinate": "[0.288, 0.275, 0.340, 0.723]",
+        "qualified": true
+    },
+    {
+        "id": 779,
+        "img": "vg/VG_100K_2/2412218.jpg",
+        "question": "What is the white and blue thing on the boat that is on the shore?",
+        "cot": "Step 1: The shore is at [0.002, 0.643, 0.612, 0.355]\nStep 2: The boat on the shore is at [0.160, 0.179, 0.836, 0.816]\nStep 3: The white and blue thing on the boat is at [0.196, 0.179, 0.732, 0.555]",
+        "answer": "Bus",
+        "coordinate": "[0.196, 0.179, 0.732, 0.555]",
+        "qualified": true
+    },
+    {
+        "id": 784,
+        "img": "vg/VG_100K_2/2399057.jpg",
+        "question": "What is the red thing on the man in front of the trees blooming white flowers?",
+        "cot": "Step 1: The trees blooming white flowers are at [0.280, 0.000, 0.580, 0.541].\nStep 2: The man in front of the trees is at [0.362, 0.011, 0.292, 0.987].\nStep 3: The red thing on the man is at [0.362, 0.168, 0.294, 0.675].",
+        "answer": "Bathrobe",
+        "coordinate": "[0.362, 0.168, 0.294, 0.675]",
+        "qualified": true
+    },
+    {
+        "id": 786,
+        "img": "vg/VG_100K/2322756.jpg",
+        "question": "What is on the square white table that contains pizza?",
+        "cot": "Step 1: The square white table is at [0.000, 0.150, 0.996, 0.845]\nStep 2: The plate on the table is at [0.048, 0.283, 0.734, 0.666]\nStep 3: The pizza on the plate is at [0.048, 0.302, 0.738, 0.636]",
+        "answer": "Plate",
+        "coordinate": "[0.048, 0.302, 0.738, 0.636]",
+        "qualified": true
+    },
+    {
+        "id": 787,
+        "img": "vg/VG_100K_2/2395377.jpg",
+        "question": "What is under the pizza with a brown crust inside the cardboard pizza box?",
+        "cot": "Step 1: The cardboard pizza box is at [0.004, 0.003, 0.922, 0.992]\nStep 2: The pizza with a brown crust inside the box is at [0.138, 0.072, 0.710, 0.877]\nStep 3: The object under the pizza is at [0.116, 0.053, 0.790, 0.909]",
+        "answer": "Paper",
+        "coordinate": "[0.116, 0.053, 0.790, 0.909]",
+        "qualified": true
+    },
+    {
+        "id": 3,
+        "img": "vg/VG_100K_2/2401895.jpg",
+        "question": "What is the color of the shelf that holds the red clock made of books?",
+        "cot": "Step 1: The red clock made of books is at [0.200, 0.172, 0.616, 0.510]  \nStep 2: The shelf holding the clock is at [0.000, 0.202, 0.995, 0.556]  \nStep 3: The color of the shelf is grey at [0.021, 0.210, 0.973, 0.548]  ",
+        "answer": "Grey",
+        "coordinate": "[0.021, 0.210, 0.973, 0.548]",
+        "qualified": true
+    },
+    {
+        "id": 11,
+        "img": "vg/VG_100K_2/2393539.jpg",
+        "question": "What is on the table that holds the pancake?",
+        "cot": "Step 1: The plate of food is at [0.008, 0.008, 0.992, 0.987]  \nStep 2: The pancake is on the breakfast plate at [0.000, 0.000, 0.968, 0.907]  \nStep 3: The table holds the breakfast plate at [0.002, 0.003, 0.996, 0.989]  ",
+        "answer": "Plate",
+        "coordinate": "[0.002, 0.003, 0.996, 0.989]",
+        "qualified": true
+    },
+    {
+        "id": 19,
+        "img": "vg/VG_100K_2/2402662.jpg",
+        "question": "What covers the jar containing oranges and peaches?",
+        "cot": "Step 1: The jar contains oranges at [0.197, 0.312, 0.541, 0.404]  \nStep 2: The liquid with peaches is under the oranges at [0.189, 0.316, 0.571, 0.556]  \nStep 3: The silver lid covers the jar at [0.253, 0.002, 0.499, 0.148]  ",
+        "answer": "Lid",
+        "coordinate": "[0.253, 0.002, 0.499, 0.148]",
+        "qualified": true
+    },
+    {
+        "id": 38,
+        "img": "vg/VG_100K_2/2409089.jpg",
+        "question": "What is next to the grey dip on the square white plate with food?",
+        "cot": "Step 1: The square white plate with food is at [0.107, 0.396, 0.869, 0.544]  \nStep 2: The grey dip on the plate is at [0.275, 0.449, 0.198, 0.138]  \nStep 3: Next to the grey dip are orange carrots at [0.406, 0.433, 0.430, 0.227]  ",
+        "answer": "Carrots",
+        "coordinate": "[0.406, 0.433, 0.430, 0.227]",
+        "qualified": true
+    },
+    {
+        "id": 41,
+        "img": "vg/VG_100K/2320523.jpg",
+        "question": "What is under the white dessert plate holding the chocolate cake with a rose?",
+        "cot": "Step 1: The chocolate cake with a rose is at [0.192, 0.163, 0.574, 0.701]  \nStep 2: The white dessert plate supporting the cake is at [0.100, 0.019, 0.748, 0.981]  \nStep 3: The object under the white dessert plate is at [0.002, 0.005, 0.982, 0.979]  ",
+        "answer": "Table",
+        "coordinate": "[0.002, 0.005, 0.982, 0.979]",
+        "qualified": true
+    },
+    {
+        "id": 45,
+        "img": "vg/VG_100K_2/2379074.jpg",
+        "question": "What is the white plate resting on?",
+        "cot": "Step 1: The white plate is at [0.004, 0.029, 0.964, 0.963]\nStep 2: The counter is at [0.004, 0.005, 0.994, 0.989]",
+        "answer": "Counter",
+        "coordinate": "[0.004, 0.005, 0.994, 0.989]",
+        "qualified": true
+    },
+    {
+        "id": 48,
+        "img": "vg/VG_100K/2319994.jpg",
+        "question": "What is the man in the light blue dress shirt wearing?",
+        "cot": "Step 1: The man is at [0.009, 0.006, 0.976, 0.978]\nStep 2: The long black tie worn by the man is at [0.248, 0.084, 0.523, 0.912]",
+        "answer": "Tie",
+        "coordinate": "[0.248, 0.084, 0.523, 0.912]",
+        "qualified": true
+    },
+    {
+        "id": 51,
+        "img": "vg/VG_100K_2/2410696.jpg",
+        "question": "What covers the red plate containing the open-faced sandwich with sauce?",
+        "cot": "Step 1: The paper covering the plate is at [0.000, 0.003, 0.980, 0.995]  ",
+        "answer": "Paper",
+        "coordinate": "[0.000, 0.003, 0.980, 0.995]",
+        "qualified": true
+    },
+    {
+        "id": 70,
+        "img": "vg/VG_100K_2/2377541.jpg",
+        "question": "What does the dog have in its mouth?",
+        "cot": "Step 1: The dog is at [0.084, 0.018, 0.870, 0.982].  \nStep 2: The toy next to the dog is at [0.024, 0.259, 0.276, 0.367].  ",
+        "answer": "Frisbee",
+        "coordinate": "[0.024, 0.259, 0.276, 0.367]",
+        "qualified": true
+    },
+    {
+        "id": 84,
+        "img": "vg/VG_100K_2/2409089.jpg",
+        "question": "What food item is on the plate that has both sliced ham and white cheese cubes?",
+        "cot": "Step 1: The plate contains sliced ham at [0.138, 0.560, 0.527, 0.364]  \nStep 2: The plate also contains white cheese cubes at [0.614, 0.636, 0.265, 0.231]  \nStep 3: The food item on the same plate is located at [0.406, 0.433, 0.430, 0.227]  ",
+        "answer": "Carrots",
+        "coordinate": "[0.406, 0.433, 0.430, 0.227]",
+        "qualified": true
+    },
+    {
+        "id": 87,
+        "img": "vg/VG_100K_2/2398968.jpg",
+        "question": "What is on the white plate next to the red and green apple?",
+        "cot": "Step 1: The red and green apple is at [0.382, 0.021, 0.322, 0.449].  \nStep 2: The white plate containing the objects is at [0.002, 0.000, 0.994, 0.997].  \nStep 3: The brown donut next to the red and green apple is at [0.564, 0.335, 0.428, 0.503].  ",
+        "answer": "Donut",
+        "coordinate": "[0.564, 0.335, 0.428, 0.503]",
+        "qualified": true
+    },
+    {
+        "id": 90,
+        "img": "vg/VG_100K_2/2412267.jpg",
+        "question": "What is camouflaged by the ornamental high grass and shrubs?",
+        "cot": "Step 1: The zebra in the high grass is at [0.564, 0.317, 0.434, 0.562].  \nStep 2: The grass that helps camouflage is at [0.000, 0.317, 0.996, 0.680].  \nStep 3: The object camouflaged by the grass is at [0.002, 0.480, 0.420, 0.430].  ",
+        "answer": "Zebra",
+        "coordinate": "[0.002, 0.480, 0.420, 0.430]",
+        "qualified": true
+    },
+    {
+        "id": 95,
+        "img": "vg/VG_100K/285882.jpg",
+        "question": "What is the young boy sitting cross-legged on?",
+        "cot": "Step 1: The young boy is at [0.184, 0.452, 0.302, 0.265]  \nStep 2: He is sitting on a couch at [0.007, 0.429, 0.654, 0.539]  ",
+        "answer": "Couch",
+        "coordinate": "[0.007, 0.429, 0.654, 0.539]",
+        "qualified": true
+    },
+    {
+        "id": 100,
+        "img": "vg/VG_100K/2355456.jpg",
+        "question": "What does the man standing next to the elephant have on his shirt?",
+        "cot": "Step 1: The man standing next to the elephant is at [0.003, 0.298, 0.547, 0.700].  \nStep 2: The white shirt he is wearing is at [0.003, 0.468, 0.529, 0.364].  \nStep 3: The picture on the man's shirt is at [0.147, 0.566, 0.234, 0.162].  ",
+        "answer": "Picture",
+        "coordinate": "[0.147, 0.566, 0.234, 0.162]",
+        "qualified": true
+    },
+    {
+        "id": 106,
+        "img": "vg/VG_100K_2/3866.jpg",
+        "question": "What is the item that holds the cooked food and serves as the base for the round plate?",
+        "cot": "Step 1: The cooked food is at [0.336, 0.367, 0.261, 0.340]  \nStep 2: The dinner plate with food is at [0.209, 0.092, 0.573, 0.769]  \nStep 3: The base for the round plate is at [0.005, 0.000, 0.983, 0.994]  ",
+        "answer": "Counter",
+        "coordinate": "[0.005, 0.000, 0.983, 0.994]",
+        "qualified": true
+    },
+    {
+        "id": 107,
+        "img": "vg/VG_100K/2363687.jpg",
+        "question": "What is the brown teddy bear wearing?",
+        "cot": "Step 1: The brown teddy bear is at [0.468, 0.201, 0.496, 0.799]\nStep 2: The scarf being worn by the brown teddy bear is at [0.574, 0.595, 0.388, 0.402]",
+        "answer": "Scarf",
+        "coordinate": "[0.574, 0.595, 0.388, 0.402]",
+        "qualified": true
+    },
+    {
+        "id": 123,
+        "img": "vg/VG_100K_2/2392722.jpg",
+        "question": "What is on the table that has toppings under sauce?",
+        "cot": "Step 1: The pizza on the table is at [0.050, 0.005, 0.948, 0.989]\nStep 2: The sauce under the toppings is at [0.120, 0.024, 0.880, 0.965]\nStep 3: The pan under the pizza is at [0.006, 0.003, 0.978, 0.992]",
+        "answer": "Pizza",
+        "coordinate": "[0.006, 0.003, 0.978, 0.992]",
+        "qualified": true
+    },
+    {
+        "id": 138,
+        "img": "vg/VG_100K/2368935.jpg",
+        "question": "What material makes up the surface where the clock on a post is standing?",
+        "cot": "Step 1: The clock on a post is at [0.138, 0.240, 0.261, 0.698]  \nStep 2: The surface under the clock is a brick sidewalk at [0.000, 0.708, 0.988, 0.288]  \nStep 3: The material of the sidewalk is bricks at [0.003, 0.708, 0.979, 0.292]  ",
+        "answer": "Brick",
+        "coordinate": "[0.003, 0.708, 0.979, 0.292]",
+        "qualified": true
+    },
+    {
+        "id": 139,
+        "img": "vg/VG_100K/2320745.jpg",
+        "question": "What is under the sleeping black bear that is in front of the large bear?",
+        "cot": "Step 1: The large bear looking at the camera is at [0.492, 0.347, 0.464, 0.530]  \nStep 2: The sleeping black bear in front of the large bear is at [0.166, 0.228, 0.500, 0.389]  \nStep 3: What is under the sleeping black bear is at [0.012, 0.398, 0.982, 0.593]  ",
+        "answer": "Rock",
+        "coordinate": "[0.012, 0.398, 0.982, 0.593]",
+        "qualified": true
+    },
+    {
+        "id": 142,
+        "img": "vg/VG_100K/2316070.jpg",
+        "question": "What does the wire rack support?",
+        "cot": "Step 1: The wire rack is at [0.000, 0.378, 0.970, 0.312]\nStep 2: The three loaves of bread are at [0.020, 0.230, 0.926, 0.400]",
+        "answer": "Loaves",
+        "coordinate": "[0.020, 0.230, 0.926, 0.400]",
+        "qualified": true
+    },
+    {
+        "id": 146,
+        "img": "vg/VG_100K/2362114.jpg",
+        "question": "What is covering the emptied swimming pool below the skater?",
+        "cot": "Step 1: The emptied swimming pool is at [0.410, 0.715, 0.586, 0.282]  \nStep 2: The thing covering the emptied swimming pool is at [0.430, 0.739, 0.566, 0.258]  ",
+        "answer": "Graffiti",
+        "coordinate": "[0.430, 0.739, 0.566, 0.258]",
+        "qualified": true
+    },
+    {
+        "id": 181,
+        "img": "vg/VG_100K/2352890.jpg",
+        "question": "What is the man near the statue wearing?",
+        "cot": "Step 1: The man near the statue is at [0.012, 0.602, 0.429, 0.388]\nStep 2: The large brown jacket worn by the man is at [0.000, 0.730, 0.438, 0.268]",
+        "answer": "Coat",
+        "coordinate": "[0.000, 0.730, 0.438, 0.268]",
+        "qualified": true
+    },
+    {
+        "id": 184,
+        "img": "vg/VG_100K_2/2385907.jpg",
+        "question": "What covers the eyes of the young man in front of the stone wall?",
+        "cot": "Step 1: The young man is at [0.093, 0.148, 0.541, 0.852]  \nStep 2: His hair is at [0.263, 0.148, 0.224, 0.096]  ",
+        "answer": "Hair",
+        "coordinate": "[0.263, 0.148, 0.224, 0.096]",
+        "qualified": true
+    },
+    {
+        "id": 195,
+        "img": "vg/VG_100K_2/2385788.jpg",
+        "question": "What material is used for the part supporting the tabby cat lying on the bench?",
+        "cot": "Step 1: The tabby cat is lying on the bench at [0.002, 0.003, 0.996, 0.997].  \nStep 2: The back of the bench, made of iron, supports the tabby cat at [0.002, 0.003, 0.992, 0.444].  ",
+        "answer": "Iron",
+        "coordinate": "[0.002, 0.003, 0.992, 0.444]",
+        "qualified": true
+    },
+    {
+        "id": 202,
+        "img": "vg/VG_100K/2355978.jpg",
+        "question": "What is covering the baby sitting next to the old-fashioned teddy bear?",
+        "cot": "Step 1: The baby is at [0.000, 0.576, 1.000, 0.398].  \nStep 2: The white blanket around the baby is at [0.006, 0.490, 0.994, 0.506].  ",
+        "answer": "Blanket",
+        "coordinate": "[0.006, 0.490, 0.994, 0.506]",
+        "qualified": true
+    },
+    {
+        "id": 217,
+        "img": "vg/VG_100K_2/2394478.jpg",
+        "question": "What is the text near the company logo on the snowboard?",
+        "cot": "Step 1: The snowboard lying on the snow contains a white flower design at [0.712, 0.667, 0.094, 0.114].  \nStep 2: The company logo with a lotus graphic is located at [0.624, 0.631, 0.182, 0.147].  \nStep 3: The text near the company logo is at [0.622, 0.634, 0.124, 0.135].  ",
+        "answer": "ride",
+        "coordinate": "[0.622, 0.634, 0.124, 0.135]",
+        "qualified": true
+    },
+    {
+        "id": 221,
+        "img": "vg/VG_100K/2345825.jpg",
+        "question": "What is on the blue round plate that is on the wooden computer desk?",
+        "cot": "Step 1: The wooden computer desk is at [0.032, 0.032, 0.944, 0.963]  \nStep 2: The blue round plate on the desk is at [0.098, 0.328, 0.734, 0.597]  \nStep 3: One of two hot dogs on the blue plate is at [0.096, 0.405, 0.756, 0.336]  ",
+        "answer": "Hot dog",
+        "coordinate": "[0.096, 0.405, 0.756, 0.336]",
+        "qualified": true
+    },
+    {
+        "id": 228,
+        "img": "vg/VG_100K_2/2391844.jpg",
+        "question": "What is the object on the upside-down sleek orange deck?",
+        "cot": "Step 1: The upside-down sleek orange deck is at [0.092, 0.459, 0.764, 0.227]\nStep 2: The object on it is at [0.378, 0.507, 0.154, 0.099]",
+        "answer": "Logo",
+        "coordinate": "[0.378, 0.507, 0.154, 0.099]",
+        "qualified": true
+    },
+    {
+        "id": 244,
+        "img": "vg/VG_100K_2/2412574.jpg",
+        "question": "What is the object that the donuts and magazine are resting on?",
+        "cot": "Step 1: The donuts are at [0.230, 0.099, 0.540, 0.400].  \nStep 2: The magazine is at [0.086, 0.181, 0.788, 0.507].  \nStep 3: Both the donuts and magazine are resting on an object at [0.122, 0.077, 0.874, 0.920].  ",
+        "answer": "Trash can",
+        "coordinate": "[0.122, 0.077, 0.874, 0.920]",
+        "qualified": true
+    },
+    {
+        "id": 253,
+        "img": "vg/VG_100K/2359803.jpg",
+        "question": "What is the orange animal on the tan rubber floor mat sniffing?",
+        "cot": "Step 1: The tan rubber floor mat is at [0.006, 0.261, 0.786, 0.728]  \nStep 2: The orange tabby cat on the mat is at [0.006, 0.000, 0.692, 0.568]  \nStep 3: The clear bottle being sniffed by the cat is at [0.006, 0.344, 0.492, 0.371]  ",
+        "answer": "Bottle",
+        "coordinate": "[0.006, 0.344, 0.492, 0.371]",
+        "qualified": true
+    },
+    {
+        "id": 257,
+        "img": "vg/VG_100K/2368935.jpg",
+        "question": "What material makes up the sidewalk under the clock?",
+        "cot": "Step 1: The sidewalk under the clock is at [0.000, 0.708, 0.988, 0.288]  \nStep 2: The sidewalk is made of bricks at [0.003, 0.708, 0.979, 0.292]  ",
+        "answer": "Bricks",
+        "coordinate": "[0.003, 0.708, 0.979, 0.292]",
+        "qualified": true
+    },
+    {
+        "id": 280,
+        "img": "vg/VG_100K_2/2385907.jpg",
+        "question": "What covers the eyes of the young man standing against the graffiti-covered wall?",
+        "cot": "Step 1: The young man is standing against the stone wall at [0.093, 0.148, 0.541, 0.852].\nStep 2: The young man's hair is located at [0.263, 0.148, 0.224, 0.096] and covers his eyes.",
+        "answer": "Hair",
+        "coordinate": "[0.263, 0.148, 0.224, 0.096]",
+        "qualified": true
+    },
+    {
+        "id": 290,
+        "img": "vg/VG_100K/2317458.jpg",
+        "question": "What do the trees have?",
+        "cot": "Step 1: The trees are at [0.009, 0.002, 0.988, 0.658]\nStep 2: What the trees have is at [0.006, 0.000, 0.988, 0.654]",
+        "answer": "Leaves",
+        "coordinate": "[0.006, 0.000, 0.988, 0.654]",
+        "qualified": true
+    },
+    {
+        "id": 297,
+        "img": "vg/VG_100K_2/2385473.jpg",
+        "question": "What type of animal is near the wooden fence?",
+        "cot": "Step 1: A thinner legged, limber seeming zebra is at [0.362, 0.419, 0.230, 0.335]  \nStep 2: The wooden fence closest to the zebra is at [0.644, 0.323, 0.356, 0.413]  \nStep 3: A black and white zebra beside the wooden fence is at [0.136, 0.431, 0.242, 0.266]  ",
+        "answer": "Zebra",
+        "coordinate": "[0.136, 0.431, 0.242, 0.266]",
+        "qualified": true
+    },
+    {
+        "id": 306,
+        "img": "vg/VG_100K/2341176.jpg",
+        "question": "What is the man wearing who is holding a plate of food?",
+        "cot": "Step 1: The person is at [0.002, 0.660, 0.998, 0.330]  \nStep 2: The blue rubber wristlet on the person\u2019s arm is at [0.060, 0.750, 0.272, 0.200]  ",
+        "answer": "Bracelet",
+        "coordinate": "[0.060, 0.750, 0.272, 0.200]",
+        "qualified": true
+    },
+    {
+        "id": 309,
+        "img": "vg/VG_100K_2/2402178.jpg",
+        "question": "What is the bald man with a cellphone wearing?",
+        "cot": "Step 1: The bald man with a cellphone is at [0.003, 0.008, 0.995, 0.992]  \nStep 2: He is wearing an object at [0.011, 0.314, 0.987, 0.682]  ",
+        "answer": "Shirt",
+        "coordinate": "[0.011, 0.314, 0.987, 0.682]",
+        "qualified": true
+    },
+    {
+        "id": 324,
+        "img": "vg/VG_100K_2/2402662.jpg",
+        "question": "What material makes up the silver lid of the jar sitting on the wooden table?",
+        "cot": "Step 1: The jar is at [0.181, 0.008, 0.600, 0.868]  \nStep 2: The silver lid of the jar is at [0.253, 0.002, 0.499, 0.148]  \nStep 3: The metal that makes up the silver lid is at [0.253, 0.002, 0.493, 0.148]  ",
+        "answer": "Metal",
+        "coordinate": "[0.253, 0.002, 0.493, 0.148]",
+        "qualified": true
+    },
+    {
+        "id": 336,
+        "img": "vg/VG_100K_2/2413757.jpg",
+        "question": "What is the skateboarder in the air wearing?",
+        "cot": "Step 1: The skateboarder is at [0.035, 0.000, 0.890, 0.510]  \nStep 2: The black pants are at [0.080, 0.014, 0.842, 0.432]  ",
+        "answer": "Jeans",
+        "coordinate": "[0.080, 0.014, 0.842, 0.432]",
+        "qualified": true
+    },
+    {
+        "id": 349,
+        "img": "vg/VG_100K_2/2382393.jpg",
+        "question": "What is the green thing in the food on the plate?",
+        "cot": "Step 1: The white porcelain plate holds the food at [0.004, 0.003, 0.924, 0.864].\nStep 2: The green thing within the food is located at [0.264, 0.008, 0.550, 0.557].",
+        "answer": "Broccoli",
+        "coordinate": "[0.264, 0.008, 0.550, 0.557]",
+        "qualified": true
+    },
+    {
+        "id": 354,
+        "img": "vg/VG_100K/2357057.jpg",
+        "question": "What is the food item on the paper plate that is also on a bun?",
+        "cot": "Step 1: The paper plate contains cookout foods at [0.046, 0.040, 0.916, 0.920].\nStep 2: The hot dog with the plate is at [0.194, 0.142, 0.210, 0.768].\nStep 3: The food item on the bun is at [0.042, 0.072, 0.476, 0.846].",
+        "answer": "Hot dog",
+        "coordinate": "[0.042, 0.072, 0.476, 0.846]",
+        "qualified": true
+    },
+    {
+        "id": 356,
+        "img": "vg/VG_100K_2/2384260.jpg",
+        "question": "What is the object that supports the white and circular plate holding the torn bread?",
+        "cot": "Step 1: The torn bread is at [0.168, 0.176, 0.602, 0.683]  \nStep 2: The white and circular plate under the bread is at [0.172, 0.053, 0.766, 0.941]  \nStep 3: The marbled table supporting the plate is at [0.002, 0.000, 0.996, 0.997]  ",
+        "answer": "Table",
+        "coordinate": "[0.002, 0.000, 0.996, 0.997]",
+        "qualified": true
+    },
+    {
+        "id": 357,
+        "img": "vg/VG_100K/2328986.jpg",
+        "question": "What is in the glass near the green plate?",
+        "cot": "Step 1: The green plate is at [0.166, 0.264, 0.436, 0.376]\nStep 2: The glass near the green plate is at [0.574, 0.128, 0.284, 0.683]\nStep 3: The milk in the glass is at [0.578, 0.229, 0.276, 0.384]",
+        "answer": "Milk",
+        "coordinate": "[0.578, 0.229, 0.276, 0.384]",
+        "qualified": true
+    },
+    {
+        "id": 369,
+        "img": "vg/VG_100K/2316070.jpg",
+        "question": "What is supporting the three loaves of bread that are behind the mixer?",
+        "cot": "Step 1: The mixer is at [0.028, 0.000, 0.504, 0.356]\nStep 2: Three loaves of bread are at [0.020, 0.224, 0.944, 0.422]\nStep 3: The wire rack supporting the three loaves of bread is at [0.004, 0.396, 0.968, 0.280]",
+        "answer": "Rack",
+        "coordinate": "[0.004, 0.396, 0.968, 0.280]",
+        "qualified": true
+    },
+    {
+        "id": 372,
+        "img": "vg/VG_100K/2366238.jpg",
+        "question": "What is on the black cell phone that has big blue eyes?",
+        "cot": "Step 1: The black cell phone is at [0.138, 0.069, 0.406, 0.925]  \nStep 2: The owl with big blue eyes is associated with the black cell phone case at [0.432, 0.090, 0.120, 0.279]  ",
+        "answer": "Owl",
+        "coordinate": "[0.432, 0.090, 0.120, 0.279]",
+        "qualified": true
+    },
+    {
+        "id": 375,
+        "img": "vg/VG_100K_2/2402346.jpg",
+        "question": "What is the object that the black and white dog near the white fence is reaching for?",
+        "cot": "Step 1: The white fence is at [0.006, 0.495, 0.990, 0.210]  \nStep 2: The woman playing with the dog is in front of the fence at [0.552, 0.430, 0.246, 0.505]  \nStep 3: The black and white dog near the woman is reaching for an object at [0.506, 0.084, 0.066, 0.078]  ",
+        "answer": "Frisbee",
+        "coordinate": "[0.506, 0.084, 0.066, 0.078]",
+        "qualified": true
+    },
+    {
+        "id": 379,
+        "img": "vg/VG_100K/2347379.jpg",
+        "question": "What is on the uncooked dough tray?",
+        "cot": "Step 1: The uncooked dough tray is at [0.000, 0.165, 1.000, 0.827]  \nStep 2: The doughnuts are on the cookie sheet at [0.010, 0.248, 0.988, 0.621]  ",
+        "answer": "Doughnuts",
+        "coordinate": "[0.010, 0.248, 0.988, 0.621]",
+        "qualified": true
+    },
+    {
+        "id": 382,
+        "img": "vg/VG_100K_2/2383547.jpg",
+        "question": "What is in the box that has an orange drink next to it?",
+        "cot": "Step 1: The orange drink is at [0.106, 0.008, 0.164, 0.365]\nStep 2: The box next to the orange drink is at [0.248, 0.003, 0.718, 0.701]\nStep 3: The donuts inside the box are at [0.356, 0.347, 0.422, 0.307]",
+        "answer": "Doughnuts",
+        "coordinate": "[0.356, 0.347, 0.422, 0.307]",
+        "qualified": true
+    },
+    {
+        "id": 386,
+        "img": "vg/VG_100K_2/2410787.jpg",
+        "question": "What is the animal on the chair that is above the multicolored carpet?",
+        "cot": "Step 1: The brown chair is at [0.000, 0.000, 0.995, 0.978]\nStep 2: The multicolored carpet below the chair is at [0.003, 0.002, 0.973, 0.994]\nStep 3: The animal on the chair is at [0.000, 0.094, 1.000, 0.852]",
+        "answer": "Cat",
+        "coordinate": "[0.000, 0.094, 1.000, 0.852]",
+        "qualified": true
+    },
+    {
+        "id": 393,
+        "img": "vg/VG_100K_2/2408704.jpg",
+        "question": "What is covering the meat and cheese sandwich?",
+        "cot": "Step 1: The sandwich containing meat and cheese is at [0.192, 0.330, 0.302, 0.441]  \nStep 2: The yellow sauce on top of the sandwich is at [0.232, 0.347, 0.246, 0.364]  ",
+        "answer": "Mustard",
+        "coordinate": "[0.232, 0.347, 0.246, 0.364]",
+        "qualified": true
+    },
+    {
+        "id": 397,
+        "img": "vg/VG_100K_2/2395854.jpg",
+        "question": "What is the object held by the girl sitting on the light brown horse?",
+        "cot": "Step 1: The light brown horse is at [0.000, 0.604, 0.997, 0.394]  \nStep 2: The girl sitting on the horse is at [0.432, 0.220, 0.459, 0.778]  \nStep 3: The object held by the girl is at [0.399, 0.652, 0.595, 0.344]  ",
+        "answer": "Saddle",
+        "coordinate": "[0.399, 0.652, 0.595, 0.344]",
+        "qualified": true
+    },
+    {
+        "id": 402,
+        "img": "vg/VG_100K_2/2379759.jpg",
+        "question": "What is the woman holding that has a pizza slice on it?",
+        "cot": "Step 1: The woman is at [0.452, 0.069, 0.540, 0.859]  \nStep 2: The pizza slice she is eating is at [0.492, 0.435, 0.212, 0.208]  \nStep 3: The white paper plate under the pizza slice is at [0.530, 0.523, 0.268, 0.173]  ",
+        "answer": "Plate",
+        "coordinate": "[0.530, 0.523, 0.268, 0.173]",
+        "qualified": true
+    },
+    {
+        "id": 412,
+        "img": "vg/VG_100K/2356003.jpg",
+        "question": "What is covering the ground where the man in a jacket is sitting?",
+        "cot": "Step 1: The man wearing a jacket is at [0.332, 0.205, 0.320, 0.549]  \nStep 2: The snow the man is sitting on is at [0.006, 0.005, 0.990, 0.973]  \nStep 3: The ground covered by the snow is at [0.012, 0.003, 0.986, 0.979]  ",
+        "answer": "Snow",
+        "coordinate": "[0.012, 0.003, 0.986, 0.979]",
+        "qualified": true
+    },
+    {
+        "id": 423,
+        "img": "vg/VG_100K_2/2412179.jpg",
+        "question": "What is inside the golden toasted bun next to the wine bottle?",
+        "cot": "Step 1: The wine bottle is at [0.000, 0.000, 0.431, 0.996]\nStep 2: The hot dog next to the wine bottle is at [0.663, 0.160, 0.232, 0.842]\nStep 3: The golden toasted bun containing the hot dog is at [0.689, 0.166, 0.176, 0.832]",
+        "answer": "Hot dog",
+        "coordinate": "[0.689, 0.166, 0.176, 0.832]",
+        "qualified": true
+    },
+    {
+        "id": 430,
+        "img": "vg/VG_100K/2349523.jpg",
+        "question": "What animal does the woman feed while standing near the fence?",
+        "cot": "Step 1: The woman in gray clothing is at [0.612, 0.267, 0.188, 0.649]  \nStep 2: The brown and black fence is at [0.000, 0.381, 0.654, 0.369]  \nStep 3: The animal the woman feeds is at [0.160, 0.084, 0.472, 0.538]  ",
+        "answer": "Elephant",
+        "coordinate": "[0.160, 0.084, 0.472, 0.538]",
+        "qualified": true
+    },
+    {
+        "id": 439,
+        "img": "vg/VG_100K/2322499.jpg",
+        "question": "What is under the two glazed crullers?",
+        "cot": "Step 1: The red lettering declaring \"Timbits\" is at [0.028, 0.258, 0.588, 0.286]\nStep 2: The closed carton with words on the side is at [0.004, 0.034, 0.620, 0.522]\nStep 3: The brown plastic fast food table is at [0.004, 0.170, 0.996, 0.828]\nStep 4: The two glazed crullers are at [0.202, 0.388, 0.640, 0.460]\nStep 5: Underneath the two glazed crullers is the white paper napkin at [0.086, 0.604, 0.818, 0.396]",
+        "answer": "Napkin",
+        "coordinate": "[0.086, 0.604, 0.818, 0.396]",
+        "qualified": true
+    },
+    {
+        "id": 441,
+        "img": "vg/VG_100K/2320745.jpg",
+        "question": "What is underneath the two bears?",
+        "cot": "Step 1: The trees in the background are at [0.004, 0.000, 0.994, 0.599]  \nStep 2: The sleeping black bear near another large bear is at [0.166, 0.228, 0.500, 0.389]  \nStep 3: The rock underneath the two bears is at [0.012, 0.398, 0.982, 0.593]  ",
+        "answer": "Rock",
+        "coordinate": "[0.012, 0.398, 0.982, 0.593]",
+        "qualified": true
+    },
+    {
+        "id": 446,
+        "img": "vg/VG_100K/2321936.jpg",
+        "question": "What does the snow cover in the scene where a bear is walking?",
+        "cot": "Step 1: The snow covering the ground is at [0.000, 0.012, 0.998, 0.985]  \nStep 2: The ground covered by snow is at [0.006, 0.003, 0.986, 0.985]  ",
+        "answer": "Ground",
+        "coordinate": "[0.006, 0.003, 0.986, 0.985]",
+        "qualified": true
+    },
+    {
+        "id": 466,
+        "img": "vg/VG_100K/2327498.jpg",
+        "question": "What does the giraffe stand on?",
+        "cot": "Step 1: The giraffe is at [0.270, 0.126, 0.607, 0.778]  \nStep 2: The grass beneath the giraffe is at [0.000, 0.636, 0.997, 0.360]  ",
+        "answer": "Grass",
+        "coordinate": "[0.000, 0.636, 0.997, 0.360]",
+        "qualified": true
+    },
+    {
+        "id": 474,
+        "img": "vg/VG_100K_2/2412966.jpg",
+        "question": "What is the woman in front of the wooden table wearing?",
+        "cot": "Step 1: The wooden table is at [0.000, 0.565, 1.000, 0.421].  \nStep 2: The woman in front of the table is at [0.180, 0.003, 0.486, 0.779].  \nStep 3: The dark sweater worn by the woman is at [0.188, 0.267, 0.460, 0.523].  ",
+        "answer": "Sweater",
+        "coordinate": "[0.188, 0.267, 0.460, 0.523]",
+        "qualified": true
+    },
+    {
+        "id": 492,
+        "img": "vg/VG_100K/2367907.jpg",
+        "question": "What is the object associated with the man who is in front of the green metal fence?",
+        "cot": "Step 1: The green metal fence is at [0.314, 0.000, 0.686, 0.640]\nStep 2: The man in front of the fence is jumping off an object at [0.340, 0.315, 0.252, 0.138]",
+        "answer": "Skateboard",
+        "coordinate": "[0.340, 0.315, 0.252, 0.138]",
+        "qualified": true
+    },
+    {
+        "id": 519,
+        "img": "vg/VG_100K_2/2383547.jpg",
+        "question": "What does the box contain?",
+        "cot": "Step 1: The box is at [0.248, 0.003, 0.718, 0.701]\nStep 2: The doughnuts are inside the box at [0.356, 0.347, 0.422, 0.307]",
+        "answer": "Doughnuts",
+        "coordinate": "[0.356, 0.347, 0.422, 0.307]",
+        "qualified": true
+    },
+    {
+        "id": 568,
+        "img": "vg/VG_100K/2355373.jpg",
+        "question": "What is the object held by the left hand that is below the long sleeve shirt?",
+        "cot": "Step 1: The long sleeve shirt is at [0.006, 0.577, 0.462, 0.414]  \nStep 2: The left hand below the long sleeve shirt is at [0.416, 0.078, 0.474, 0.742]  \nStep 3: The object held by the left hand is at [0.580, 0.180, 0.256, 0.498]  ",
+        "answer": "Cellphone",
+        "coordinate": "[0.580, 0.180, 0.256, 0.498]",
+        "qualified": true
+    },
+    {
+        "id": 578,
+        "img": "vg/VG_100K/2349192.jpg",
+        "question": "What is the object carried by the man wearing a black and red wetsuit?",
+        "cot": "Step 1: The man wearing a black and red wetsuit is at [0.211, 0.134, 0.525, 0.632]  \nStep 2: The white surfboard with black graphics is at [0.053, 0.250, 0.656, 0.336]  ",
+        "answer": "Surfboard",
+        "coordinate": "[0.053, 0.250, 0.656, 0.336]",
+        "qualified": true
+    },
+    {
+        "id": 605,
+        "img": "vg/VG_100K_2/2408704.jpg",
+        "question": "What is on the meat and cheese sandwich beside the potato chips?",
+        "cot": "Step 1: The meat and cheese sandwich is at [0.192, 0.330, 0.302, 0.441]\nStep 2: The yellow sauce drizzled on top of the sandwich is at [0.232, 0.347, 0.246, 0.364]",
+        "answer": "Mustard",
+        "coordinate": "[0.232, 0.347, 0.246, 0.364]",
+        "qualified": true
+    },
+    {
+        "id": 611,
+        "img": "vg/VG_100K_2/2408704.jpg",
+        "question": "What is on the meat and cheese sandwich beside the potato chips?",
+        "cot": "Step 1: The meat and cheese sandwich is at [0.192, 0.330, 0.302, 0.441]\nStep 2: The potato chips are beside the sandwich at [0.364, 0.292, 0.200, 0.450]\nStep 3: The yellow sauce on the sandwich is at [0.232, 0.347, 0.246, 0.364]",
+        "answer": "Mustard",
+        "coordinate": "[0.232, 0.347, 0.246, 0.364]",
+        "qualified": true
+    },
+    {
+        "id": 652,
+        "img": "vg/VG_100K_2/2395854.jpg",
+        "question": "What is the object that the light brown horse is carrying?",
+        "cot": "Step 1: The light brown horse is at [0.000, 0.604, 0.997, 0.394]\nStep 2: The girl sitting on the horse is at [0.432, 0.220, 0.459, 0.778]",
+        "answer": "Girl",
+        "coordinate": "[0.432, 0.220, 0.459, 0.778]",
+        "qualified": true
+    },
+    {
+        "id": 676,
+        "img": "vg/VG_100K/2372737.jpg",
+        "question": "What is the object held by the woman wading into the ocean?",
+        "cot": "Step 1: The woman wading into the ocean is at [0.232, 0.214, 0.274, 0.591]  \nStep 2: The object held by the woman is at [0.336, 0.364, 0.320, 0.511]  ",
+        "answer": "Surfboard",
+        "coordinate": "[0.336, 0.364, 0.320, 0.511]",
+        "qualified": true
+    },
+    {
+        "id": 678,
+        "img": "vg/VG_100K_2/2402346.jpg",
+        "question": "What is the object that the dog is reaching for?",
+        "cot": "Step 1: The woman playing with the dog is at [0.552, 0.430, 0.246, 0.505]  \nStep 2: The black and white dog is at [0.574, 0.146, 0.252, 0.456]  \nStep 3: The object being reached for by the dog is at [0.506, 0.084, 0.066, 0.078]  ",
+        "answer": "Frisbee",
+        "coordinate": "[0.506, 0.084, 0.066, 0.078]",
+        "qualified": true
+    },
+    {
+        "id": 687,
+        "img": "vg/VG_100K_2/2413002.jpg",
+        "question": "What does the woman have beside her?",
+        "cot": "Step 1: The woman is at [0.608, 0.204, 0.269, 0.794]\nStep 2: The red snowboard is at [0.389, 0.316, 0.197, 0.682]",
+        "answer": "Snowboard",
+        "coordinate": "[0.389, 0.316, 0.197, 0.682]",
+        "qualified": true
+    },
+    {
+        "id": 711,
+        "img": "vg/VG_100K/2363687.jpg",
+        "question": "What is the white teddy bear wearing?",
+        "cot": "Step 1: The white teddy bear is at [0.080, 0.159, 0.480, 0.838]  \nStep 2: The scarf being worn by the white teddy bear is at [0.132, 0.556, 0.372, 0.441]  ",
+        "answer": "Scarf",
+        "coordinate": "[0.132, 0.556, 0.372, 0.441]",
+        "qualified": true
+    },
+    {
+        "id": 724,
+        "img": "vg/VG_100K_2/2408704.jpg",
+        "question": "What is on the sandwich that has meat and cheese?",
+        "cot": "Step 1: The sandwich with meat and cheese is at [0.192, 0.330, 0.302, 0.441]  \nStep 2: The yellow sauce drizzled on top of the sandwich is at [0.232, 0.347, 0.246, 0.364]  ",
+        "answer": "Mustard",
+        "coordinate": "[0.232, 0.347, 0.246, 0.364]",
+        "qualified": true
+    }
+]

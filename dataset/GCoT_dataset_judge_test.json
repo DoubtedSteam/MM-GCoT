@@ -1,0 +1,1856 @@
+[
+    {
+      "id": 0,
+      "img": "vg/VG_100K/2326982.jpg",
+      "question": "Is the napkin under the donut with sprinklers and sugar toppings in a hand?",
+      "cot": "Step 1: The donut with sprinklers and sugar toppings is at [0.166, 0.212, 0.532, 0.518].\nStep 2: The napkin under the donut is at [0.154, 0.606, 0.560, 0.358].\nStep 3: The caption of the napkin describes it as being in a hand.",
+      "answer": "Yes",
+      "coordinate": "[0.154, 0.606, 0.560, 0.358]",
+      "qualified": true
+    },
+    {
+      "id": 1,
+      "img": "vg/VG_100K/2366603.jpg",
+      "question": "Is the letter S on the red and white stop sign by the stretch of flowering plants white?",
+      "cot": "Step 1: The stretch of flowering plants is at [0.000, 0.495, 1.000, 0.502].\nStep 2: The red and white stop sign by the stretch of flowering plants is at [0.158, 0.036, 0.498, 0.858].\nStep 3: The letter S on the stop sign is at [0.206, 0.311, 0.104, 0.293].\nStep 4: The color of the letter S is white.",
+      "answer": "Yes",
+      "coordinate": "[0.206, 0.311, 0.104, 0.293]",
+      "qualified": true
+    },
+    {
+      "id": 5,
+      "img": "vg/VG_100K_2/2386750.jpg",
+      "question": "Is the pizza in the cardboard box on the cloth?",
+      "cot": "Step 1: The cloth is at [0.002, 0.003, 0.998, 0.992]\nStep 2: The cardboard box on the cloth is at [0.000, 0.011, 0.996, 0.987]\nStep 3: The pizza in the cardboard box is at [0.090, 0.056, 0.890, 0.824]",
+      "answer": "Yes",
+      "coordinate": "[0.090, 0.056, 0.890, 0.824]",
+      "qualified": true
+    },
+    {
+      "id": 7,
+      "img": "vg/VG_100K_2/2396691.jpg",
+      "question": "Is the scrambled eggs and sausages inside the brightly patterned bowl with a white background?",
+      "cot": "Step 1: The brightly patterned bowl with a white background is at [0.194, 0.596, 0.664, 0.302].\nStep 2: The scrambled eggs and sausages are at [0.312, 0.640, 0.486, 0.168].\nStep 3: The scrambled eggs and sausages are inside the bowl.",
+      "answer": "Yes",
+      "coordinate": "[0.312, 0.640, 0.486, 0.168]",
+      "qualified": true
+    },
+    {
+      "id": 15,
+      "img": "vg/VG_100K_2/2392144.jpg",
+      "question": "Is the large body of water behind the bald man sitting on the paint-chipped metal stool?",
+      "cot": "Step 1: The bald man is sitting on the stool at [0.129, 0.058, 0.796, 0.890].\nStep 2: The large body of water is behind the man at [0.033, 0.550, 0.964, 0.210].\nStep 3: The relationship confirms the water is behind the man.",
+      "answer": "Yes",
+      "coordinate": "[0.033, 0.550, 0.964, 0.210]",
+      "qualified": true
+    },
+    {
+      "id": 18,
+      "img": "vg/VG_100K/2321120.jpg",
+      "question": "Is the large lake behind the man wearing a suit?",
+      "cot": "Step 1: The man wearing a suit is at [0.382, 0.363, 0.384, 0.632].\nStep 2: The large lake is at [0.000, 0.581, 0.998, 0.413].\nStep 3: The lake is behind the man.",
+      "answer": "Yes",
+      "coordinate": "[0.000, 0.581, 0.998, 0.413]",
+      "qualified": true
+    },
+    {
+      "id": 19,
+      "img": "vg/VG_100K_2/2401780.jpg",
+      "question": "Is the lime on the brown table next to the red apple yellow?",
+      "cot": "Step 1: The brown table is at [0.012, 0.506, 0.984, 0.491].\nStep 2: The red apple on the table is at [0.492, 0.266, 0.440, 0.569].\nStep 3: The lime next to the apple is at [0.372, 0.356, 0.390, 0.575].\nStep 4: The color of the lime is green.",
+      "answer": "No",
+      "coordinate": "[0.372, 0.356, 0.390, 0.575]",
+      "qualified": true
+    },
+    {
+      "id": 21,
+      "img": "vg/VG_100K_2/2397978.jpg",
+      "question": "Are the vegetables displayed on the butcher paper on the wooden shipping pallet fresh?",
+      "cot": "Step 1: The wooden shipping pallet is at [0.010, 0.006, 0.986, 0.982]\nStep 2: The butcher paper on the pallet is at [0.006, 0.003, 0.952, 0.907]\nStep 3: The vegetables displayed on the butcher paper are at [0.006, 0.033, 0.966, 0.853]\nStep 4: The freshness of the vegetables is not specified.",
+      "answer": "No",
+      "coordinate": "[0.006, 0.033, 0.966, 0.853]",
+      "qualified": true
+    },
+    {
+      "id": 23,
+      "img": "vg/VG_100K_2/2384013.jpg",
+      "question": "Is the pizza on the white plate on the table square?",
+      "cot": "Step 1: The table is at [0.000, 0.003, 0.996, 0.991]\nStep 2: The white plate on the table is at [0.008, 0.039, 0.988, 0.958]\nStep 3: The pizza on the white plate is at [0.046, 0.081, 0.828, 0.913]\nStep 4: The shape of the pizza is not specified.",
+      "answer": "No",
+      "coordinate": "[0.046, 0.081, 0.828, 0.913]",
+      "qualified": true
+    },
+    {
+      "id": 30,
+      "img": "vg/VG_100K_2/2401971.jpg",
+      "question": "Is the white round plate under the pizza on the light green marbled countertop square?",
+      "cot": "Step 1: The light green marbled countertop is at [0.016, 0.069, 0.982, 0.915].\nStep 2: The pizza with sausage, pepperoni, ham, and cheese on the countertop is at [0.012, 0.211, 0.948, 0.688].\nStep 3: The white round plate under the pizza is at [0.006, 0.227, 0.986, 0.725].\nStep 4: The plate is round.",
+      "answer": "No",
+      "coordinate": "[0.006, 0.227, 0.986, 0.725]",
+      "qualified": true
+    },
+    {
+      "id": 37,
+      "img": "vg/VG_100K/2317733.jpg",
+      "question": "Is the white, blue, and purple paper cup next to the wiener on the white bread bun?",
+      "cot": "Step 1: The white bread bun is at [0.314, 0.387, 0.446, 0.375].\nStep 2: The wiener on the white bread bun is at [0.350, 0.461, 0.366, 0.199].\nStep 3: The white, blue, and purple paper cup is next to the wiener at [0.048, 0.003, 0.282, 0.417].\nStep 4: The cup is next to the wiener.",
+      "answer": "Yes",
+      "coordinate": "[0.048, 0.003, 0.282, 0.417]",
+      "qualified": true
+    },
+    {
+      "id": 46,
+      "img": "vg/VG_100K_2/2400700.jpg",
+      "question": "Is the word \"Elephant\" on the sign with a grey background and a white arrow black?",
+      "cot": "Step 1: The sign with a grey background is at [0.114, 0.213, 0.826, 0.682].\nStep 2: The white arrow on the sign is at [0.656, 0.324, 0.166, 0.483].\nStep 3: The word \"Elephant\" on the sign is at [0.234, 0.360, 0.372, 0.108].\nStep 4: The color of the word \"Elephant\" is not specified.",
+      "answer": "No",
+      "coordinate": "[0.234, 0.360, 0.372, 0.108]",
+      "qualified": true
+    },
+    {
+      "id": 47,
+      "img": "vg/VG_100K_2/2399364.jpg",
+      "question": "Is the water behind the hot dog on the bun?",
+      "cot": "Step 1: The bun is at [0.096, 0.125, 0.606, 0.581].\nStep 2: The hot dog on the bun is at [0.084, 0.131, 0.862, 0.768].\nStep 3: The water behind the hot dog is at [0.000, 0.000, 0.996, 0.987].\nStep 4: The water is behind the hot dog.",
+      "answer": "Yes",
+      "coordinate": "[0.000, 0.000, 0.996, 0.987]",
+      "qualified": true
+    },
+    {
+      "id": 48,
+      "img": "vg/VG_100K/2318307.jpg",
+      "question": "Is the stand of trees with bare limbs above the field of bright green grass growing on the ground?",
+      "cot": "Step 1: The ground is at [0.000, 0.836, 0.979, 0.162].\nStep 2: The field of bright green grass growing on the ground is at [0.005, 0.840, 0.988, 0.158].\nStep 3: The stand of trees with bare limbs above the grass is at [0.000, 0.002, 0.993, 0.820].",
+      "answer": "Yes",
+      "coordinate": "[0.000, 0.002, 0.993, 0.820]",
+      "qualified": true
+    },
+    {
+      "id": 49,
+      "img": "vg/VG_100K/2318574.jpg",
+      "question": "Is the word on the large boat docked on the body of water red?",
+      "cot": "Step 1: The body of water is at [0.320, 0.586, 0.678, 0.414].\nStep 2: The large boat docked on the body of water is at [0.202, 0.018, 0.594, 0.715].\nStep 3: The word on the boat is at [0.508, 0.553, 0.156, 0.042].\nStep 4: The color of the word is not specified.",
+      "answer": "No",
+      "coordinate": "[0.508, 0.553, 0.156, 0.042]",
+      "qualified": true
+    },
+    {
+      "id": 50,
+      "img": "vg/VG_100K_2/2385755.jpg",
+      "question": "Is the red velvet cake on the dark brown table on a red plate?",
+      "cot": "Step 1: The dark brown table is at [0.005, 0.580, 0.992, 0.420].\nStep 2: The red plate on the table is at [0.168, 0.784, 0.829, 0.174].\nStep 3: The red velvet cake on the red plate is at [0.315, 0.698, 0.624, 0.230].\nStep 4: The plate is red.",
+      "answer": "Yes",
+      "coordinate": "[0.315, 0.698, 0.624, 0.230]",
+      "qualified": true
+    },
+    {
+      "id": 51,
+      "img": "vg/VG_100K_2/2385509.jpg",
+      "question": "Is the white area surrounding the keyboard keys part of the opened laptop on the brown wooden surface desk?",
+      "cot": "Step 1: The brown wooden surface desk is at [0.000, 0.000, 1.000, 0.902].\nStep 2: The opened laptop on the desk is at [0.006, 0.076, 0.630, 0.829].\nStep 3: The white area surrounding the keyboard keys is at [0.002, 0.648, 0.636, 0.257].\nStep 4: The white area is part of the laptop.",
+      "answer": "Yes",
+      "coordinate": "[0.002, 0.648, 0.636, 0.257]",
+      "qualified": true
+    },
+    {
+      "id": 58,
+      "img": "vg/VG_100K_2/977.jpg",
+      "question": "Is the lawn in front of the large beautiful stone building made of concrete?",
+      "cot": "Step 1: The large beautiful stone building is at [0.002, 0.010, 0.997, 0.576].\nStep 2: The lawn in front of the building is at [0.237, 0.569, 0.762, 0.431].\nStep 3: The lawn is described as having sections separated by a brick sidewalk.",
+      "answer": "No",
+      "coordinate": "[0.237, 0.569, 0.762, 0.431]",
+      "qualified": true
+    },
+    {
+      "id": 63,
+      "img": "vg/VG_100K/2365951.jpg",
+      "question": "Is the building behind the yellow cement truck a skyscraper?",
+      "cot": "Step 1: The yellow cement truck is at [0.020, 0.052, 0.888, 0.867].\nStep 2: The building behind the truck is at [0.000, 0.000, 0.890, 0.727].\nStep 3: The type of the building is not specified.",
+      "answer": "No",
+      "coordinate": "[0.000, 0.000, 0.890, 0.727]",
+      "qualified": true
+    },
+    {
+      "id": 64,
+      "img": "vg/VG_100K_2/2383445.jpg",
+      "question": "Is the man standing on the brown sand beach bearing many imprints wearing a hat?",
+      "cot": "Step 1: The brown sand beach bearing many imprints is at [0.000, 0.605, 0.998, 0.389].\nStep 2: The man standing on the beach is at [0.716, 0.518, 0.042, 0.111].\nStep 3: The caption does not mention a hat.",
+      "answer": "No",
+      "coordinate": "[0.716, 0.518, 0.042, 0.111]",
+      "qualified": true
+    },
+    {
+      "id": 68,
+      "img": "vg/VG_100K/2339165.jpg",
+      "question": "Is the woman cutting a white cake on a brown table?",
+      "cot": "Step 1: The brown table is at [0.454, 0.640, 0.544, 0.358]\nStep 2: The white cake on the table is at [0.541, 0.668, 0.445, 0.198]\nStep 3: The woman cutting the cake is at [0.459, 0.236, 0.372, 0.762]",
+      "answer": "Yes",
+      "coordinate": "[0.459, 0.236, 0.372, 0.762]",
+      "qualified": true
+    },
+    {
+      "id": 76,
+      "img": "vg/VG_100K/2364026.jpg",
+      "question": "Is the pitcher standing on the baseball field?",
+      "cot": "Step 1: The baseball field is at [0.000, 0.003, 0.994, 0.988].\nStep 2: The pitcher is at [0.456, 0.230, 0.144, 0.390].\nStep 3: The pitcher is standing on the mound, which is on the baseball field.",
+      "answer": "Yes",
+      "coordinate": "[0.456, 0.230, 0.144, 0.390]",
+      "qualified": true
+    },
+    {
+      "id": 77,
+      "img": "vg/VG_100K/2343312.jpg",
+      "question": "Is the bowl with dog food on the hardwood floor?",
+      "cot": "Step 1: The hardwood floor is at [0.008, 0.006, 0.982, 0.994].\nStep 2: The mat on the hardwood floor is at [0.244, 0.538, 0.510, 0.448].\nStep 3: The bowl with dog food is on the mat at [0.326, 0.546, 0.228, 0.184].\nStep 4: The bowl is not directly on the hardwood floor.",
+      "answer": "No",
+      "coordinate": "[0.326, 0.546, 0.228, 0.184]",
+      "qualified": true
+    },
+    {
+      "id": 82,
+      "img": "vg/VG_100K_2/2411585.jpg",
+      "question": "Is the dark brown chocolate donut in the box holding six donuts in a row red?",
+      "cot": "Step 1: The box holding six donuts in a row is at [0.002, 0.006, 0.880, 0.991].\nStep 2: The dark brown chocolate donut in the box is at [0.348, 0.307, 0.300, 0.497].\nStep 3: The color of the donut is dark brown.",
+      "answer": "No",
+      "coordinate": "[0.348, 0.307, 0.300, 0.497]",
+      "qualified": true
+    },
+    {
+      "id": 87,
+      "img": "vg/VG_100K/2356033.jpg",
+      "question": "Is the payphone next to the wooden bench?",
+      "cot": "Step 1: The wooden bench is at [0.630, 0.663, 0.368, 0.337]\nStep 2: The round outdoor trash can next to the wooden bench is at [0.514, 0.747, 0.164, 0.253]\nStep 3: The payphone next to the trash can is at [0.130, 0.039, 0.346, 0.801]\nStep 4: The payphone is not directly next to the wooden bench.",
+      "answer": "No",
+      "coordinate": "[0.130, 0.039, 0.346, 0.801]",
+      "qualified": true
+    },
+    {
+      "id": 88,
+      "img": "vg/VG_100K_2/2402363.jpg",
+      "question": "Is the chew toy on the blanket under the pillow?",
+      "cot": "Step 1: The blanket under the pillow is at [0.156, 0.723, 0.840, 0.272]\nStep 2: The white dog on the blanket is at [0.320, 0.256, 0.566, 0.667]\nStep 3: The chew toy belongs to the dog is at [0.004, 0.427, 0.084, 0.277]\nStep 4: The chew toy is not on the blanket.",
+      "answer": "No",
+      "coordinate": "[0.004, 0.427, 0.084, 0.277]",
+      "qualified": true
+    },
+    {
+      "id": 99,
+      "img": "vg/VG_100K/2371584.jpg",
+      "question": "Is the zebra grazing on the wood poles?",
+      "cot": "Step 1: The wood poles are at [0.032, 0.003, 0.966, 0.826].\nStep 2: The zebra is at [0.110, 0.548, 0.298, 0.275].\nStep 3: The zebra is not on the wood poles.",
+      "answer": "No",
+      "coordinate": "[0.110, 0.548, 0.298, 0.275]",
+      "qualified": true
+    },
+    {
+      "id": 103,
+      "img": "vg/VG_100K/2355392.jpg",
+      "question": "Is the dirt area where the pitcher is practicing on the man in the red and white baseball uniform?",
+      "cot": "Step 1: The baseball field covered in manicured green grass is at [0.010, 0.006, 0.978, 0.660].\nStep 2: The man in the red and white baseball uniform is on the baseball field at [0.120, 0.152, 0.564, 0.718].\nStep 3: The dirt area where the pitcher is practicing is by the man in the red and white baseball uniform at [0.012, 0.574, 0.972, 0.424].\nStep 4: The dirt area is not on the man.",
+      "answer": "No",
+      "coordinate": "[0.012, 0.574, 0.972, 0.424]",
+      "qualified": true
+    },
+    {
+      "id": 104,
+      "img": "vg/VG_100K/2372390.jpg",
+      "question": "Is the elderly couple sitting on the dark-colored wooden bench in the grassy field?",
+      "cot": "Step 1: The grassy field is at [0.000, 0.159, 0.998, 0.832].\nStep 2: The dark-colored wooden bench on the grassy field is at [0.200, 0.369, 0.608, 0.538].\nStep 3: The elderly couple on the bench is at [0.368, 0.105, 0.420, 0.808].\nStep 4: The caption describes the couple as being on the bench.",
+      "answer": "Yes",
+      "coordinate": "[0.368, 0.105, 0.420, 0.808]",
+      "qualified": true
+    },
+    {
+      "id": 105,
+      "img": "vg/VG_100K_2/2393848.jpg",
+      "question": "Is the crust on the vegetable pizza with multiple toppings on the plate?",
+      "cot": "Step 1: The plate is at [0.002, 0.003, 0.996, 0.995].\nStep 2: The vegetable pizza with multiple toppings on the plate is at [0.002, 0.000, 0.998, 0.997].\nStep 3: The crust on the vegetable pizza is at [0.000, 0.043, 0.998, 0.952].",
+      "answer": "Yes",
+      "coordinate": "[0.000, 0.043, 0.998, 0.952]",
+      "qualified": true
+    },
+    {
+      "id": 108,
+      "img": "vg/VG_100K_2/2385416.jpg",
+      "question": "Is the pizza next to the pumpkin on the table with a placemat a food item?",
+      "cot": "Step 1: The table with a placemat is at [0.000, 0.346, 0.996, 0.648].\nStep 2: The pumpkin on the table is at [0.616, 0.734, 0.240, 0.230].\nStep 3: The pizza next to the pumpkin is at [0.036, 0.460, 0.610, 0.538].\nStep 4: The pizza is a food item.",
+      "answer": "Yes",
+      "coordinate": "[0.036, 0.460, 0.610, 0.538]",
+      "qualified": true
+    },
+    {
+      "id": 109,
+      "img": "vg/VG_100K/2347070.jpg",
+      "question": "Is the woman flying a striped kite near the ocean with waves breaking on the beach?",
+      "cot": "Step 1: The ocean with waves breaking on the beach is at [0.006, 0.240, 0.994, 0.532].\nStep 2: The striped kite near the ocean is at [0.003, 0.138, 0.209, 0.158].\nStep 3: The woman flying the kite is at [0.678, 0.450, 0.257, 0.370].",
+      "answer": "Yes",
+      "coordinate": "[0.678, 0.450, 0.257, 0.370]",
+      "qualified": true
+    },
+    {
+      "id": 110,
+      "img": "vg/VG_100K/2354688.jpg",
+      "question": "Are the items sitting on the black wooden cart carrying old suitcases books?",
+      "cot": "Step 1: The black wooden cart is at [0.004, 0.003, 0.996, 0.989].\nStep 2: The items on the cart are at [0.040, 0.199, 0.458, 0.443].\nStep 3: The type of items is not specified.",
+      "answer": "No",
+      "coordinate": "[0.040, 0.199, 0.458, 0.443]",
+      "qualified": true
+    },
+    {
+      "id": 116,
+      "img": "vg/VG_100K_2/2398321.jpg",
+      "question": "Is the player in blue defending on the man in the field with light green and yellow grass?",
+      "cot": "Step 1: The field with light green and yellow grass is at [0.000, 0.226, 0.998, 0.753].\nStep 2: The man in the field is at [0.004, 0.233, 0.994, 0.753].\nStep 3: The player in blue defending on the man is at [0.098, 0.059, 0.790, 0.812].",
+      "answer": "Yes",
+      "coordinate": "[0.098, 0.059, 0.790, 0.812]",
+      "qualified": true
+    },
+    {
+      "id": 118,
+      "img": "vg/VG_100K/2364716.jpg",
+      "question": "Are the strawberries in the plastic container filled with fruits under the blueberries?",
+      "cot": "Step 1: The plastic container filled with fruits is at [0.110, 0.531, 0.286, 0.395].\nStep 2: The blueberries in the container are at [0.152, 0.576, 0.224, 0.307].\nStep 3: The strawberries under the blueberries are at [0.148, 0.568, 0.226, 0.317].\nStep 4: The strawberries are under the blueberries.",
+      "answer": "Yes",
+      "coordinate": "[0.148, 0.568, 0.226, 0.317]",
+      "qualified": true
+    },
+    {
+      "id": 121,
+      "img": "vg/VG_100K_2/2398522.jpg",
+      "question": "Is the design on the wood bench with wrought iron sides made of metal?",
+      "cot": "Step 1: The wood bench with wrought iron sides is at [0.064, 0.218, 0.893, 0.756].\nStep 2: The design on the bench is at [0.066, 0.214, 0.887, 0.754].\nStep 3: The design is part of the bench, which has wrought iron sides.",
+      "answer": "Yes",
+      "coordinate": "[0.066, 0.214, 0.887, 0.754]",
+      "qualified": true
+    },
+    {
+      "id": 125,
+      "img": "vg/VG_100K_2/2414982.jpg",
+      "question": "Is the salsa on the blue and white plate on top of the tortillas green?",
+      "cot": "Step 1: The blue and white plate is at [0.046, 0.125, 0.952, 0.875].\nStep 2: The two tortillas stuck together on the plate are at [0.174, 0.173, 0.734, 0.659].\nStep 3: The salsa on top of the tortillas is at [0.246, 0.173, 0.522, 0.560].\nStep 4: The color of the salsa is not specified.",
+      "answer": "No",
+      "coordinate": "[0.246, 0.173, 0.522, 0.560]",
+      "qualified": true
+    },
+    {
+      "id": 128,
+      "img": "vg/VG_100K/2369436.jpg",
+      "question": "Is the white foam from the waves breaking on the sand near the ocean with calm waves green?",
+      "cot": "Step 1: The ocean with calm waves is at [0.002, 0.429, 0.996, 0.355].\nStep 2: The sand near the ocean is at [0.002, 0.763, 0.994, 0.235].\nStep 3: The white foam from the waves breaking on the sand is at [0.002, 0.707, 0.994, 0.080].\nStep 4: The color of the foam is white.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.707, 0.994, 0.080]",
+      "qualified": true
+    },
+    {
+      "id": 130,
+      "img": "vg/VG_100K/2362573.jpg",
+      "question": "Are the scissors next to the uncovered sink drain in the dirty rusted bathroom sink sharp?",
+      "cot": "Step 1: The dirty rusted bathroom sink is at [0.010, 0.009, 0.986, 0.973]\nStep 2: The uncovered sink drain in the sink is at [0.444, 0.239, 0.246, 0.221]\nStep 3: The scissors next to the sink drain are at [0.278, 0.140, 0.700, 0.702]\nStep 4: The sharpness of the scissors is not specified.",
+      "answer": "No",
+      "coordinate": "[0.278, 0.140, 0.700, 0.702]",
+      "qualified": true
+    },
+    {
+      "id": 131,
+      "img": "vg/VG_100K/2373164.jpg",
+      "question": "Is the teddy bear sheep on top of the pink stuffed animal pig touching the bottle filled with liquid?",
+      "cot": "Step 1: The bottle filled with liquid is at [0.326, 0.329, 0.162, 0.611].\nStep 2: The pink stuffed animal pig touching the bottle is at [0.464, 0.515, 0.244, 0.398].\nStep 3: The teddy bear sheep on top of the pig is at [0.242, 0.072, 0.516, 0.614].",
+      "answer": "Yes",
+      "coordinate": "[0.242, 0.072, 0.516, 0.614]",
+      "qualified": true
+    },
+    {
+      "id": 135,
+      "img": "vg/VG_100K_2/2405190.jpg",
+      "question": "Is the shower curtain inside the bathtub next to the white toilet with circles and green colors on the top of the lid green?",
+      "cot": "Step 1: The white toilet with circles and green colors on the top of the lid is at [0.374, 0.408, 0.272, 0.557].\nStep 2: The bathtub next to the toilet is at [0.538, 0.541, 0.462, 0.459].\nStep 3: The shower curtain inside the bathtub is at [0.568, 0.000, 0.430, 0.904].\nStep 4: The shower curtain is not green.",
+      "answer": "No",
+      "coordinate": "[0.568, 0.000, 0.430, 0.904]",
+      "qualified": true
+    },
+    {
+      "id": 140,
+      "img": "vg/VG_100K/2366174.jpg",
+      "question": "Is the woman wearing a t-shirt standing in the green field?",
+      "cot": "Step 1: The green field is at [0.010, 0.365, 0.988, 0.629].\nStep 2: The woman wearing a t-shirt is at [0.666, 0.269, 0.158, 0.479].\nStep 3: The woman is standing in the green field.",
+      "answer": "Yes",
+      "coordinate": "[0.666, 0.269, 0.158, 0.479]",
+      "qualified": true
+    },
+    {
+      "id": 143,
+      "img": "vg/VG_100K_2/2406906.jpg",
+      "question": "Is the paper under the doughnuts inside the box of doughnuts?",
+      "cot": "Step 1: The box of doughnuts is at [0.002, 0.000, 0.996, 0.995].\nStep 2: The doughnuts inside the box are at [0.002, 0.064, 0.984, 0.845].\nStep 3: The paper under the doughnuts is at [0.008, 0.155, 0.988, 0.760].\nStep 4: The paper is under the doughnuts, which are inside the box.",
+      "answer": "Yes",
+      "coordinate": "[0.008, 0.155, 0.988, 0.760]",
+      "qualified": true
+    },
+    {
+      "id": 145,
+      "img": "vg/VG_100K_2/2389398.jpg",
+      "question": "Is the black letter \"s\" on the bright red stop sign green?",
+      "cot": "Step 1: The bright red stop sign is at [0.262, 0.000, 0.502, 1.000].\nStep 2: The black letter \"s\" on the stop sign is at [0.334, 0.000, 0.104, 0.595].\nStep 3: The color of the letter \"s\" is black.",
+      "answer": "No",
+      "coordinate": "[0.334, 0.000, 0.104, 0.595]",
+      "qualified": true
+    },
+    {
+      "id": 159,
+      "img": "vg/VG_100K/150279.jpg",
+      "question": "Is the harness worn by the brown horse in front of the cathedral made out of red bricks?",
+      "cot": "Step 1: The cathedral made out of white bricks is at [0.000, 0.005, 0.969, 0.810].\nStep 2: The brown horse in front of the cathedral is at [0.181, 0.595, 0.596, 0.402].\nStep 3: The harness worn by the horse is at [0.379, 0.687, 0.177, 0.153].\nStep 4: The cathedral is made out of white bricks, not red bricks.",
+      "answer": "No",
+      "coordinate": "[0.379, 0.687, 0.177, 0.153]",
+      "qualified": true
+    },
+    {
+      "id": 165,
+      "img": "vg/VG_100K_2/2393173.jpg",
+      "question": "Is the tree to the right of the elderly woman walking a dog coming down at the top of the picture?",
+      "cot": "Step 1: The elderly woman walking a dog is at [0.782, 0.164, 0.106, 0.619].\nStep 2: The tree to the right of the woman is at [0.002, 0.009, 0.340, 0.248].\nStep 3: The caption describes the tree as coming down at the top of the picture.",
+      "answer": "Yes",
+      "coordinate": "[0.002, 0.009, 0.340, 0.248]",
+      "qualified": true
+    },
+    {
+      "id": 193,
+      "img": "vg/VG_100K/2328580.jpg",
+      "question": "Is the bird perched on the rock near the ocean black?",
+      "cot": "Step 1: The ocean with small waves is at [0.004, 0.006, 0.980, 0.964].\nStep 2: The huge black rock near the ocean is at [0.000, 0.449, 1.000, 0.539].\nStep 3: The bird perched on the rock is at [0.258, 0.290, 0.178, 0.356].\nStep 4: The color of the bird is white.",
+      "answer": "No",
+      "coordinate": "[0.258, 0.290, 0.178, 0.356]",
+      "qualified": true
+    },
+    {
+      "id": 196,
+      "img": "vg/VG_100K_2/2380213.jpg",
+      "question": "Is the feta cheese on the plate containing food under the colorful plate of food red?",
+      "cot": "Step 1: The colorful plate of food is at [0.003, 0.214, 0.995, 0.676]\nStep 2: The plate containing food under the colorful plate is at [0.000, 0.196, 0.995, 0.786]\nStep 3: The feta cheese on top of the plate is at [0.080, 0.414, 0.195, 0.124]\nStep 4: The feta cheese is white.",
+      "answer": "No",
+      "coordinate": "[0.080, 0.414, 0.195, 0.124]",
+      "qualified": true
+    },
+    {
+      "id": 197,
+      "img": "vg/VG_100K/2361908.jpg",
+      "question": "Is the white porcelain bathtub outside the bathroom?",
+      "cot": "Step 1: The bathroom is at [0.010, 0.035, 0.990, 0.958].\nStep 2: The white porcelain bathtub is at [0.000, 0.703, 0.570, 0.291].\nStep 3: The bathtub is within the bathroom.",
+      "answer": "No",
+      "coordinate": "[0.000, 0.703, 0.570, 0.291]",
+      "qualified": true
+    },
+    {
+      "id": 201,
+      "img": "vg/VG_100K/2317733.jpg",
+      "question": "Is the white, blue, and purple paper cup on the white bread bun?",
+      "cot": "Step 1: The white bread bun is at [0.314, 0.387, 0.446, 0.375].\nStep 2: The wiener on the white bread bun is at [0.350, 0.461, 0.366, 0.199].\nStep 3: The white, blue, and purple paper cup is next to the wiener at [0.048, 0.003, 0.282, 0.417].\nStep 4: The cup is not on the bun.",
+      "answer": "No",
+      "coordinate": "[0.048, 0.003, 0.282, 0.417]",
+      "qualified": true
+    },
+    {
+      "id": 204,
+      "img": "vg/VG_100K_2/3511.jpg",
+      "question": "Is the dark clip on the sweatshirt on the man?",
+      "cot": "Step 1: The sweatshirt on the man is at [0.194, 0.800, 0.728, 0.198].\nStep 2: The collar of the man's shirt is at [0.378, 0.796, 0.339, 0.200].\nStep 3: The dark clip is on the man's shirt collar at [0.628, 0.896, 0.061, 0.058].",
+      "answer": "Yes",
+      "coordinate": "[0.628, 0.896, 0.061, 0.058]",
+      "qualified": true
+    },
+    {
+      "id": 205,
+      "img": "vg/VG_100K/2345547.jpg",
+      "question": "Is the blonde-haired woman in the mirror on the wall with mauve square tiles?",
+      "cot": "Step 1: The wall with mauve square tiles is at [0.002, 0.000, 0.996, 0.997].\nStep 2: The mirror on the wall is at [0.002, 0.000, 0.858, 0.651].\nStep 3: The blonde-haired woman is in the mirror at [0.196, 0.125, 0.354, 0.507].",
+      "answer": "Yes",
+      "coordinate": "[0.196, 0.125, 0.354, 0.507]",
+      "qualified": true
+    },
+    {
+      "id": 207,
+      "img": "vg/VG_100K/2373660.jpg",
+      "question": "Is the green blanket on the double bed with dark green sheets part of the brown headboard?",
+      "cot": "Step 1: The double bed with dark green sheets is at [0.090, 0.480, 0.768, 0.517].\nStep 2: The brown headboard is part of the double bed at [0.510, 0.485, 0.344, 0.347].\nStep 3: The green blanket is on the bed at [0.088, 0.715, 0.734, 0.280].\nStep 4: The green blanket is on the bed, not part of the headboard.",
+      "answer": "No",
+      "coordinate": "[0.088, 0.715, 0.734, 0.280]",
+      "qualified": true
+    },
+    {
+      "id": 213,
+      "img": "vg/VG_100K/2347953.jpg",
+      "question": "Is the blue stuffed animal in the child's right hand a bear?",
+      "cot": "Step 1: The child dressed in a costume is at [0.000, 0.096, 0.907, 0.902].\nStep 2: The girl's right hand is at [0.211, 0.336, 0.163, 0.116].\nStep 3: The blue stuffed animal in the girl's right hand is at [0.187, 0.518, 0.336, 0.278].\nStep 4: The blue stuffed animal is a bear.",
+      "answer": "Yes",
+      "coordinate": "[0.187, 0.518, 0.336, 0.278]",
+      "qualified": true
+    },
+    {
+      "id": 227,
+      "img": "vg/VG_100K_2/2408073.jpg",
+      "question": "Is the spoon in the white bowl full of fruit on the white saucer made of plastic?",
+      "cot": "Step 1: The white saucer is at [0.012, 0.616, 0.948, 0.384]\nStep 2: The white bowl full of fruit on the saucer is at [0.028, 0.152, 0.722, 0.707]\nStep 3: The clear plastic spoon in the bowl is at [0.444, 0.000, 0.420, 0.536]\nStep 4: The spoon is made of clear plastic.",
+      "answer": "Yes",
+      "coordinate": "[0.444, 0.000, 0.420, 0.536]",
+      "qualified": true
+    },
+    {
+      "id": 228,
+      "img": "vg/VG_100K_2/2408078.jpg",
+      "question": "Is the switch on the Wii controller on the wooden floor red?",
+      "cot": "Step 1: The wooden floor is at [0.002, 0.003, 0.998, 0.995]\nStep 2: The Wii controller on the wooden floor is at [0.132, 0.016, 0.312, 0.621]\nStep 3: The switch on the Wii controller is at [0.242, 0.187, 0.074, 0.104]\nStep 4: The color of the switch is not specified.",
+      "answer": "No",
+      "coordinate": "[0.242, 0.187, 0.074, 0.104]",
+      "qualified": true
+    },
+    {
+      "id": 231,
+      "img": "vg/VG_100K/2374399.jpg",
+      "question": "Is the tomato on the white dinner plate raw?",
+      "cot": "Step 1: The white dinner plate is at [0.000, 0.222, 0.998, 0.776].\nStep 2: The tomato on the plate is at [0.644, 0.272, 0.334, 0.484].\nStep 3: The tomato is described as raw.",
+      "answer": "Yes",
+      "coordinate": "[0.644, 0.272, 0.334, 0.484]",
+      "qualified": true
+    },
+    {
+      "id": 237,
+      "img": "vg/VG_100K/150294.jpg",
+      "question": "Is the taxi passing by the woman carrying a brown bag with a gold buckle red and green?",
+      "cot": "Step 1: The woman carrying the brown bag with a gold buckle is at [0.543, 0.460, 0.191, 0.492].\nStep 2: The taxi passing by the woman is at [0.000, 0.526, 0.388, 0.207].\nStep 3: The taxi is described as red and green.",
+      "answer": "Yes",
+      "coordinate": "[0.000, 0.526, 0.388, 0.207]",
+      "qualified": true
+    },
+    {
+      "id": 242,
+      "img": "vg/VG_100K_2/2414581.jpg",
+      "question": "Is the door behind the woman playing violin on the small white children's chair red?",
+      "cot": "Step 1: The small white children's chair is at [0.044, 0.556, 0.304, 0.441].\nStep 2: The woman playing violin on the chair is at [0.048, 0.215, 0.528, 0.782].\nStep 3: The door behind the woman is at [0.138, 0.004, 0.330, 0.621].\nStep 4: The color of the door is not specified.",
+      "answer": "No",
+      "coordinate": "[0.138, 0.004, 0.330, 0.621]",
+      "qualified": true
+    },
+    {
+      "id": 256,
+      "img": "vg/VG_100K_2/1694.jpg",
+      "question": "Is the man walking by the blue car on the paved road wearing a hat?",
+      "cot": "Step 1: The paved road is at [0.003, 0.637, 0.995, 0.357]\nStep 2: The blue car parked on the road is at [0.006, 0.302, 0.944, 0.382]\nStep 3: The man walking by the car is at [0.304, 0.128, 0.115, 0.338]\nStep 4: The description does not mention a hat.",
+      "answer": "No",
+      "coordinate": "[0.304, 0.128, 0.115, 0.338]",
+      "qualified": true
+    },
+    {
+      "id": 259,
+      "img": "vg/VG_100K_2/2401768.jpg",
+      "question": "Is the drive next to the white keyboard on the table laying on a textured mat?",
+      "cot": "Step 1: The table is at [0.002, 0.290, 0.990, 0.701].\nStep 2: The white keyboard on the table is at [0.010, 0.015, 0.986, 0.791].\nStep 3: The drive next to the keyboard is at [0.140, 0.603, 0.536, 0.367].\nStep 4: The drive is laying on a textured mat.",
+      "answer": "Yes",
+      "coordinate": "[0.140, 0.603, 0.536, 0.367]",
+      "qualified": true
+    },
+    {
+      "id": 271,
+      "img": "vg/VG_100K/2325762.jpg",
+      "question": "Is the wooden spoon gray?",
+      "cot": "Step 1: The wooden spoon is at [0.000, 0.282, 0.730, 0.348].\nStep 2: The spoon is wooden, not gray.",
+      "answer": "No",
+      "coordinate": "[0.000, 0.282, 0.730, 0.348]",
+      "qualified": true
+    },
+    {
+      "id": 275,
+      "img": "vg/VG_100K/2342803.jpg",
+      "question": "Is the gray and black mouse on the white couch with dots next to the cat?",
+      "cot": "Step 1: The white couch with dots is at [0.000, 0.003, 0.994, 0.995].\nStep 2: The cat lying on the couch is at [0.034, 0.099, 0.946, 0.867].\nStep 3: The gray and black mouse on the cat is at [0.266, 0.163, 0.220, 0.320].",
+      "answer": "No",
+      "coordinate": "[0.266, 0.163, 0.220, 0.320]",
+      "qualified": true
+    },
+    {
+      "id": 279,
+      "img": "vg/VG_100K_2/2389224.jpg",
+      "question": "Is the bright blue clear sky above the rocky brown hills behind the white rusted out microwave?",
+      "cot": "Step 1: The white rusted out microwave is at [0.138, 0.245, 0.712, 0.568].\nStep 2: The rocky brown hills behind the microwave are at [0.002, 0.144, 0.996, 0.197].\nStep 3: The bright blue clear sky above the hills is at [0.002, 0.005, 0.996, 0.197].",
+      "answer": "Yes",
+      "coordinate": "[0.002, 0.005, 0.996, 0.197]",
+      "qualified": true
+    },
+    {
+      "id": 286,
+      "img": "vg/VG_100K_2/2410509.jpg",
+      "question": "Is the street sign with additional writing a separate entity from the red and white stop sign?",
+      "cot": "Step 1: The red and white stop sign is at [0.100, 0.399, 0.376, 0.598].\nStep 2: The street sign with additional writing is at [0.052, 0.048, 0.468, 0.372].\nStep 3: The street sign is part of the stop sign.",
+      "answer": "No",
+      "coordinate": "[0.052, 0.048, 0.468, 0.372]",
+      "qualified": true
+    },
+    {
+      "id": 290,
+      "img": "vg/VG_100K_2/2408506.jpg",
+      "question": "Is the meal on the white dish placed outside the plate?",
+      "cot": "Step 1: The plate is at [0.002, 0.003, 0.996, 0.987]\nStep 2: The meal on the white dish is at [0.004, 0.005, 0.990, 0.973]\nStep 3: The dish containing the meal is at [0.002, 0.003, 0.996, 0.984]\nStep 4: The meal is contained within the dish.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.003, 0.996, 0.984]",
+      "qualified": true
+    },
+    {
+      "id": 294,
+      "img": "vg/VG_100K/2373981.jpg",
+      "question": "Is the link fence behind the person wearing a baseball glove on the field covered with green grass?",
+      "cot": "Step 1: The field covered with green grass is at [0.012, 0.493, 0.986, 0.493].\nStep 2: The person wearing a baseball glove on the field is at [0.452, 0.077, 0.246, 0.804].\nStep 3: The link fence behind the person is at [0.006, 0.080, 0.990, 0.640].",
+      "answer": "Yes",
+      "coordinate": "[0.006, 0.080, 0.990, 0.640]",
+      "qualified": true
+    },
+    {
+      "id": 295,
+      "img": "vg/VG_100K/150286.jpg",
+      "question": "Are the three pancakes on the square styrofoam plate with food blue?",
+      "cot": "Step 1: The square styrofoam plate with food is at [0.005, 0.451, 0.979, 0.542].\nStep 2: The three pancakes on the plate are at [0.018, 0.492, 0.560, 0.475].\nStep 3: The color of the pancakes is not specified.",
+      "answer": "No",
+      "coordinate": "[0.018, 0.492, 0.560, 0.475]",
+      "qualified": true
+    },
+    {
+      "id": 297,
+      "img": "vg/VG_100K_2/2400913.jpg",
+      "question": "Is the bouquet of flowers inside the green decorative porcelain vase on the white tablecloth-covered table made of plastic?",
+      "cot": "Step 1: The white tablecloth-covered table is at [0.003, 0.880, 0.991, 0.120].\nStep 2: The green decorative porcelain vase sitting on the table is at [0.279, 0.666, 0.309, 0.282].\nStep 3: The bouquet of flowers inside the vase is at [0.018, 0.178, 0.946, 0.512].\nStep 4: The material of the bouquet is not specified.",
+      "answer": "No",
+      "coordinate": "[0.018, 0.178, 0.946, 0.512]",
+      "qualified": true
+    },
+    {
+      "id": 298,
+      "img": "vg/VG_100K_2/2395984.jpg",
+      "question": "Is the fork on the white plate with yellow and gold edges made of plastic?",
+      "cot": "Step 1: The white plate with yellow and gold edges is at [0.004, 0.144, 0.874, 0.850].\nStep 2: The fork on the plate is at [0.362, 0.210, 0.636, 0.383].\nStep 3: The material of the fork is not specified.",
+      "answer": "No",
+      "coordinate": "[0.362, 0.210, 0.636, 0.383]",
+      "qualified": true
+    },
+    {
+      "id": 309,
+      "img": "vg/VG_100K/2328126.jpg",
+      "question": "Is the two-liter 7-up plastic bottle inside the two-door refrigerator with a freezer door a soda?",
+      "cot": "Step 1: The two-door refrigerator with a freezer door is at [0.104, 0.066, 0.885, 0.922].\nStep 2: The two-liter 7-up plastic bottle inside the refrigerator is at [0.437, 0.176, 0.067, 0.144].\nStep 3: The bottle is described as a two-liter 7-up plastic bottle, which is a type of soda.",
+      "answer": "Yes",
+      "coordinate": "[0.437, 0.176, 0.067, 0.144]",
+      "qualified": true
+    },
+    {
+      "id": 311,
+      "img": "vg/VG_100K_2/2406830.jpg",
+      "question": "Is the bench beside the two sets of train tracks near the tracks with concrete below it wet?",
+      "cot": "Step 1: The tracks with concrete below them are at [0.722, 0.466, 0.268, 0.516].\nStep 2: The two sets of train tracks near the tracks with concrete below them are at [0.006, 0.472, 0.790, 0.525].\nStep 3: The bench beside the two sets of train tracks is at [0.366, 0.602, 0.444, 0.394].\nStep 4: The bench has puddles of water after a rain shower.",
+      "answer": "Yes",
+      "coordinate": "[0.366, 0.602, 0.444, 0.394]",
+      "qualified": true
+    },
+    {
+      "id": 312,
+      "img": "vg/VG_100K_2/2412735.jpg",
+      "question": "Is the right shift key on the flat keyboard for the computer on the blue table computer red?",
+      "cot": "Step 1: The blue table computer is at [0.006, 0.109, 0.986, 0.879].\nStep 2: The flat keyboard for the computer on the blue table computer is at [0.028, 0.381, 0.692, 0.410].\nStep 3: The right shift key on the keyboard is at [0.592, 0.622, 0.112, 0.068].\nStep 4: The color of the right shift key is not specified.",
+      "answer": "No",
+      "coordinate": "[0.592, 0.622, 0.112, 0.068]",
+      "qualified": true
+    },
+    {
+      "id": 325,
+      "img": "vg/VG_100K/2343779.jpg",
+      "question": "Is the aquarium on the table behind the older man with fluffy white hair filled with water?",
+      "cot": "Step 1: The older man with fluffy white hair is at [0.150, 0.292, 0.730, 0.706].\nStep 2: The aquarium on the table behind the man is at [0.006, 0.156, 0.345, 0.360].\nStep 3: The caption of the aquarium describes it as an aquarium, which typically contains water.",
+      "answer": "Yes",
+      "coordinate": "[0.006, 0.156, 0.345, 0.360]",
+      "qualified": true
+    },
+    {
+      "id": 338,
+      "img": "vg/VG_100K_2/2411866.jpg",
+      "question": "Are the trees behind the two bears near the three large rocks?",
+      "cot": "Step 1: The three large rocks are at [0.010, 0.799, 0.984, 0.176]\nStep 2: The two bears near the three large rocks are at [0.044, 0.059, 0.904, 0.899]\nStep 3: The trees behind the two bears are at [0.004, 0.000, 0.994, 0.785]",
+      "answer": "Yes",
+      "coordinate": "[0.004, 0.000, 0.994, 0.785]",
+      "qualified": true
+    },
+    {
+      "id": 349,
+      "img": "vg/VG_100K_2/2412559.jpg",
+      "question": "Is the text underneath the Microsoft mouse on the open book red?",
+      "cot": "Step 1: The open book is at [0.000, 0.003, 0.998, 0.995]\nStep 2: The Microsoft mouse on the book is at [0.002, 0.365, 0.292, 0.557]\nStep 3: The text underneath the mouse is at [0.222, 0.421, 0.510, 0.456]\nStep 4: The color of the text is not specified.",
+      "answer": "No",
+      "coordinate": "[0.222, 0.421, 0.510, 0.456]",
+      "qualified": true
+    },
+    {
+      "id": 353,
+      "img": "vg/VG_100K_2/2383011.jpg",
+      "question": "Is the giraffe standing behind the laying giraffe on the dirt floor of a giraffe pen leaning near a wooden post?",
+      "cot": "Step 1: The dirt floor of a giraffe pen is at [0.014, 0.818, 0.984, 0.179].\nStep 2: The giraffe laying down is at [0.310, 0.096, 0.524, 0.850].\nStep 3: The giraffe standing behind the laying giraffe is at [0.088, 0.051, 0.610, 0.716].\nStep 4: The standing giraffe is described as leaning near a wooden post.",
+      "answer": "Yes",
+      "coordinate": "[0.088, 0.051, 0.610, 0.716]",
+      "qualified": true
+    },
+    {
+      "id": 372,
+      "img": "vg/VG_100K_2/2385625.jpg",
+      "question": "Is the black suitcase in front of the woman wearing blue jeans red?",
+      "cot": "Step 1: The woman wearing blue jeans is at [0.290, 0.281, 0.314, 0.593].\nStep 2: The black suitcase in front of the woman is at [0.378, 0.350, 0.152, 0.524].\nStep 3: The color of the suitcase is black.",
+      "answer": "No",
+      "coordinate": "[0.378, 0.350, 0.152, 0.524]",
+      "qualified": true
+    },
+    {
+      "id": 384,
+      "img": "vg/VG_100K_2/2402633.jpg",
+      "question": "Is the wall behind the vase on the white table blue?",
+      "cot": "Step 1: The white table is at [0.003, 0.942, 0.984, 0.052].\nStep 2: The vase with a pattern on the table is at [0.573, 0.548, 0.234, 0.418].\nStep 3: The wall behind the vase is at [0.003, 0.002, 0.995, 0.952].\nStep 4: The wall is white.",
+      "answer": "No",
+      "coordinate": "[0.003, 0.002, 0.995, 0.952]",
+      "qualified": true
+    },
+    {
+      "id": 388,
+      "img": "vg/VG_100K/2320004.jpg",
+      "question": "Is the basket on the bicycle on the front of the city bus in the right lane behind a white car on the bus rack?",
+      "cot": "Step 1: The city bus in the right lane behind a white car is at [0.002, 0.241, 0.550, 0.612].\nStep 2: The bicycle on the front of the city bus is at [0.514, 0.545, 0.142, 0.233].\nStep 3: The basket on the bicycle is at [0.496, 0.543, 0.094, 0.094].\nStep 4: The basket is on the bus rack.",
+      "answer": "Yes",
+      "coordinate": "[0.496, 0.543, 0.094, 0.094]",
+      "qualified": true
+    },
+    {
+      "id": 392,
+      "img": "vg/VG_100K_2/2379458.jpg",
+      "question": "Is the green plant growing out of the planter under the window with a reflection almost like a mirror inside the windowframe green?",
+      "cot": "Step 1: The window with a reflection almost like a mirror inside the windowframe is at [0.232, 0.070, 0.242, 0.418].\nStep 2: The planter under the window is at [0.172, 0.512, 0.347, 0.108].\nStep 3: The green plant growing out of the planter is at [0.029, 0.422, 0.618, 0.228].\nStep 4: The color of the plant is green.",
+      "answer": "Yes",
+      "coordinate": "[0.029, 0.422, 0.618, 0.228]",
+      "qualified": true
+    },
+    {
+      "id": 397,
+      "img": "vg/VG_100K/2320850.jpg",
+      "question": "Is the reflection on the water in the small stream green?",
+      "cot": "Step 1: The small stream is at [0.006, 0.698, 0.961, 0.272].\nStep 2: The water in the small stream is at [0.000, 0.688, 0.997, 0.298].\nStep 3: The ripples on the water surface are at [0.000, 0.730, 0.994, 0.242].\nStep 4: The color of the reflection is not specified.",
+      "answer": "No",
+      "coordinate": "[0.000, 0.730, 0.994, 0.242]",
+      "qualified": true
+    },
+    {
+      "id": 404,
+      "img": "vg/VG_100K/713304.jpg",
+      "question": "Is the gray sweatshirt on the bed with a folded blanket on top of the unzipped black bag?",
+      "cot": "Step 1: The bed with a folded blanket is at [0.011, 0.398, 0.977, 0.592].\nStep 2: The unzipped black bag on the bed is at [0.299, 0.393, 0.305, 0.246].\nStep 3: The gray sweatshirt on the bag is at [0.031, 0.359, 0.441, 0.632].\nStep 4: The gray sweatshirt is on the bag, which is on the bed.",
+      "answer": "Yes",
+      "coordinate": "[0.031, 0.359, 0.441, 0.632]",
+      "qualified": true
+    },
+    {
+      "id": 418,
+      "img": "vg/VG_100K_2/2387177.jpg",
+      "question": "Is the bun of the sandwich on the wide, white, and flat plate part of a sandwich?",
+      "cot": "Step 1: The green-colored table top is at [0.006, 0.156, 0.992, 0.841].\nStep 2: The wide, white, and flat plate on the table is at [0.048, 0.398, 0.870, 0.452].\nStep 3: The bun of the sandwich on the plate is at [0.120, 0.195, 0.826, 0.569].\nStep 4: The caption describes it as the bun of a sandwich.",
+      "answer": "Yes",
+      "coordinate": "[0.120, 0.195, 0.826, 0.569]",
+      "qualified": true
+    },
+    {
+      "id": 419,
+      "img": "vg/VG_100K_2/2416756.jpg",
+      "question": "Is the unleavened bread on the white plate on the table round?",
+      "cot": "Step 1: The table is at [0.014, 0.008, 0.980, 0.973]\nStep 2: The white plate on the table is at [0.376, 0.083, 0.622, 0.789]\nStep 3: The unleavened bread on the plate is at [0.650, 0.379, 0.348, 0.429]\nStep 4: The shape of the unleavened bread is not specified.",
+      "answer": "No",
+      "coordinate": "[0.650, 0.379, 0.348, 0.429]",
+      "qualified": true
+    },
+    {
+      "id": 421,
+      "img": "vg/VG_100K/2377314.jpg",
+      "question": "Is the front tire of the blue bicycle part of the bicycle?",
+      "cot": "Step 1: The blue bicycle is at [0.088, 0.026, 0.912, 0.612].\nStep 2: The front tire on the bicycle is at [0.088, 0.212, 0.390, 0.382].\nStep 3: The front tire is part of the bicycle.",
+      "answer": "Yes",
+      "coordinate": "[0.088, 0.212, 0.390, 0.382]",
+      "qualified": true
+    },
+    {
+      "id": 422,
+      "img": "vg/VG_100K_2/2408704.jpg",
+      "question": "Is the menu to the left of the sandwich on wax paper red?",
+      "cot": "Step 1: The sandwich on wax paper is at [0.192, 0.330, 0.302, 0.441].\nStep 2: The menu to the left of the sandwich is at [0.022, 0.278, 0.210, 0.719].\nStep 3: The color of the menu is not specified.",
+      "answer": "No",
+      "coordinate": "[0.022, 0.278, 0.210, 0.719]",
+      "qualified": true
+    },
+    {
+      "id": 440,
+      "img": "vg/VG_100K/2329584.jpg",
+      "question": "Is the fork next to the colorful plate containing a meal lying on the table?",
+      "cot": "Step 1: The colorful plate containing a meal is at [0.034, 0.184, 0.846, 0.765].\nStep 2: The fork next to the plate is at [0.608, 0.688, 0.286, 0.304].\nStep 3: The fork is described as lying on the table next to the plate.",
+      "answer": "Yes",
+      "coordinate": "[0.608, 0.688, 0.286, 0.304]",
+      "qualified": true
+    },
+    {
+      "id": 442,
+      "img": "vg/VG_100K/2327523.jpg",
+      "question": "Is the lamp on the dark brown wooden nightstand next to the bed green?",
+      "cot": "Step 1: The bed is at [0.272, 0.237, 0.726, 0.757].\nStep 2: The dark brown wooden nightstand next to the bed is at [0.126, 0.603, 0.258, 0.328].\nStep 3: The lamp on the nightstand is at [0.112, 0.251, 0.172, 0.408].\nStep 4: The lamp has a white shade.",
+      "answer": "No",
+      "coordinate": "[0.112, 0.251, 0.172, 0.408]",
+      "qualified": true
+    },
+    {
+      "id": 446,
+      "img": "vg/VG_100K/2342162.jpg",
+      "question": "Is the very cloudy blue sky with the clouds clear?",
+      "cot": "Step 1: The very cloudy blue sky is at [0.000, 0.006, 0.996, 0.347].\nStep 2: The clouds are at [0.006, 0.000, 0.990, 0.329].\nStep 3: The sky with the clouds is at [0.002, 0.000, 0.986, 0.326].\nStep 4: The sky is described as very cloudy.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.000, 0.986, 0.326]",
+      "qualified": true
+    },
+    {
+      "id": 452,
+      "img": "vg/VG_100K_2/2386750.jpg",
+      "question": "Is the pizza crust on the cardboard box on the cloth?",
+      "cot": "Step 1: The cloth is at [0.002, 0.003, 0.998, 0.992].\nStep 2: The cardboard box on the cloth is at [0.000, 0.011, 0.996, 0.987].\nStep 3: The pizza crust on the cardboard is at [0.084, 0.051, 0.896, 0.824].",
+      "answer": "Yes",
+      "coordinate": "[0.084, 0.051, 0.896, 0.824]",
+      "qualified": true
+    },
+    {
+      "id": 466,
+      "img": "vg/VG_100K_2/2397592.jpg",
+      "question": "Is the letter S painted on the stop sign with white trim green?",
+      "cot": "Step 1: The stop sign with white trim is at [0.260, 0.051, 0.632, 0.892].\nStep 2: The letter S painted on the stop sign is at [0.322, 0.285, 0.128, 0.291].\nStep 3: The color of the letter S is not specified as green.",
+      "answer": "No",
+      "coordinate": "[0.322, 0.285, 0.128, 0.291]",
+      "qualified": true
+    },
+    {
+      "id": 470,
+      "img": "vg/VG_100K/2376333.jpg",
+      "question": "Is the child standing in front of the wooden railing on the skateboard ramp wearing shoes?",
+      "cot": "Step 1: The skateboard ramp is at [0.036, 0.517, 0.954, 0.477].\nStep 2: The wooden railing on top of the skateboard ramp is at [0.358, 0.267, 0.628, 0.317].\nStep 3: The child standing in front of the wooden railing is at [0.402, 0.219, 0.138, 0.352].\nStep 4: The caption does not mention shoes.",
+      "answer": "No",
+      "coordinate": "[0.402, 0.219, 0.138, 0.352]",
+      "qualified": true
+    },
+    {
+      "id": 471,
+      "img": "vg/VG_100K/2328745.jpg",
+      "question": "Is the serviette beneath the plain donut on the circular white plate red?",
+      "cot": "Step 1: The circular white plate is at [0.000, 0.156, 0.434, 0.817].\nStep 2: The plain donut resting on the plate is at [0.018, 0.276, 0.274, 0.560].\nStep 3: The serviette beneath the donut is at [0.002, 0.031, 0.468, 0.875].\nStep 4: The color of the serviette is not specified.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.031, 0.468, 0.875]",
+      "qualified": true
+    },
+    {
+      "id": 473,
+      "img": "vg/VG_100K_2/2406398.jpg",
+      "question": "Is the yellow cup on the red plate on the green tablecloth?",
+      "cot": "Step 1: The red plate on the green tablecloth is at [0.020, 0.303, 0.960, 0.694].\nStep 2: The square of shortcake or poundcake on the red plate is at [0.288, 0.340, 0.472, 0.449].\nStep 3: The yellow cup behind the cake is at [0.644, 0.000, 0.354, 0.401].\nStep 4: The yellow cup is not on the red plate.",
+      "answer": "No",
+      "coordinate": "[0.644, 0.000, 0.354, 0.401]",
+      "qualified": true
+    },
+    {
+      "id": 478,
+      "img": "vg/VG_100K/2368491.jpg",
+      "question": "Is the toothpick-like object in the sandwich on the wooden table under meal red?",
+      "cot": "Step 1: The wooden table under meal is at [0.000, 0.330, 0.998, 0.667].\nStep 2: The sandwich on the table is at [0.018, 0.300, 0.776, 0.652].\nStep 3: The toothpick-like object in the sandwich is at [0.366, 0.168, 0.122, 0.198].\nStep 4: The color of the toothpick-like object is not specified.",
+      "answer": "No",
+      "coordinate": "[0.366, 0.168, 0.122, 0.198]",
+      "qualified": true
+    },
+    {
+      "id": 482,
+      "img": "vg/VG_100K/2376786.jpg",
+      "question": "Is the food on the plate with a healthy meal a dessert?",
+      "cot": "Step 1: The plate with a healthy meal is at [0.018, 0.000, 0.976, 0.990].\nStep 2: The food on the plate is at [0.014, 0.002, 0.972, 0.954].\nStep 3: The caption describes the food as part of a healthy meal.",
+      "answer": "No",
+      "coordinate": "[0.014, 0.002, 0.972, 0.954]",
+      "qualified": true
+    },
+    {
+      "id": 483,
+      "img": "vg/VG_100K_2/2386321.jpg",
+      "question": "Is the shadow of a man on the ground red?",
+      "cot": "Step 1: The ground is at [0.002, 0.006, 0.994, 0.988].\nStep 2: The shadow on the ground is at [0.588, 0.718, 0.410, 0.180].\nStep 3: The shadow is described as the shadow of a man.",
+      "answer": "No",
+      "coordinate": "[0.588, 0.718, 0.410, 0.180]",
+      "qualified": true
+    },
+    {
+      "id": 489,
+      "img": "vg/VG_100K/2367527.jpg",
+      "question": "Is the bow on the side of the three-layer decorated cake sitting on the brown table white?",
+      "cot": "Step 1: The brown table is at [0.002, 0.000, 0.998, 0.997].\nStep 2: The three-layer decorated cake on the table is at [0.002, 0.003, 0.554, 0.895].\nStep 3: The bow on the side of the cake is at [0.194, 0.535, 0.340, 0.357].\nStep 4: The color of the bow is white.",
+      "answer": "Yes",
+      "coordinate": "[0.194, 0.535, 0.340, 0.357]",
+      "qualified": true
+    },
+    {
+      "id": 495,
+      "img": "vg/VG_100K_2/2416157.jpg",
+      "question": "Is the floral pattern scarf tied around the grey parking meter next to the street red?",
+      "cot": "Step 1: The street is at [0.004, 0.003, 0.964, 0.992].\nStep 2: The grey parking meter next to the street is at [0.276, 0.008, 0.336, 0.987].\nStep 3: The floral pattern scarf tied around the parking meter is at [0.188, 0.416, 0.468, 0.579].\nStep 4: The color of the scarf is not specified.",
+      "answer": "No",
+      "coordinate": "[0.188, 0.416, 0.468, 0.579]",
+      "qualified": true
+    },
+    {
+      "id": 498,
+      "img": "vg/VG_100K_2/2396419.jpg",
+      "question": "Is the orange slice over the rim of the glass containing the alcoholic beverage green?",
+      "cot": "Step 1: The glass containing the alcoholic beverage is at [0.060, 0.138, 0.686, 0.824].\nStep 2: The orange slice over the rim of the glass is at [0.354, 0.182, 0.622, 0.522].\nStep 3: The color of the orange slice is orange.",
+      "answer": "No",
+      "coordinate": "[0.354, 0.182, 0.622, 0.522]",
+      "qualified": true
+    },
+    {
+      "id": 500,
+      "img": "vg/VG_100K_2/2409515.jpg",
+      "question": "Is the left eye cutout of the beautifully decorated brown pancake on the large white dinner plate looking up?",
+      "cot": "Step 1: The large white dinner plate is at [0.002, 0.000, 0.932, 0.929].\nStep 2: The beautifully decorated brown pancake on the plate is at [0.028, 0.026, 0.826, 0.844].\nStep 3: The left eye cutout of the pancake is at [0.434, 0.126, 0.162, 0.164].\nStep 4: The left eye cutout is looking up.",
+      "answer": "Yes",
+      "coordinate": "[0.434, 0.126, 0.162, 0.164]",
+      "qualified": true
+    },
+    {
+      "id": 501,
+      "img": "vg/VG_100K/2328076.jpg",
+      "question": "Is the boy on the baseball field wearing red shorts?",
+      "cot": "Step 1: The baseball field is at [0.003, 0.356, 0.958, 0.636].\nStep 2: The boy on the baseball field is at [0.311, 0.172, 0.526, 0.690].\nStep 3: The shorts on the boy are at [0.520, 0.486, 0.290, 0.168].\nStep 4: The color of the shorts is blue and white.",
+      "answer": "No",
+      "coordinate": "[0.520, 0.486, 0.290, 0.168]",
+      "qualified": true
+    },
+    {
+      "id": 506,
+      "img": "vg/VG_100K_2/2410278.jpg",
+      "question": "Is the man looking at the elephant behind the fence feeding the elephant?",
+      "cot": "Step 1: The elephant enclosure fence is at [0.000, 0.675, 0.998, 0.323].\nStep 2: The elephant behind the fence is at [0.000, 0.219, 0.502, 0.597].\nStep 3: The man looking at the elephant is at [0.528, 0.429, 0.336, 0.568].\nStep 4: The man is reaching out to feed the elephant.",
+      "answer": "Yes",
+      "coordinate": "[0.528, 0.429, 0.336, 0.568]",
+      "qualified": true
+    },
+    {
+      "id": 515,
+      "img": "vg/VG_100K_2/2404611.jpg",
+      "question": "Is the cat on the full-sized bed with white sheets that has a wooden headboard on the bed?",
+      "cot": "Step 1: The full-sized bed with white sheets is at [0.008, 0.142, 0.986, 0.853].\nStep 2: The wooden headboard is at [0.524, 0.136, 0.476, 0.340].\nStep 3: The cat on the bed is at [0.428, 0.353, 0.240, 0.198].\nStep 4: The cat is on the bed.",
+      "answer": "Yes",
+      "coordinate": "[0.428, 0.353, 0.240, 0.198]",
+      "qualified": true
+    },
+    {
+      "id": 519,
+      "img": "vg/VG_100K/2351583.jpg",
+      "question": "Are the front legs on the zebra?",
+      "cot": "Step 1: The zebra is at [0.068, 0.256, 0.822, 0.736].\nStep 2: The front legs are at [0.286, 0.797, 0.116, 0.200].\nStep 3: The front legs are part of the zebra.",
+      "answer": "Yes",
+      "coordinate": "[0.286, 0.797, 0.116, 0.200]",
+      "qualified": true
+    },
+    {
+      "id": 521,
+      "img": "vg/VG_100K_2/2395281.jpg",
+      "question": "Is the bun with many swirls on the brown wooden table sitting on the round white plate?",
+      "cot": "Step 1: The brown wooden table is at [0.002, 0.008, 0.960, 0.984].\nStep 2: The round white plate on the table is at [0.078, 0.005, 0.888, 0.960].\nStep 3: The bun with many swirls is sitting on top of the plate at [0.322, 0.179, 0.482, 0.512].",
+      "answer": "Yes",
+      "coordinate": "[0.322, 0.179, 0.482, 0.512]",
+      "qualified": true
+    },
+    {
+      "id": 522,
+      "img": "vg/VG_100K_2/2387122.jpg",
+      "question": "Is the man holding the camera looking at the white polar bear inside the polar bear exhibit?",
+      "cot": "Step 1: The polar bear exhibit is at [0.014, 0.006, 0.980, 0.988]\nStep 2: The white polar bear is inside the exhibit at [0.210, 0.262, 0.782, 0.738]\nStep 3: The man holding the camera is at [0.008, 0.402, 0.613, 0.590]\nStep 4: The man is looking at the polar bear.",
+      "answer": "Yes",
+      "coordinate": "[0.008, 0.402, 0.613, 0.590]",
+      "qualified": true
+    },
+    {
+      "id": 539,
+      "img": "vg/VG_100K_2/2414042.jpg",
+      "question": "Is the piece of cake on the plate with black trim on the surface a dessert?",
+      "cot": "Step 1: The surface is at [0.004, 0.005, 0.994, 0.992]\nStep 2: The plate with black trim on the surface is at [0.002, 0.051, 0.990, 0.936]\nStep 3: The piece of cake on the plate is at [0.232, 0.101, 0.436, 0.427]\nStep 4: The piece of cake is described as a dessert.",
+      "answer": "Yes",
+      "coordinate": "[0.232, 0.101, 0.436, 0.427]",
+      "qualified": true
+    },
+    {
+      "id": 553,
+      "img": "vg/VG_100K_2/2386404.jpg",
+      "question": "Is the sale sign on the back of the wooden bench on the white tile floor blue?",
+      "cot": "Step 1: The white tile floor is at [0.000, 0.835, 0.998, 0.165].\nStep 2: The wooden bench on the floor is at [0.010, 0.162, 0.978, 0.802].\nStep 3: The sale sign on the back of the bench is at [0.272, 0.048, 0.140, 0.129].\nStep 4: The sale sign is red and white.",
+      "answer": "No",
+      "coordinate": "[0.272, 0.048, 0.140, 0.129]",
+      "qualified": true
+    },
+    {
+      "id": 558,
+      "img": "vg/VG_100K/2376682.jpg",
+      "question": "Is the opened laptop computer in front of the man wearing a scarf?",
+      "cot": "Step 1: The man in strange clothing is at [0.294, 0.000, 0.636, 0.576].\nStep 2: The opened laptop computer is at [0.260, 0.571, 0.736, 0.421].\nStep 3: The laptop is in front of the man.",
+      "answer": "Yes",
+      "coordinate": "[0.260, 0.571, 0.736, 0.421]",
+      "qualified": true
+    },
+    {
+      "id": 570,
+      "img": "vg/VG_100K_2/2382434.jpg",
+      "question": "Is the newspaper in front of the white dog with a tilted-down head red?",
+      "cot": "Step 1: The white dog is at [0.000, 0.003, 0.686, 0.973].\nStep 2: The dog's head is tilted down at [0.278, 0.183, 0.314, 0.607].\nStep 3: The newspaper in front of the dog is at [0.480, 0.330, 0.518, 0.655].\nStep 4: The color of the newspaper is not specified.",
+      "answer": "No",
+      "coordinate": "[0.480, 0.330, 0.518, 0.655]",
+      "qualified": true
+    },
+    {
+      "id": 588,
+      "img": "vg/VG_100K/2365794.jpg",
+      "question": "Is the water bottle on the wood side table next to the lit lamp?",
+      "cot": "Step 1: The lit lamp is at [0.006, 0.004, 0.182, 0.491].\nStep 2: The wood side table is at [0.006, 0.434, 0.228, 0.488].\nStep 3: The water bottle is at [0.016, 0.367, 0.040, 0.153].\nStep 4: The water bottle is on the wood side table.",
+      "answer": "Yes",
+      "coordinate": "[0.016, 0.367, 0.040, 0.153]",
+      "qualified": true
+    },
+    {
+      "id": 602,
+      "img": "vg/VG_100K/2362235.jpg",
+      "question": "Is the plate on the table covered with food and drinks present?",
+      "cot": "Step 1: The table covered with food and drinks is at [0.003, 0.450, 0.994, 0.544].\nStep 2: The plate on the table is at [0.102, 0.640, 0.682, 0.320].\nStep 3: The plate is described as being on the table.",
+      "answer": "Yes",
+      "coordinate": "[0.102, 0.640, 0.682, 0.320]",
+      "qualified": true
+    },
+    {
+      "id": 612,
+      "img": "vg/VG_100K_2/2386638.jpg",
+      "question": "Is the fabric holding the large pile of orange fruit on the table red?",
+      "cot": "Step 1: The table is at [0.000, 0.000, 0.996, 1.000].\nStep 2: The large pile of orange fruit on the table is at [0.000, 0.078, 0.998, 0.919].\nStep 3: The fabric holding the pile of orange fruit is at [0.002, 0.114, 0.996, 0.877].\nStep 4: The color of the fabric is not specified.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.114, 0.996, 0.877]",
+      "qualified": true
+    },
+    {
+      "id": 628,
+      "img": "vg/VG_100K/2351653.jpg",
+      "question": "Is the hedge behind the horse with the sheriff star on a harness blue?",
+      "cot": "Step 1: The horse with the sheriff star on a harness is at [0.003, 0.096, 0.743, 0.902].\nStep 2: The hedge behind the horse is at [0.009, 0.064, 0.773, 0.890].\nStep 3: The hedge is green.",
+      "answer": "No",
+      "coordinate": "[0.009, 0.064, 0.773, 0.890]",
+      "qualified": true
+    },
+    {
+      "id": 633,
+      "img": "vg/VG_100K_2/2398444.jpg",
+      "question": "Is the red ceramic plate on the grass lawn next to the black bear cub?",
+      "cot": "Step 1: The grass lawn is at [0.006, 0.006, 0.986, 0.986].\nStep 2: The black bear cub standing on the grass lawn is at [0.440, 0.227, 0.382, 0.580].\nStep 3: The red ceramic plate nearby the black bear cub is at [0.408, 0.740, 0.198, 0.210].\nStep 4: The red ceramic plate is not on the grass lawn.",
+      "answer": "No",
+      "coordinate": "[0.408, 0.740, 0.198, 0.210]",
+      "qualified": true
+    },
+    {
+      "id": 634,
+      "img": "vg/VG_100K_2/2391904.jpg",
+      "question": "Is the salad on the wooden and metal table to the side of the round plate green?",
+      "cot": "Step 1: The wooden and metal table is at [0.004, 0.009, 0.996, 0.985]\nStep 2: The round plate on the table is at [0.038, 0.204, 0.960, 0.793]\nStep 3: The salad to the side of the plate is at [0.488, 0.234, 0.452, 0.459]\nStep 4: The color of the salad is not specified.",
+      "answer": "No",
+      "coordinate": "[0.488, 0.234, 0.452, 0.459]",
+      "qualified": true
+    },
+    {
+      "id": 640,
+      "img": "vg/VG_100K/2333991.jpg",
+      "question": "Is the poem etched into the clear vase visible?",
+      "cot": "Step 1: The clear vase is at [0.144, 0.009, 0.688, 0.976].\nStep 2: The poem etched into the vase is at [0.252, 0.462, 0.484, 0.459].\nStep 3: The poem is on the side of the vase.",
+      "answer": "Yes",
+      "coordinate": "[0.252, 0.462, 0.484, 0.459]",
+      "qualified": true
+    },
+    {
+      "id": 649,
+      "img": "vg/VG_100K_2/2408018.jpg",
+      "question": "Is the ground on the mountain covered with green grass?",
+      "cot": "Step 1: The mountain is at [0.006, 0.027, 0.988, 0.973].\nStep 2: The snow on the mountain is at [0.008, 0.067, 0.984, 0.930].\nStep 3: The ground covered with snow is at [0.008, 0.072, 0.990, 0.920].\nStep 4: The ground is covered with white snow.",
+      "answer": "No",
+      "coordinate": "[0.008, 0.072, 0.990, 0.920]",
+      "qualified": true
+    },
+    {
+      "id": 666,
+      "img": "vg/VG_100K_2/2406048.jpg",
+      "question": "Is the liquid inside the small bottle next to the burger clear?",
+      "cot": "Step 1: The burger is at [0.008, 0.678, 0.787, 0.302]\nStep 2: The small bottle next to the burger is at [0.349, 0.000, 0.643, 0.532]\nStep 3: The liquid inside the small bottle is at [0.352, 0.040, 0.571, 0.500]\nStep 4: The description does not specify the clarity of the liquid.",
+      "answer": "No",
+      "coordinate": "[0.352, 0.040, 0.571, 0.500]",
+      "qualified": true
+    },
+    {
+      "id": 673,
+      "img": "vg/VG_100K_2/2412779.jpg",
+      "question": "Is the water crashing against the rocks in the blue sea?",
+      "cot": "Step 1: The blue sea is at [0.010, 0.676, 0.982, 0.309].\nStep 2: The large rocky area is in the sea at [0.002, 0.273, 0.996, 0.435].\nStep 3: The waves are crashing against the rocks at [0.002, 0.643, 0.996, 0.093].",
+      "answer": "Yes",
+      "coordinate": "[0.002, 0.643, 0.996, 0.093]",
+      "qualified": true
+    },
+    {
+      "id": 684,
+      "img": "vg/VG_100K/2367131.jpg",
+      "question": "Is the strawberry donut with sprinkles on the pink frosted donut in the box?",
+      "cot": "Step 1: The pink frosted donut in the box is at [0.072, 0.476, 0.293, 0.194]\nStep 2: The strawberry donut with sprinkles is on the pink frosted donut at [0.083, 0.480, 0.283, 0.184]\nStep 3: The sprinkles are on the pink frosting at [0.096, 0.478, 0.237, 0.174]",
+      "answer": "Yes",
+      "coordinate": "[0.096, 0.478, 0.237, 0.174]",
+      "qualified": true
+    },
+    {
+      "id": 697,
+      "img": "vg/VG_100K/2318847.jpg",
+      "question": "Is the white tile floor in the bathroom of the hotel room?",
+      "cot": "Step 1: The bathroom of the hotel room is at [0.069, 0.002, 0.925, 0.992].\nStep 2: The white tile floor is at [0.219, 0.802, 0.773, 0.194].\nStep 3: The white tile floor is within the bathroom.",
+      "answer": "Yes",
+      "coordinate": "[0.219, 0.802, 0.773, 0.194]",
+      "qualified": true
+    },
+    {
+      "id": 703,
+      "img": "vg/VG_100K/2345781.jpg",
+      "question": "Is the rope on the large river attached to the small boat red?",
+      "cot": "Step 1: The large river is at [0.000, 0.168, 0.996, 0.832].\nStep 2: The small boat on the river is at [0.228, 0.096, 0.740, 0.688].\nStep 3: The rope attached to the boat is at [0.564, 0.309, 0.424, 0.688].\nStep 4: The color of the rope is not specified.",
+      "answer": "No",
+      "coordinate": "[0.564, 0.309, 0.424, 0.688]",
+      "qualified": true
+    },
+    {
+      "id": 715,
+      "img": "vg/VG_100K/2337939.jpg",
+      "question": "Is the multicolored kite in the clear blue sky with multi-color tails?",
+      "cot": "Step 1: The clear blue sky is at [0.024, 0.019, 0.972, 0.721]\nStep 2: The multicolored kite in the sky is at [0.254, 0.150, 0.518, 0.350]\nStep 3: The multi-color tails are on the kite at [0.294, 0.219, 0.296, 0.281]",
+      "answer": "Yes",
+      "coordinate": "[0.294, 0.219, 0.296, 0.281]",
+      "qualified": true
+    },
+    {
+      "id": 725,
+      "img": "vg/VG_100K_2/2383319.jpg",
+      "question": "Is the blanket under the sleeping baby in white clothing with black hair on its head blue?",
+      "cot": "Step 1: The sleeping baby in white clothing is at [0.480, 0.102, 0.412, 0.802]\nStep 2: The black hair on the baby's head is at [0.582, 0.096, 0.144, 0.168]\nStep 3: The blanket under the baby is at [0.000, 0.003, 0.998, 0.997]\nStep 4: The blanket features a teddy bear.",
+      "answer": "No",
+      "coordinate": "[0.000, 0.003, 0.998, 0.997]",
+      "qualified": true
+    },
+    {
+      "id": 732,
+      "img": "vg/VG_100K_2/2399656.jpg",
+      "question": "Is the clock on the brick wall gray?",
+      "cot": "Step 1: The brick wall is at [0.003, 0.002, 0.997, 0.998].\nStep 2: The clock on the brick wall is at [0.123, 0.072, 0.754, 0.410].\nStep 3: The color of the clock face is gray.",
+      "answer": "Yes",
+      "coordinate": "[0.123, 0.072, 0.754, 0.410]",
+      "qualified": true
+    },
+    {
+      "id": 738,
+      "img": "vg/VG_100K_2/2414361.jpg",
+      "question": "Is the food on the white plate on the table white?",
+      "cot": "Step 1: The table is at [0.004, 0.005, 0.994, 0.995]\nStep 2: The white plate on the table is at [0.030, 0.032, 0.936, 0.963]\nStep 3: The food sitting on the plate is at [0.002, 0.000, 0.996, 1.000]\nStep 4: The color of the food is not specified.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.000, 0.996, 1.000]",
+      "qualified": true
+    },
+    {
+      "id": 744,
+      "img": "vg/VG_100K/2337802.jpg",
+      "question": "Is the multi-layer chocolate cake next to the three-pronged silver fork on the white napkin red?",
+      "cot": "Step 1: The white napkin is at [0.230, 0.225, 0.768, 0.766].\nStep 2: The three-pronged silver fork on the napkin is at [0.658, 0.282, 0.260, 0.712].\nStep 3: The multi-layer chocolate cake next to the fork is at [0.210, 0.000, 0.552, 0.679].\nStep 4: The cake is chocolate.",
+      "answer": "No",
+      "coordinate": "[0.210, 0.000, 0.552, 0.679]",
+      "qualified": true
+    },
+    {
+      "id": 745,
+      "img": "vg/VG_100K/2321781.jpg",
+      "question": "Is the large piece of artwork with a cactus above the wood bed with white sheets red?",
+      "cot": "Step 1: The wood bed with white sheets is at [0.086, 0.363, 0.878, 0.629].\nStep 2: The large piece of artwork with a cactus above the bed is at [0.008, 0.000, 0.596, 0.461].\nStep 3: The color of the artwork is not specified.",
+      "answer": "No",
+      "coordinate": "[0.008, 0.000, 0.596, 0.461]",
+      "qualified": true
+    },
+    {
+      "id": 749,
+      "img": "vg/VG_100K/2371595.jpg",
+      "question": "Is the hat on the man wearing a baby blue t-shirt red?",
+      "cot": "Step 1: The man wearing a baby blue t-shirt is at [0.652, 0.580, 0.306, 0.415].\nStep 2: The hat on the man is at [0.710, 0.585, 0.186, 0.162].\nStep 3: The color of the hat is not specified.",
+      "answer": "No",
+      "coordinate": "[0.710, 0.585, 0.186, 0.162]",
+      "qualified": true
+    },
+    {
+      "id": 750,
+      "img": "vg/VG_100K/2316596.jpg",
+      "question": "Is the frosted window pane in the bathroom with white walls transparent?",
+      "cot": "Step 1: The bathroom with white walls is at [0.006, 0.002, 0.991, 0.992].\nStep 2: The frosted window pane in the bathroom is at [0.000, 0.002, 0.532, 0.390].\nStep 3: The frosted window pane is described as frosted, which implies it is not transparent.",
+      "answer": "No",
+      "coordinate": "[0.000, 0.002, 0.532, 0.390]",
+      "qualified": true
+    },
+    {
+      "id": 752,
+      "img": "vg/VG_100K_2/2393848.jpg",
+      "question": "Is the vegetable pizza with multiple toppings on the plate?",
+      "cot": "Step 1: The vegetable pizza with multiple toppings is at [0.002, 0.000, 0.998, 0.997].\nStep 2: The plate is at [0.002, 0.003, 0.996, 0.995].\nStep 3: The pizza is on the plate.",
+      "answer": "Yes",
+      "coordinate": "[0.002, 0.003, 0.996, 0.995]",
+      "qualified": true
+    },
+    {
+      "id": 760,
+      "img": "vg/VG_100K_2/2416756.jpg",
+      "question": "Is the unleavened bread on the white plate on the table with plates on a place mat?",
+      "cot": "Step 1: The table with plates on a place mat is at [0.014, 0.008, 0.980, 0.973].\nStep 2: The white plate on the table is at [0.376, 0.083, 0.622, 0.789].\nStep 3: The unleavened bread on the plate is at [0.626, 0.379, 0.366, 0.421].",
+      "answer": "Yes",
+      "coordinate": "[0.626, 0.379, 0.366, 0.421]",
+      "qualified": true
+    },
+    {
+      "id": 765,
+      "img": "vg/VG_100K/2351800.jpg",
+      "question": "Is the silverware on the yellowcake tablecloth near the green plate with healthy food?",
+      "cot": "Step 1: The yellowcake tablecloth is at [0.006, 0.003, 0.988, 0.992].\nStep 2: The green plate with healthy food on the tablecloth is at [0.104, 0.008, 0.832, 0.984].\nStep 3: The silverware near the plate is at [0.058, 0.045, 0.912, 0.816].\nStep 4: The silverware is near the plate.",
+      "answer": "Yes",
+      "coordinate": "[0.058, 0.045, 0.912, 0.816]",
+      "qualified": true
+    },
+    {
+      "id": 781,
+      "img": "vg/VG_100K/2363785.jpg",
+      "question": "Are the fried chips on the white plate on the table with lunch on a plate red?",
+      "cot": "Step 1: The table with lunch on a plate is at [0.000, 0.000, 0.998, 0.993]\nStep 2: The white plate on the table is at [0.098, 0.205, 0.798, 0.779]\nStep 3: The fried chips on the white plate are at [0.150, 0.104, 0.324, 0.401]\nStep 4: The chips are fried, not red.",
+      "answer": "No",
+      "coordinate": "[0.150, 0.104, 0.324, 0.401]",
+      "qualified": true
+    },
+    {
+      "id": 786,
+      "img": "vg/VG_100K_2/2408488.jpg",
+      "question": "Is the beak of the bird with a brown head on the ledge part of the bird?",
+      "cot": "Step 1: The bird with a brown head is at [0.570, 0.279, 0.224, 0.508].\nStep 2: The beak of the bird is at [0.574, 0.285, 0.022, 0.033].\nStep 3: The beak is part of the bird.",
+      "answer": "Yes",
+      "coordinate": "[0.574, 0.285, 0.022, 0.033]",
+      "qualified": true
+    },
+    {
+      "id": 790,
+      "img": "vg/VG_100K/2349669.jpg",
+      "question": "Is the decorative blue comforter part of the old dark brown wood bed canopy?",
+      "cot": "Step 1: The old dark brown wood bed canopy is at [0.034, 0.000, 0.912, 0.992].\nStep 2: The decorative blue comforter is at [0.148, 0.651, 0.620, 0.347].\nStep 3: The comforter is part of the bed.",
+      "answer": "Yes",
+      "coordinate": "[0.148, 0.651, 0.620, 0.347]",
+      "qualified": true
+    },
+    {
+      "id": 793,
+      "img": "vg/VG_100K/2369290.jpg",
+      "question": "Is the gravel under the children's model train engine in the photo of an abandoned train in front of trees red?",
+      "cot": "Step 1: The photo of an abandoned train in front of trees is at [0.000, 0.000, 0.998, 0.995].\nStep 2: The children's model train engine in the photo is at [0.108, 0.189, 0.876, 0.771].\nStep 3: The gravel under the train is at [0.002, 0.560, 0.994, 0.440].\nStep 4: The color of the gravel is not specified.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.560, 0.994, 0.440]",
+      "qualified": true
+    },
+    {
+      "id": 798,
+      "img": "vg/VG_100K_2/2378871.jpg",
+      "question": "Is the snowboard on the snow-covered ground red?",
+      "cot": "Step 1: The snow-covered ground is at [0.006, 0.440, 0.990, 0.552].\nStep 2: The snow on top of the ground is at [0.006, 0.437, 0.992, 0.557].\nStep 3: The snowboard on top of the snow is at [0.344, 0.848, 0.404, 0.149].\nStep 4: The color of the snowboard is red.",
+      "answer": "Yes",
+      "coordinate": "[0.344, 0.848, 0.404, 0.149]",
+      "qualified": true
+    },
+    {
+      "id": 801,
+      "img": "vg/VG_100K/2364811.jpg",
+      "question": "Is the blanket covering the dog's head red?",
+      "cot": "Step 1: The head of the dog is at [0.198, 0.141, 0.702, 0.709]\nStep 2: The blanket covering the dog is at [0.002, 0.115, 0.982, 0.881]\nStep 3: The color of the blanket is black and white.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.115, 0.982, 0.881]",
+      "qualified": true
+    },
+    {
+      "id": 804,
+      "img": "vg/VG_100K_2/2414077.jpg",
+      "question": "Is the tree trunk behind the zebras eating on the ground with dirt, rocks, and grass?",
+      "cot": "Step 1: The ground with dirt, rocks, and grass is at [0.002, 0.184, 0.998, 0.811].\nStep 2: The zebras eating on the ground are at [0.138, 0.213, 0.680, 0.613].\nStep 3: The tree trunk behind the zebras is at [0.178, 0.003, 0.122, 0.315].\nStep 4: The tree trunk is behind the zebras.",
+      "answer": "Yes",
+      "coordinate": "[0.178, 0.003, 0.122, 0.315]",
+      "qualified": true
+    },
+    {
+      "id": 814,
+      "img": "vg/VG_100K/2371456.jpg",
+      "question": "Is the small black and white dog on the beach with gravel a large breed?",
+      "cot": "Step 1: The beach with gravel is at [0.000, 0.024, 1.000, 0.973].\nStep 2: The small black and white dog on the beach is at [0.556, 0.675, 0.140, 0.243].\nStep 3: The dog is described as small.",
+      "answer": "No",
+      "coordinate": "[0.556, 0.675, 0.140, 0.243]",
+      "qualified": true
+    },
+    {
+      "id": 827,
+      "img": "vg/VG_100K/2318485.jpg",
+      "question": "Is the white mini sofa bed next to the bed with five pillows?",
+      "cot": "Step 1: The bed with five pillows is at [0.046, 0.435, 0.774, 0.562].\nStep 2: The white mini sofa bed is at [0.058, 0.574, 0.258, 0.216].\nStep 3: The sofa bed is next to the bed.",
+      "answer": "Yes",
+      "coordinate": "[0.058, 0.574, 0.258, 0.216]",
+      "qualified": true
+    },
+    {
+      "id": 834,
+      "img": "vg/VG_100K/2355317.jpg",
+      "question": "Is the human statue by the white building with decorative architectural columns made of wood?",
+      "cot": "Step 1: The white building is at [0.188, 0.003, 0.682, 0.992]\nStep 2: The human statue by the white building is at [0.306, 0.195, 0.452, 0.805]\nStep 3: The material of the statue is not specified.",
+      "answer": "No",
+      "coordinate": "[0.306, 0.195, 0.452, 0.805]",
+      "qualified": true
+    },
+    {
+      "id": 843,
+      "img": "vg/VG_100K_2/2392722.jpg",
+      "question": "Is the sauce on the pizza that is on top of the pan visible?",
+      "cot": "Step 1: The pan is at [0.006, 0.003, 0.978, 0.992].\nStep 2: The pizza on top of the pan is at [0.050, 0.005, 0.948, 0.989].\nStep 3: The sauce on the pizza is at [0.120, 0.024, 0.880, 0.965].\nStep 4: The sauce is described as being on the pizza.",
+      "answer": "Yes",
+      "coordinate": "[0.120, 0.024, 0.880, 0.965]",
+      "qualified": true
+    },
+    {
+      "id": 852,
+      "img": "vg/VG_100K_2/2382393.jpg",
+      "question": "Is the meat on the white porcelain plate on the table white?",
+      "cot": "Step 1: The table is at [0.000, 0.091, 1.000, 0.904]\nStep 2: The white porcelain plate on the table is at [0.002, 0.077, 0.996, 0.920]\nStep 3: The meat on the plate is at [0.002, 0.221, 0.920, 0.637]\nStep 4: The color of the meat is brown.",
+      "answer": "No",
+      "coordinate": "[0.002, 0.221, 0.920, 0.637]",
+      "qualified": true
+    },
+    {
+      "id": 869,
+      "img": "vg/VG_100K/2376682.jpg",
+      "question": "Are the stickers on the laptop in front of the man in strange clothing on the laptop's lid?",
+      "cot": "Step 1: The man in strange clothing is at [0.294, 0.000, 0.636, 0.576].\nStep 2: The opened laptop computer in front of the man is at [0.260, 0.571, 0.736, 0.421].\nStep 3: The stickers on the laptop's lid are at [0.292, 0.621, 0.704, 0.376].\nStep 4: The stickers are on the laptop's lid.",
+      "answer": "Yes",
+      "coordinate": "[0.292, 0.621, 0.704, 0.376]",
+      "qualified": true
+    },
+    {
+      "id": 884,
+      "img": "vg/VG_100K_2/2406531.jpg",
+      "question": "Is the cooked beef on the blue and white china plate on the cutting board?",
+      "cot": "Step 1: The cutting board is at [0.018, 0.232, 0.968, 0.752]\nStep 2: The blue and white china plate on the cutting board is at [0.160, 0.256, 0.740, 0.461]\nStep 3: The cooked beef on the plate is at [0.216, 0.283, 0.580, 0.347]",
+      "answer": "Yes",
+      "coordinate": "[0.216, 0.283, 0.580, 0.347]",
+      "qualified": true
+    },
+    {
+      "id": 893,
+      "img": "vg/VG_100K_2/2397063.jpg",
+      "question": "Is the red smoke being expelled by the red, white, and blue jet?",
+      "cot": "Step 1: The red, white, and blue jet is at [0.186, 0.288, 0.468, 0.228].\nStep 2: The red smoke is at [0.590, 0.435, 0.408, 0.168].\nStep 3: The red smoke is being expelled by the jet.",
+      "answer": "Yes",
+      "coordinate": "[0.590, 0.435, 0.408, 0.168]",
+      "qualified": true
+    },
+    {
+      "id": 895,
+      "img": "vg/VG_100K/2342618.jpg",
+      "question": "Is the couple cutting the 3-tier wedding cake on the table with a white tablecloth wearing hats?",
+      "cot": "Step 1: The table with a white tablecloth is at [0.230, 0.672, 0.752, 0.304].\nStep 2: The 3-tier wedding cake on the table is at [0.516, 0.690, 0.290, 0.288].\nStep 3: The couple cutting the cake is at [0.136, 0.094, 0.846, 0.876].\nStep 4: The caption does not mention hats.",
+      "answer": "No",
+      "coordinate": "[0.136, 0.094, 0.846, 0.876]",
+      "qualified": true
+    },
+    {
+      "id": 896,
+      "img": "vg/VG_100K_2/2384260.jpg",
+      "question": "Is the bread on the white and circular plate on the marbled table torn apart?",
+      "cot": "Step 1: The marbled table is at [0.002, 0.000, 0.996, 0.997].\nStep 2: The white and circular plate on the table is at [0.172, 0.053, 0.766, 0.941].\nStep 3: The bread on the plate is at [0.168, 0.176, 0.602, 0.683].\nStep 4: The bread is torn apart.",
+      "answer": "Yes",
+      "coordinate": "[0.168, 0.176, 0.602, 0.683]",
+      "qualified": true
+    },
+    {
+      "id": 898,
+      "img": "vg/VG_100K/2329584.jpg",
+      "question": "Is the broccoli on the colorful plate with a border red?",
+      "cot": "Step 1: The colorful plate with a border is at [0.034, 0.184, 0.846, 0.765].\nStep 2: The broccoli on top of the plate is at [0.448, 0.216, 0.294, 0.245].\nStep 3: The color of broccoli is typically green.",
+      "answer": "No",
+      "coordinate": "[0.448, 0.216, 0.294, 0.245]",
+      "qualified": true
+    },
+    {
+      "id": 899,
+      "img": "vg/VG_100K_2/2393325.jpg",
+      "question": "Is the keyboard on the desk with computer components below the computer monitor?",
+      "cot": "Step 1: The desk with computer components is at [0.004, 0.683, 0.994, 0.240].\nStep 2: The computer monitor sitting on the desk is at [0.136, 0.093, 0.718, 0.565].\nStep 3: The keyboard below the monitor is at [0.130, 0.771, 0.686, 0.144].\nStep 4: The keyboard is below the monitor on the desk.",
+      "answer": "Yes",
+      "coordinate": "[0.130, 0.771, 0.686, 0.144]",
+      "qualified": true
+    },
+    {
+      "id": 900,
+      "img": "vg/VG_100K_2/2416110.jpg",
+      "question": "Is the small, pale blue suitcase with a padded handle stacked on the older piece of luggage?",
+      "cot": "Step 1: The older piece of luggage is at [0.446, 0.446, 0.366, 0.189].\nStep 2: The small, pale blue suitcase is stacked on the older piece of luggage at [0.464, 0.323, 0.320, 0.128].",
+      "answer": "Yes",
+      "coordinate": "[0.464, 0.323, 0.320, 0.128]",
+      "qualified": true
+    },
+    {
+      "id": 908,
+      "img": "vg/VG_100K/2320850.jpg",
+      "question": "Is the reflection on the water in the small stream ripples?",
+      "cot": "Step 1: The small stream is at [0.006, 0.698, 0.961, 0.272].\nStep 2: The water in the small stream is at [0.000, 0.688, 0.997, 0.298].\nStep 3: The ripples on the water surface are at [0.000, 0.730, 0.994, 0.242].\nStep 4: The reflection is described as ripples.",
+      "answer": "Yes",
+      "coordinate": "[0.000, 0.730, 0.994, 0.242]",
+      "qualified": true
+    },
+    {
+      "id": 910,
+      "img": "vg/VG_100K/2354540.jpg",
+      "question": "Is the gray blanket behind the shaggy stuffed bear in the white wicker chair?",
+      "cot": "Step 1: The white wicker chair is at [0.056, 0.078, 0.886, 0.847].\nStep 2: The shaggy stuffed bear in the chair is at [0.182, 0.187, 0.406, 0.657].\nStep 3: The gray blanket behind the bear is at [0.140, 0.072, 0.604, 0.585].\nStep 4: The blanket is behind the bear.",
+      "answer": "Yes",
+      "coordinate": "[0.140, 0.072, 0.604, 0.585]",
+      "qualified": true
+    },
+    {
+      "id": 917,
+      "img": "vg/VG_100K_2/2389398.jpg",
+      "question": "Is the black letter P on the bright red stop sign with the black letter S?",
+      "cot": "Step 1: The bright red stop sign is at [0.262, 0.000, 0.502, 1.000].\nStep 2: The black letter S on the stop sign is at [0.334, 0.000, 0.104, 0.595].\nStep 3: The black letter P on the stop sign is at [0.630, 0.256, 0.088, 0.544].",
+      "answer": "Yes",
+      "coordinate": "[0.630, 0.256, 0.088, 0.544]",
+      "qualified": true
+    },
+    {
+      "id": 926,
+      "img": "vg/VG_100K/2372589.jpg",
+      "question": "Is the bird on the beach sand on the ground a flamingo?",
+      "cot": "Step 1: The ground is at [0.008, 0.000, 0.982, 0.992]\nStep 2: The beach sand on the ground is at [0.000, 0.000, 1.000, 1.000]\nStep 3: The bird standing on the sand is at [0.244, 0.117, 0.660, 0.668]\nStep 4: The caption does not specify the type of bird.",
+      "answer": "No",
+      "coordinate": "[0.244, 0.117, 0.660, 0.668]",
+      "qualified": true
+    },
+    {
+      "id": 927,
+      "img": "vg/VG_100K_2/2409619.jpg",
+      "question": "Is the towel next to the white toilet against the wall red?",
+      "cot": "Step 1: The white toilet against the wall is at [0.222, 0.011, 0.566, 0.905].\nStep 2: The towel next to the toilet is at [0.696, 0.002, 0.254, 0.276].\nStep 3: The color of the towel is white.",
+      "answer": "No",
+      "coordinate": "[0.696, 0.002, 0.254, 0.276]",
+      "qualified": true
+    },
+    {
+      "id": 930,
+      "img": "vg/VG_100K/2324370.jpg",
+      "question": "Is the white cap on the coffee cup on the tray with food and drink?",
+      "cot": "Step 1: The tray with food and drink is at [0.014, 0.184, 0.982, 0.805].\nStep 2: The coffee in a plastic cup on the tray is at [0.000, 0.203, 0.368, 0.704].\nStep 3: The white cap on the coffee cup is at [0.008, 0.200, 0.376, 0.312].",
+      "answer": "Yes",
+      "coordinate": "[0.008, 0.200, 0.376, 0.312]",
+      "qualified": true
+    },
+    {
+      "id": 939,
+      "img": "vg/VG_100K_2/2390349.jpg",
+      "question": "Is the line of spicy mustard on the hot dog on the white paper plate red?",
+      "cot": "Step 1: The white paper plate is at [0.006, 0.007, 0.988, 0.990].\nStep 2: The hot dog with mustard on a bun is on top of the plate at [0.032, 0.084, 0.830, 0.913].\nStep 3: The line of spicy mustard is on the hot dog at [0.122, 0.084, 0.534, 0.544].\nStep 4: The mustard is described as spicy, not red.",
+      "answer": "No",
+      "coordinate": "[0.122, 0.084, 0.534, 0.544]",
+      "qualified": true
+    },
+    {
+      "id": 947,
+      "img": "vg/VG_100K/2317852.jpg",
+      "question": "Is the patch of grass near the red and white stripes on the track blue?",
+      "cot": "Step 1: The track the man is racing on is at [0.002, 0.003, 0.998, 0.988].\nStep 2: The red and white stripes on the track are at [0.002, 0.003, 0.836, 0.982].\nStep 3: The patch of grass near the stripes is at [0.004, 0.006, 0.566, 0.769].\nStep 4: The patch of grass is green.",
+      "answer": "No",
+      "coordinate": "[0.004, 0.006, 0.566, 0.769]",
+      "qualified": true
+    },
+    {
+      "id": 949,
+      "img": "vg/VG_100K/2363823.jpg",
+      "question": "Is the grass under the cement bench with painted black slats facing the blue sky over the turquoise sea in the sand?",
+      "cot": "Step 1: The blue sky over the turquoise sea is at [0.006, 0.006, 0.961, 0.410].\nStep 2: The cement bench with painted black slats facing the sky is at [0.000, 0.434, 0.667, 0.512].\nStep 3: The grass under the bench is at [0.006, 0.740, 0.988, 0.254].\nStep 4: The grass is described as being in the sand.",
+      "answer": "Yes",
+      "coordinate": "[0.006, 0.740, 0.988, 0.254]",
+      "qualified": true
+    },
+    {
+      "id": 954,
+      "img": "vg/VG_100K/2358854.jpg",
+      "question": "Is the salad on the wood table with food and drink on top of the cutting board?",
+      "cot": "Step 1: The wood table with food and drink is at [0.002, 0.128, 0.998, 0.872].\nStep 2: The cutting board on the table is at [0.024, 0.520, 0.794, 0.480].\nStep 3: The salad on the cutting board is at [0.352, 0.544, 0.346, 0.453].\nStep 4: The salad is on top of the cutting board.",
+      "answer": "Yes",
+      "coordinate": "[0.352, 0.544, 0.346, 0.453]",
+      "qualified": true
+    },
+    {
+      "id": 960,
+      "img": "vg/VG_100K_2/2387444.jpg",
+      "question": "Is the giraffe standing in front of the white building the same as the giraffes in the enclosed area?",
+      "cot": "Step 1: The giraffes in the enclosed area are at [0.224, 0.360, 0.498, 0.320].\nStep 2: The white building is at [0.116, 0.056, 0.590, 0.568].\nStep 3: The giraffe standing in front of the building is at [0.228, 0.376, 0.222, 0.317].\nStep 4: The giraffe in front of the building is a single giraffe, while the giraffes in the enclosed area are multiple.",
+      "answer": "No",
+      "coordinate": "[0.228, 0.376, 0.222, 0.317]",
+      "qualified": true
+    },
+    {
+      "id": 963,
+      "img": "vg/VG_100K/150294.jpg",
+      "question": "Is the taxi passing by the woman carrying a brown bag with a gold buckle blue?",
+      "cot": "Step 1: The woman carrying the brown bag with a gold buckle is at [0.543, 0.460, 0.191, 0.492].\nStep 2: The taxi passing by the woman is at [0.000, 0.526, 0.388, 0.207].\nStep 3: The taxi is described as red and green.",
+      "answer": "No",
+      "coordinate": "[0.000, 0.526, 0.388, 0.207]",
+      "qualified": true
+    },
+    {
+      "id": 968,
+      "img": "vg/VG_100K/2370400.jpg",
+      "question": "Is the Apple MacBook computer on the long table with a striped table cloth an Apple product?",
+      "cot": "Step 1: The long table with a striped table cloth is at [0.011, 0.000, 0.987, 0.988].\nStep 2: The Apple MacBook computer on the table is at [0.032, 0.220, 0.403, 0.312].\nStep 3: The computer is an Apple MacBook.",
+      "answer": "Yes",
+      "coordinate": "[0.032, 0.220, 0.403, 0.312]",
+      "qualified": true
+    },
+    {
+      "id": 990,
+      "img": "vg/VG_100K/2326294.jpg",
+      "question": "Is the bench on the tiled sidewalk next to the small road of a town made entirely of wood?",
+      "cot": "Step 1: The small road of a town is at [0.002, 0.186, 0.996, 0.566].\nStep 2: The tiled sidewalk next to the road is at [0.002, 0.485, 0.996, 0.503].\nStep 3: The bench on the sidewalk is at [0.162, 0.299, 0.692, 0.584].\nStep 4: The bench is made of wood and metal.",
+      "answer": "No",
+      "coordinate": "[0.162, 0.299, 0.692, 0.584]",
+      "qualified": true
+    },
+    {
+      "id": 991,
+      "img": "vg/VG_100K/2368956.jpg",
+      "question": "Is the gold-colored ring on the pink cake with berries on the white table?",
+      "cot": "Step 1: The white table is at [0.000, 0.510, 0.997, 0.486].\nStep 2: The pink cake with berries on the table is at [0.204, 0.330, 0.652, 0.604].\nStep 3: The gold-colored ring on the cake is at [0.315, 0.332, 0.399, 0.252].",
+      "answer": "Yes",
+      "coordinate": "[0.315, 0.332, 0.399, 0.252]",
+      "qualified": true
+    },
+    {
+      "id": 992,
+      "img": "vg/VG_100K/2363468.jpg",
+      "question": "Is the plastic fork on the red plate full of hashbrowns?",
+      "cot": "Step 1: The red plate full of hashbrowns is at [0.018, 0.020, 0.968, 0.974].\nStep 2: The plastic fork is on the plate at [0.692, 0.638, 0.304, 0.360].",
+      "answer": "Yes",
+      "coordinate": "[0.692, 0.638, 0.304, 0.360]",
+      "qualified": true
+    },
+    {
+      "id": 993,
+      "img": "vg/VG_100K/2368956.jpg",
+      "question": "Is the strawberry on the pink cake with berries red?",
+      "cot": "Step 1: The pink cake with berries is at [0.204, 0.330, 0.652, 0.604].\nStep 2: The strawberry on the cake is at [0.390, 0.400, 0.237, 0.186].\nStep 3: The color of the strawberry is red.",
+      "answer": "Yes",
+      "coordinate": "[0.390, 0.400, 0.237, 0.186]",
+      "qualified": true
+    },
+    {
+      "id": 995,
+      "img": "vg/VG_100K_2/2383197.jpg",
+      "question": "Is the dinner roll on the white plate on the brown food serving tray red?",
+      "cot": "Step 1: The brown food serving tray is at [0.004, 0.147, 0.994, 0.851]\nStep 2: The white plate on the brown tray is at [0.072, 0.176, 0.494, 0.464]\nStep 3: The dinner roll on the white plate is at [0.258, 0.424, 0.166, 0.200]\nStep 4: The color of the dinner roll is not specified.",
+      "answer": "No",
+      "coordinate": "[0.258, 0.424, 0.166, 0.200]",
+      "qualified": true
+    },
+    {
+      "id": 996,
+      "img": "vg/VG_100K_2/2386721.jpg",
+      "question": "Is the sheep near the black and white dog in the pasture with dry yellow grass white?",
+      "cot": "Step 1: The pasture with dry yellow grass is at [0.000, 0.018, 1.000, 0.976].\nStep 2: The black and white dog in the pasture is at [0.604, 0.580, 0.336, 0.288].\nStep 3: The sheep near the dog is at [0.054, 0.396, 0.462, 0.399].\nStep 4: The sheep is described as being on the left, but its color is not specified.",
+      "answer": "No",
+      "coordinate": "[0.054, 0.396, 0.462, 0.399]",
+      "qualified": true
+    },
+    {
+      "id": 998,
+      "img": "vg/VG_100K_2/2378167.jpg",
+      "question": "Is the hat on the person holding the red and green kite tan?",
+      "cot": "Step 1: The person holding the red and green kite is at [0.354, 0.246, 0.502, 0.722].\nStep 2: The tan colored floppy hat is on the person at [0.520, 0.260, 0.267, 0.146].\nStep 3: The color of the hat is tan.",
+      "answer": "Yes",
+      "coordinate": "[0.520, 0.260, 0.267, 0.146]",
+      "qualified": true
+    },
+    {
+      "id": 1008,
+      "img": "vg/VG_100K/2374885.jpg",
+      "question": "Is the dirt flooring in the building next to the black and white and brown cat sitting?",
+      "cot": "Step 1: The black and white and brown cat sitting is at [0.174, 0.151, 0.290, 0.648].\nStep 2: The dirt flooring in the building is at [0.444, 0.288, 0.320, 0.317].\nStep 3: The dirt flooring is next to the cat.",
+      "answer": "Yes",
+      "coordinate": "[0.444, 0.288, 0.320, 0.317]",
+      "qualified": true
+    },
+    {
+      "id": 1009,
+      "img": "vg/VG_100K_2/2393848.jpg",
+      "question": "Is the crust on the vegetable pizza with multiple toppings?",
+      "cot": "Step 1: The vegetable pizza with multiple toppings is at [0.002, 0.000, 0.998, 0.997].\nStep 2: The crust on the vegetable pizza is at [0.000, 0.043, 0.998, 0.952].\nStep 3: The crust is described as being on the vegetable pizza.",
+      "answer": "Yes",
+      "coordinate": "[0.000, 0.043, 0.998, 0.952]",
+      "qualified": true
+    },
+    {
+      "id": 1011,
+      "img": "vg/VG_100K/2349173.jpg",
+      "question": "Is the silver grate over the white toilet in the woods made of metal?",
+      "cot": "Step 1: The white toilet in the woods is at [0.283, 0.164, 0.445, 0.670]\nStep 2: The silver grate over the white toilet is at [0.349, 0.490, 0.379, 0.162]\nStep 3: The material of the grate is silver.",
+      "answer": "Yes",
+      "coordinate": "[0.349, 0.490, 0.379, 0.162]",
+      "qualified": true
+    },
+    {
+      "id": 1017,
+      "img": "vg/VG_100K/2355751.jpg",
+      "question": "Is the man wearing khaki pants next to the woman under the black umbrella on the floor?",
+      "cot": "Step 1: The black umbrella on the floor is at [0.014, 0.000, 0.492, 0.505].\nStep 2: The woman wearing a baseball cap under the umbrella is at [0.196, 0.321, 0.450, 0.676].\nStep 3: The man wearing khaki pants next to the woman is at [0.498, 0.192, 0.500, 0.805].\nStep 4: The man is next to the woman.",
+      "answer": "Yes",
+      "coordinate": "[0.498, 0.192, 0.500, 0.805]",
+      "qualified": true
+    },
+    {
+      "id": 1024,
+      "img": "vg/VG_100K/2342240.jpg",
+      "question": "Is the green garden hose spraying water on the elephant laying on the ground covered in palm fronds?",
+      "cot": "Step 1: The ground covered in palm fronds is at [0.000, 0.272, 1.000, 0.725].\nStep 2: The elephant laying on the ground is at [0.054, 0.133, 0.860, 0.739].\nStep 3: The green garden hose spraying water is at [0.808, 0.189, 0.190, 0.579].\nStep 4: The hose is spraying water on the elephant.",
+      "answer": "Yes",
+      "coordinate": "[0.808, 0.189, 0.190, 0.579]",
+      "qualified": true
+    },
+    {
+      "id": 1027,
+      "img": "vg/VG_100K_2/2391844.jpg",
+      "question": "Is the skateboard with red and yellow writing on a blue board next to the silver board with a colorful cartoon design?",
+      "cot": "Step 1: The white, yellow, and red design on a black skateboard is at [0.726, 0.000, 0.254, 0.515].\nStep 2: The silver board with a colorful cartoon design next to it is at [0.492, 0.000, 0.224, 0.483].\nStep 3: The skateboard with red and yellow writing on a blue board is next to the silver board at [0.232, 0.000, 0.252, 0.477].",
+      "answer": "Yes",
+      "coordinate": "[0.232, 0.000, 0.252, 0.477]",
+      "qualified": true
+    },
+    {
+      "id": 1037,
+      "img": "vg/VG_100K/2363728.jpg",
+      "question": "Is the breakfast on the white plate on the table red?",
+      "cot": "Step 1: The table is at [0.004, 0.000, 0.992, 0.992]\nStep 2: The white plate on the table is at [0.000, 0.003, 1.000, 0.992]\nStep 3: The breakfast on the white plate is at [0.006, 0.080, 0.960, 0.912]\nStep 4: The color of the breakfast is not specified.",
+      "answer": "No",
+      "coordinate": "[0.006, 0.080, 0.960, 0.912]",
+      "qualified": true
+    },
+    {
+      "id": 1046,
+      "img": "vg/VG_100K/2349865.jpg",
+      "question": "Are the blades of the scissors used to cut open the clear plastic container with an iPod inside made of metal?",
+      "cot": "Step 1: The clear plastic container with an iPod inside is at [0.156, 0.093, 0.596, 0.700].\nStep 2: The scissors with yellow handles used to cut open the container are at [0.564, 0.126, 0.430, 0.871].\nStep 3: The blades of the scissors are at [0.558, 0.108, 0.284, 0.565].\nStep 4: The blades are typically made of metal.",
+      "answer": "Yes",
+      "coordinate": "[0.558, 0.108, 0.284, 0.565]",
+      "qualified": true
+    },
+    {
+      "id": 1048,
+      "img": "vg/VG_100K_2/2407822.jpg",
+      "question": "Are the mushrooms on the pizza on the wooden cutting board red?",
+      "cot": "Step 1: The wooden cutting board is at [0.046, 0.120, 0.918, 0.878].\nStep 2: The pizza on the wooden cutting board is at [0.120, 0.066, 0.776, 0.916].\nStep 3: The mushrooms on the pizza are at [0.172, 0.135, 0.664, 0.776].\nStep 4: The color of the mushrooms is not specified.",
+      "answer": "No",
+      "coordinate": "[0.172, 0.135, 0.664, 0.776]",
+      "qualified": true
+    },
+    {
+      "id": 1051,
+      "img": "vg/VG_100K_2/2386236.jpg",
+      "question": "Is the rice on the round white plate filled with food covered in sauce?",
+      "cot": "Step 1: The round white plate filled with food is at [0.000, 0.093, 1.000, 0.866].\nStep 2: The rice on the plate is at [0.078, 0.355, 0.870, 0.591].\nStep 3: The rice is covered in sauce.",
+      "answer": "Yes",
+      "coordinate": "[0.078, 0.355, 0.870, 0.591]",
+      "qualified": true
+    },
+    {
+      "id": 1327,
+      "img": "vg/VG_100K/2368491.jpg",
+      "question": "Is the toothpick-like object in the sandwich on the wooden table under meal a toothpick?",
+      "cot": "Step 1: The wooden table under meal is at [0.000, 0.330, 0.998, 0.667].\nStep 2: The sandwich on the table is at [0.018, 0.300, 0.776, 0.652].\nStep 3: The toothpick-like object in the sandwich is at [0.366, 0.168, 0.122, 0.198].\nStep 4: The object is described as a toothpick-like object.",
+      "answer": "Yes",
+      "coordinate": "[0.366, 0.168, 0.122, 0.198]",
+      "qualified": true
+    },
+    {
+      "id": 1384,
+      "img": "vg/VG_100K/2370884.jpg",
+      "question": "Is the white bus with a colored pattern on the ground with hexagonal patterns outdoors?",
+      "cot": "Step 1: The ground with hexagonal patterns is at [0.008, 0.150, 0.988, 0.844].\nStep 2: The white bus with a colored pattern is at [0.006, 0.000, 0.862, 0.601].\nStep 3: The bus is on the ground.",
+      "answer": "Yes",
+      "coordinate": "[0.006, 0.000, 0.862, 0.601]",
+      "qualified": true
+    },
+    {
+      "id": 1394,
+      "img": "vg/VG_100K/2362611.jpg",
+      "question": "Is the grassy field behind the sign with black edging green?",
+      "cot": "Step 1: The sign with black edging is at [0.284, 0.226, 0.390, 0.480].\nStep 2: The grassy field behind the sign is at [0.046, 0.632, 0.928, 0.342].\nStep 3: The grassy field is described as grassy.",
+      "answer": "Yes",
+      "coordinate": "[0.046, 0.632, 0.928, 0.342]",
+      "qualified": true
+    },
+    {
+      "id": 1398,
+      "img": "vg/VG_100K/2348888.jpg",
+      "question": "Is the doughnut with white glaze and sprinkles on the paper bag on the red table a chocolate doughnut?",
+      "cot": "Step 1: The red table is at [0.004, 0.163, 0.994, 0.834].\nStep 2: The paper bag on the red table is at [0.074, 0.241, 0.922, 0.628].\nStep 3: The doughnut on the paper bag is at [0.484, 0.390, 0.340, 0.382].\nStep 4: The doughnut has white glaze and sprinkles.",
+      "answer": "No",
+      "coordinate": "[0.484, 0.390, 0.340, 0.382]",
+      "qualified": true
+    },
+    {
+      "id": 1959,
+      "img": "vg/VG_100K/2367352.jpg",
+      "question": "Is the tree behind the giraffe with a short brown mane green?",
+      "cot": "Step 1: The giraffe with a short brown mane is at [0.318, 0.108, 0.452, 0.892].\nStep 2: The tree behind the giraffe is at [0.696, 0.195, 0.302, 0.805].\nStep 3: The tree is described as green.",
+      "answer": "Yes",
+      "coordinate": "[0.696, 0.195, 0.302, 0.805]",
+      "qualified": true
+    },
+    {
+        "id": 59,
+        "img": "vg/VG_100K_2/2389988.jpg",
+        "question": "Is the perforation line part of the white paper towel?",
+        "cot": "Step 1: The white paper towel is at [0.000, 0.003, 0.998, 0.995].  \nStep 2: The perforation line is at [0.862, 0.752, 0.132, 0.245].  \nStep 3: The perforation line is part of the white paper towel.  ",
+        "answer": "Yes",
+        "coordinate": "[0.862, 0.752, 0.132, 0.245]",
+        "qualified": true
+    },
+    {
+        "id": 88,
+        "img": "vg/VG_100K/2355778.jpg",
+        "question": "Are the rusty tracks on top of rocks?",
+        "cot": "Step 1: The rusty tracks are at [0.102, 0.710, 0.898, 0.290].  \nStep 2: The rocks are at [0.120, 0.713, 0.880, 0.284].  \nStep 3: The tracks are on top of the rocks.  ",
+        "answer": "Yes",
+        "coordinate": "[0.120, 0.713, 0.880, 0.284]",
+        "qualified": true
+    },
+    {
+        "id": 107,
+        "img": "vg/VG_100K/2364481.jpg",
+        "question": "Is the grease streak on the white box that contains the large pizza being measured by the measuring tape?",
+        "cot": "Step 1: The measuring tape is at [0.000, 0.344, 0.950, 0.219]  \nStep 2: The large pizza in the white box is at [0.062, 0.027, 0.898, 0.968]  \nStep 3: The grease streak on the white box is at [0.896, 0.808, 0.102, 0.099]. ",
+        "answer": "Yes",
+        "coordinate": "[0.896, 0.808, 0.102, 0.099]",
+        "qualified": true
+    },
+    {
+        "id": 118,
+        "img": "vg/VG_100K/2342016.jpg",
+        "question": "Is the life jacket yellow?",
+        "cot": "Step 1: The red and black life jacket is at [0.358, 0.251, 0.208, 0.334]\nStep 2: The color of the life jacket is red and black.\nStep 3: Yellow is not mentioned or present.",
+        "answer": "No",
+        "coordinate": "[0.358, 0.251, 0.208, 0.334]",
+        "qualified": true
+    },
+    {
+        "id": 193,
+        "img": "vg/VG_100K/2336037.jpg",
+        "question": "Is the spoon laying on the napkin silver?",
+        "cot": "Step 1: The white decorative napkin sitting on the table is at [0.010, 0.004, 0.984, 0.990]\nStep 2: The white napkin beneath the donut is at [0.000, 0.074, 0.980, 0.922]\nStep 3: The spoon laying on the napkin is at [0.162, 0.116, 0.550, 0.124]\nStep 4: The color of the spoon is silver.",
+        "answer": "Yes",
+        "coordinate": "[0.162, 0.116, 0.550, 0.124]",
+        "qualified": true
+    },
+    {
+        "id": 245,
+        "img": "vg/VG_100K/2374846.jpg",
+        "question": "Is the donut held by the girl next to the woman behind the hedge red?",
+        "cot": "Step 1: The green hedge is at [0.006, 0.000, 0.921, 0.402]\nStep 2: The woman sitting with a child in front of the hedge is at [0.006, 0.174, 0.991, 0.824]\nStep 3: The girl holding a donut next to the woman is at [0.269, 0.354, 0.728, 0.644]\nStep 4: The donut held by the girl is at [0.335, 0.668, 0.254, 0.212]\nStep 5: The color of the donut is not specified.",
+        "answer": "No",
+        "coordinate": "[0.335, 0.668, 0.254, 0.212]",
+        "qualified": true
+    },
+    {
+        "id": 306,
+        "img": "vg/VG_100K_2/2411439.jpg",
+        "question": "Is the left panel of the mirror supported by the round wood table next to the square bathtub present?",
+        "cot": "Step 1: The square bathtub is at [0.484, 0.741, 0.514, 0.253]\nStep 2: The round wood table next to it is at [0.238, 0.738, 0.254, 0.256]\nStep 3: The mirror supported by the table is at [0.056, 0.105, 0.640, 0.699]\nStep 4: The left panel of the mirror is at [0.058, 0.111, 0.190, 0.690]\nStep 5: The panel exists.",
+        "answer": "Yes",
+        "coordinate": "[0.058, 0.111, 0.190, 0.690]",
+        "qualified": true
+    },
+    {
+        "id": 309,
+        "img": "vg/VG_100K_2/2391601.jpg",
+        "question": "Is the sky behind the cityscape brightened by all the skyscraper and business district lights?",
+        "cot": "Step 1: The cityscape is at [0.004, 0.013, 0.994, 0.483].  \nStep 2: The sky with a reddish-brown color is at [0.000, 0.003, 0.998, 0.448].  \nStep 3: The caption states the sky is brightened and colored by all the skyscraper and business district lights.  ",
+        "answer": "Yes",
+        "coordinate": "[0.000, 0.003, 0.998, 0.448]",
+        "qualified": true
+    },
+    {
+        "id": 317,
+        "img": "vg/VG_100K_2/2412890.jpg",
+        "question": "Is the frame of the mirror above the white sink?",
+        "cot": "Step 1: The white sink is at [0.078, 0.523, 0.440, 0.453]\nStep 2: The frame trimmed in wood is at [0.060, 0.003, 0.460, 0.296]\nStep 3: The sink is below the mirror and its frame.",
+        "answer": "Yes",
+        "coordinate": "[0.060, 0.003, 0.460, 0.296]",
+        "qualified": true
+    },
+    {
+        "id": 354,
+        "img": "vg/VG_100K/2376538.jpg",
+        "question": "Is the object that the polar bear is trying to catch a red and black thing?",
+        "cot": "Step 1: The polar bear is at [0.284, 0.291, 0.714, 0.501]  \nStep 2: The object the polar bear is trying to catch is the water bottle at [0.188, 0.624, 0.164, 0.120].  \nStep 3: The color of the object is red and black.  ",
+        "answer": "Yes",
+        "coordinate": "[0.188, 0.624, 0.164, 0.120]",
+        "qualified": true
+    },
+    {
+        "id": 391,
+        "img": "vg/VG_100K/2376538.jpg",
+        "question": "Is the object that the polar bear is trying to catch a blue pen?",
+        "cot": "Step 1: The polar bear is at [0.284, 0.291, 0.714, 0.501]  \nStep 2: The object the polar bear is trying to catch is the red and black water bottle at [0.188, 0.624, 0.164, 0.120].  \nStep 3: The color of the object is red and black.  ",
+        "answer": "No",
+        "coordinate": "[0.188, 0.624, 0.164, 0.120]",
+        "qualified": true
+    },
+    {
+        "id": 420,
+        "img": "vg/VG_100K/2329862.jpg",
+        "question": "Is the mirror on the wall reflecting a man?",
+        "cot": "Step 1: The mirror is at [0.268, 0.003, 0.712, 0.985]\nStep 2: The wall is at [0.244, 0.012, 0.752, 0.961]\nStep 3: The reflection in the mirror shows a man with black hair and a tie.",
+        "answer": "Yes",
+        "coordinate": "[0.244, 0.012, 0.752, 0.961]",
+        "qualified": true
+    },
+    {
+        "id": 423,
+        "img": "vg/VG_100K/2373368.jpg",
+        "question": "Is the court where the woman plays tennis made of red clay?",
+        "cot": "Step 1: The woman playing tennis is at [0.264, 0.156, 0.646, 0.787]\nStep 2: The court beneath her is at [0.002, 0.003, 0.996, 0.994]\nStep 3: The caption describes the tennis court as having red clay.",
+        "answer": "Yes",
+        "coordinate": "[0.002, 0.003, 0.996, 0.994]",
+        "qualified": true
+    },
+    {
+        "id": 430,
+        "img": "vg/VG_100K_2/2382393.jpg",
+        "question": "Is the white porcelain plate on top of the table?",
+        "cot": "Step 1: The plate is at [0.002, 0.077, 0.996, 0.920]\nStep 2: The table is at [0.000, 0.091, 1.000, 0.904]\nStep 3: The plate is on top of the table.",
+        "answer": "Yes",
+        "coordinate": "[0.000, 0.091, 1.000, 0.904]",
+        "qualified": true
+    },
+    {
+        "id": 474,
+        "img": "vg/VG_100K_2/2409089.jpg",
+        "question": "Is the cheese on the square white plate with food next to the orange carrots?",
+        "cot": "Step 1: The square white plate is at [0.107, 0.396, 0.869, 0.544]\nStep 2: The orange carrots are at [0.406, 0.433, 0.430, 0.227]\nStep 3: The cheese cubes on the plate are at [0.614, 0.636, 0.265, 0.231]\nStep 4: The cheese is white.",
+        "answer": "Yes",
+        "coordinate": "[0.614, 0.636, 0.265, 0.231]",
+        "qualified": true
+    }
+]
